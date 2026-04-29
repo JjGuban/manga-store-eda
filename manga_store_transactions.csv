@@ -1,0 +1,1201 @@
+transaction_id,date,customer_id,customer_name,manga_title,genre,volume_number,publisher,condition,unit_price,quantity,total_amount,payment_method,purchase_type
+TXN-00001,2025-10-30,CUST-018,Harper Jimenez,Fruits Basket,Romance,8,Hakusensha,New,510.33,5,2551.65,Cash,In-Store
+TXN-00002,2025-08-03,CUST-014,Amelia Vasquez,One Piece,Action,8,Shueisha,New,134.06,2,268.12,Debit Card,Online
+TXN-00003,2025-03-21,CUST-001,Liam Santos,Future Diary,Thriller,25,Kadokawa,Used,294.01,3,882.03,Maya,Online
+TXN-00004,2026-02-18,CUST-006,Sophia Mendoza,Chi's Sweet Home,Slice of Life,13,Kodansha,New,569.17,5,2845.85,Maya,Online
+TXN-00005,2025-10-23,CUST-008,Isabella Lopez,Prince of Tennis,Sports,30,Shueisha,New,412.58,5,2062.9,Maya,Online
+TXN-00006,2025-07-14,CUST-015,Logan Morales,Fruits Basket,Romance,25,Hakusensha,New,162.29,2,324.58,Cash,Online
+TXN-00007,2025-11-22,CUST-024,Emily Vargas,March Comes in Like a Lion,Slice of Life,12,Hakusensha,New,261.5,1,261.5,Debit Card,Online
+TXN-00008,2025-12-17,CUST-030,Chloe Silva,Neon Genesis Evangelion,Sci-Fi,13,Kadokawa,New,610.46,5,3052.3,GCash,Online
+TXN-00009,2026-03-25,CUST-003,Noah Cruz,Demon Slayer,Action,26,Shueisha,New,261.9,2,523.8,Debit Card,In-Store
+TXN-00010,2025-05-07,CUST-026,Elizabeth Gutierrez,Battle Angel Alita,Sci-Fi,29,Shueisha,Used,217.91,3,653.73,GCash,In-Store
+TXN-00011,2025-09-18,CUST-038,Lillian Reyes,Kindaichi Case Files,Mystery,14,Kodansha,Used,199.01,2,398.02,GCash,In-Store
+TXN-00012,2025-07-17,CUST-010,Mia Gonzalez,One Piece,Action,21,Shueisha,New,480.66,5,2403.3,Cash,Online
+TXN-00013,2026-01-20,CUST-017,James Castillo,Prince of Tennis,Sports,18,Shueisha,Used,75.65,1,75.65,Debit Card,Online
+TXN-00014,2026-01-26,CUST-019,Benjamin Ortega,Chi's Sweet Home,Slice of Life,14,Kodansha,New,121.72,3,365.16,Debit Card,Online
+TXN-00015,2026-02-03,CUST-033,Samuel Castro,Your Lie in April,Romance,20,Kodansha,New,318.17,2,636.34,Debit Card,In-Store
+TXN-00016,2025-01-30,CUST-021,Alexander Herrera,My Hero Academia,Action,16,Shueisha,New,612.42,3,1837.26,GCash,Online
+TXN-00017,2025-03-07,CUST-006,Sophia Mendoza,Spy x Family,Thriller,24,Shueisha,New,156.68,5,783.4,GCash,In-Store
+TXN-00018,2026-01-22,CUST-017,James Castillo,Monster,Mystery,17,Shogakukan,Used,206.56,2,413.12,Debit Card,In-Store
+TXN-00019,2025-03-03,CUST-026,Elizabeth Gutierrez,Blame!,Sci-Fi,22,Kodansha,New,352.19,5,1760.95,Credit Card,Online
+TXN-00020,2025-12-29,CUST-002,Emma Reyes,Toradora,Romance,19,ASCII Media Works,New,431.87,1,431.87,Cash,In-Store
+TXN-00021,2025-04-20,CUST-003,Noah Cruz,Ghost in the Shell,Sci-Fi,28,Kodansha,New,392.5,3,1177.5,Credit Card,In-Store
+TXN-00022,2025-02-19,CUST-031,Matthew Perez,Dungeon Meshi,Thriller,8,Kadokawa,Used,328.78,2,657.56,Cash,In-Store
+TXN-00023,2025-07-26,CUST-027,Sebastian Alvarez,Silver Spoon,Slice of Life,15,Shogakukan,Used,89.23,1,89.23,Cash,In-Store
+TXN-00024,2025-08-25,CUST-013,Elijah Navarro,Ao Haru Ride,Romance,7,Shueisha,New,194.3,2,388.6,Maya,Online
+TXN-00025,2026-04-20,CUST-036,Zoe Moreno,Lovely Complex,Romance,4,Shueisha,New,649.62,1,649.62,Cash,In-Store
+TXN-00026,2025-07-14,CUST-027,Sebastian Alvarez,Neon Genesis Evangelion,Sci-Fi,16,Kadokawa,New,578.26,1,578.26,GCash,Online
+TXN-00027,2025-03-21,CUST-030,Chloe Silva,Konosuba,Comedy,10,Kadokawa,New,627.38,5,3136.9,Credit Card,Online
+TXN-00028,2025-10-27,CUST-038,Lillian Reyes,Akira,Sci-Fi,24,Kodansha,New,516.43,1,516.43,Cash,In-Store
+TXN-00029,2025-12-12,CUST-004,Olivia Dela Cruz,Monster,Mystery,17,Shogakukan,New,218.49,5,1092.45,Cash,In-Store
+TXN-00030,2025-12-03,CUST-037,Joseph Gomez,Cromartie High School,Comedy,8,Kodansha,New,141.06,1,141.06,Credit Card,In-Store
+TXN-00031,2025-03-09,CUST-017,James Castillo,Detective Conan,Mystery,7,Shogakukan,New,286.52,3,859.56,Credit Card,In-Store
+TXN-00032,2025-10-16,CUST-021,Alexander Herrera,Sword Art Online,Fantasy,30,Kadokawa,Used,95.07,4,380.28,Debit Card,In-Store
+TXN-00033,2025-07-09,CUST-014,Amelia Vasquez,Skip Beat,Romance,17,Hakusensha,New,614.63,1,614.63,GCash,Online
+TXN-00034,2025-12-08,CUST-020,Evelyn Aguirre,Prince of Tennis,Sports,20,Shueisha,Used,328.66,5,1643.3,Cash,In-Store
+TXN-00035,2025-05-20,CUST-009,Lucas Ramos,Vinland Saga,Fantasy,9,Kodansha,New,176.73,5,883.65,GCash,Online
+TXN-00036,2026-04-09,CUST-014,Amelia Vasquez,Knights of Sidonia,Sci-Fi,22,Kodansha,New,259.91,4,1039.64,Maya,In-Store
+TXN-00037,2025-03-24,CUST-028,Sofia Molina,One Piece,Action,27,Shueisha,New,121.88,2,243.76,Maya,In-Store
+TXN-00038,2025-01-19,CUST-036,Zoe Moreno,Moriarty the Patriot,Mystery,1,Shueisha,New,620.88,2,1241.76,Debit Card,In-Store
+TXN-00039,2025-04-18,CUST-010,Mia Gonzalez,Bastard!!,Thriller,14,Shueisha,New,283.38,1,283.38,Maya,In-Store
+TXN-00040,2026-03-19,CUST-036,Zoe Moreno,Toradora,Romance,29,ASCII Media Works,Used,381.68,2,763.36,GCash,Online
+TXN-00041,2025-05-17,CUST-002,Emma Reyes,Blood+,Horror,6,Sony,Used,177.64,4,710.56,GCash,Online
+TXN-00042,2025-06-06,CUST-003,Noah Cruz,Clannad,Romance,28,Key/VisualArts,New,225.77,4,903.08,Maya,In-Store
+TXN-00043,2025-06-29,CUST-002,Emma Reyes,Pluto,Sci-Fi,22,Shogakukan,New,293.98,1,293.98,Maya,In-Store
+TXN-00044,2025-05-16,CUST-022,Abigail Diaz,D-Frag!,Comedy,1,Kadokawa,New,634.31,2,1268.62,Debit Card,Online
+TXN-00045,2025-07-17,CUST-023,Henry Medina,Biomega,Thriller,24,Shueisha,Used,210.77,5,1053.85,Cash,In-Store
+TXN-00046,2025-07-06,CUST-003,Noah Cruz,Blame!,Sci-Fi,23,Kodansha,New,395.56,5,1977.8,GCash,In-Store
+TXN-00047,2025-06-08,CUST-021,Alexander Herrera,Nana,Slice of Life,22,Shueisha,Used,300.88,3,902.64,Debit Card,In-Store
+TXN-00048,2025-11-12,CUST-019,Benjamin Ortega,Silver Spoon,Slice of Life,18,Shogakukan,New,342.84,4,1371.36,GCash,In-Store
+TXN-00049,2025-12-02,CUST-001,Liam Santos,D-Frag!,Comedy,10,Kadokawa,New,347.84,5,1739.2,Debit Card,Online
+TXN-00050,2025-05-26,CUST-014,Amelia Vasquez,Daiya no Ace,Sports,17,Kodansha,New,597.63,2,1195.26,Cash,In-Store
+TXN-00051,2026-02-17,CUST-006,Sophia Mendoza,Eden: It's an Endless World!,Thriller,27,Shogakukan,Used,146.69,3,440.07,GCash,Online
+TXN-00052,2026-03-30,CUST-016,Ava Rivera,Naruto,Action,16,Shueisha,New,527.3,4,2109.2,Credit Card,In-Store
+TXN-00053,2026-02-03,CUST-032,Victoria Torres,Gantz,Sci-Fi,13,Shueisha,New,467.71,1,467.71,Cash,In-Store
+TXN-00054,2025-03-10,CUST-030,Chloe Silva,Battle Royale,Horror,2,Akita Shoten,New,606.26,1,606.26,Credit Card,In-Store
+TXN-00055,2025-08-07,CUST-039,Owen Nunez,91 Days,Mystery,11,Shogakukan,Used,355.48,5,1777.4,Debit Card,In-Store
+TXN-00056,2026-01-28,CUST-011,Mason Torres,Vanitas no Carte,Mystery,24,Square Enix,Used,215.12,2,430.24,Maya,In-Store
+TXN-00057,2025-06-13,CUST-018,Harper Jimenez,Eyeshield 21,Sports,15,Shueisha,New,271.44,3,814.32,Maya,In-Store
+TXN-00058,2025-08-01,CUST-010,Mia Gonzalez,Horimiya,Romance,8,Square Enix,New,200.99,2,401.98,Cash,In-Store
+TXN-00059,2026-03-15,CUST-027,Sebastian Alvarez,Vanitas no Carte,Mystery,2,Square Enix,New,342.68,5,1713.4,Cash,In-Store
+TXN-00060,2025-10-03,CUST-031,Matthew Perez,Biomega,Thriller,1,Shueisha,Used,166.96,4,667.84,Credit Card,In-Store
+TXN-00061,2025-06-22,CUST-015,Logan Morales,ID: Invaded,Mystery,16,Kadokawa,New,350.99,1,350.99,Credit Card,In-Store
+TXN-00062,2025-10-31,CUST-030,Chloe Silva,Daily Lives of High School Boys,Comedy,30,Square Enix,New,449.8,1,449.8,Credit Card,In-Store
+TXN-00063,2025-06-17,CUST-028,Sofia Molina,One Piece,Action,5,Shueisha,Used,129.79,3,389.37,Credit Card,Online
+TXN-00064,2025-08-29,CUST-025,Jackson Romero,Barakamon,Slice of Life,9,Square Enix,Used,336.55,3,1009.65,Cash,Online
+TXN-00065,2025-05-07,CUST-023,Henry Medina,Death Note,Mystery,8,Shueisha,New,534.05,1,534.05,Cash,Online
+TXN-00066,2025-08-27,CUST-010,Mia Gonzalez,My Hero Academia,Action,8,Shueisha,New,474.81,5,2374.05,GCash,In-Store
+TXN-00067,2025-02-25,CUST-039,Owen Nunez,March Comes in Like a Lion,Slice of Life,20,Hakusensha,Used,300.44,2,600.88,Maya,In-Store
+TXN-00068,2025-02-22,CUST-025,Jackson Romero,No Game No Life,Fantasy,13,Media Factory,Used,135.07,5,675.35,GCash,In-Store
+TXN-00069,2025-08-08,CUST-008,Isabella Lopez,No Game No Life,Fantasy,26,Media Factory,Used,320.88,3,962.64,Debit Card,In-Store
+TXN-00070,2025-07-05,CUST-022,Abigail Diaz,Skip Beat,Romance,1,Hakusensha,Used,333.5,1,333.5,Credit Card,In-Store
+TXN-00071,2026-02-18,CUST-028,Sofia Molina,Slam Dunk,Sports,6,Shueisha,Used,379.02,3,1137.06,Debit Card,In-Store
+TXN-00072,2025-05-23,CUST-028,Sofia Molina,Daiya no Ace,Sports,27,Kodansha,Used,157.35,2,314.7,Cash,In-Store
+TXN-00073,2025-04-04,CUST-037,Joseph Gomez,Battle Angel Alita,Sci-Fi,20,Shueisha,New,298.29,4,1193.16,Maya,In-Store
+TXN-00074,2025-01-06,CUST-022,Abigail Diaz,K-On!,Slice of Life,9,Houbunsha,Used,294.98,3,884.94,Debit Card,In-Store
+TXN-00075,2025-11-27,CUST-016,Ava Rivera,Ghost in the Shell,Sci-Fi,24,Kodansha,New,414.24,2,828.48,Credit Card,In-Store
+TXN-00076,2025-07-08,CUST-006,Sophia Mendoza,Haikyuu!!,Sports,10,Shueisha,New,486.65,3,1459.95,Debit Card,In-Store
+TXN-00077,2025-06-06,CUST-028,Sofia Molina,Detective Conan,Mystery,24,Shogakukan,New,306.46,4,1225.84,Maya,Online
+TXN-00078,2025-04-21,CUST-021,Alexander Herrera,Ao Haru Ride,Romance,4,Shueisha,Used,374.38,2,748.76,GCash,In-Store
+TXN-00079,2025-04-27,CUST-034,Penelope Rojas,No Game No Life,Fantasy,20,Media Factory,New,173.28,2,346.56,Maya,Online
+TXN-00080,2025-12-24,CUST-035,David Salazar,Fullmetal Alchemist,Fantasy,5,Square Enix,New,636.38,5,3181.9,Maya,In-Store
+TXN-00081,2025-01-27,CUST-001,Liam Santos,Kuroko's Basketball,Sports,19,Shueisha,New,373.72,3,1121.16,GCash,Online
+TXN-00082,2025-03-18,CUST-005,Ethan Garcia,Kuroko's Basketball,Sports,13,Shueisha,New,425.82,1,425.82,GCash,In-Store
+TXN-00083,2025-04-26,CUST-016,Ava Rivera,Vinland Saga,Fantasy,4,Kodansha,New,340.57,5,1702.85,Debit Card,In-Store
+TXN-00084,2025-11-14,CUST-029,Aiden Ruiz,Nichijou,Comedy,10,Kadokawa,Used,386.83,3,1160.49,Debit Card,Online
+TXN-00085,2025-02-08,CUST-014,Amelia Vasquez,Ao Haru Ride,Romance,9,Shueisha,New,203.24,2,406.48,Debit Card,Online
+TXN-00086,2025-02-06,CUST-039,Owen Nunez,Nichijou,Comedy,16,Kadokawa,New,242.68,3,728.04,Credit Card,In-Store
+TXN-00087,2026-02-28,CUST-013,Elijah Navarro,No Game No Life,Fantasy,14,Media Factory,New,239.15,2,478.3,Maya,Online
+TXN-00088,2025-03-05,CUST-020,Evelyn Aguirre,Dragon Ball Z,Action,20,Shueisha,Used,253.01,3,759.03,Credit Card,In-Store
+TXN-00089,2026-04-01,CUST-018,Harper Jimenez,That Time I Got Reincarnated,Fantasy,17,Kodansha,New,352.01,5,1760.05,Cash,In-Store
+TXN-00090,2025-01-11,CUST-017,James Castillo,Nana,Slice of Life,1,Shueisha,New,629.81,5,3149.05,Debit Card,In-Store
+TXN-00091,2025-04-03,CUST-003,Noah Cruz,No Game No Life,Fantasy,25,Media Factory,Used,221.62,4,886.48,Maya,In-Store
+TXN-00092,2025-06-18,CUST-006,Sophia Mendoza,Nichijou,Comedy,16,Kadokawa,New,296.65,1,296.65,GCash,In-Store
+TXN-00093,2025-05-10,CUST-026,Elizabeth Gutierrez,Captain Tsubasa,Sports,27,Shueisha,Used,83.67,1,83.67,Maya,Online
+TXN-00094,2025-09-23,CUST-001,Liam Santos,D-Frag!,Comedy,22,Kadokawa,Used,218.91,1,218.91,GCash,Online
+TXN-00095,2026-03-27,CUST-004,Olivia Dela Cruz,Daiya no Ace,Sports,7,Kodansha,New,189.44,3,568.32,Credit Card,In-Store
+TXN-00096,2025-10-10,CUST-039,Owen Nunez,Fruits Basket,Romance,26,Hakusensha,New,203.94,5,1019.7,Cash,In-Store
+TXN-00097,2025-12-28,CUST-030,Chloe Silva,Ghost in the Shell,Sci-Fi,4,Kodansha,New,201.6,3,604.8,Debit Card,Online
+TXN-00098,2026-01-18,CUST-016,Ava Rivera,Daiya no Ace,Sports,15,Kodansha,New,323.3,5,1616.5,Debit Card,In-Store
+TXN-00099,2026-01-07,CUST-027,Sebastian Alvarez,Your Lie in April,Romance,11,Kodansha,Used,233.46,1,233.46,Maya,Online
+TXN-00100,2025-10-10,CUST-032,Victoria Torres,Dungeon Meshi,Thriller,28,Kadokawa,New,405.45,3,1216.35,Maya,In-Store
+TXN-00101,2025-04-30,CUST-021,Alexander Herrera,Nichijou,Comedy,28,Kadokawa,New,489.67,5,2448.35,Credit Card,In-Store
+TXN-00102,2025-12-06,CUST-021,Alexander Herrera,Gintama,Comedy,24,Shueisha,New,604.12,4,2416.48,Credit Card,In-Store
+TXN-00103,2025-02-21,CUST-003,Noah Cruz,Uzumaki,Horror,5,Shogakukan,New,432.8,1,432.8,Credit Card,In-Store
+TXN-00104,2026-02-05,CUST-010,Mia Gonzalez,Haikyuu!!,Sports,14,Shueisha,Used,380.45,1,380.45,Credit Card,In-Store
+TXN-00105,2025-06-12,CUST-026,Elizabeth Gutierrez,Nana,Slice of Life,21,Shueisha,New,294.14,5,1470.7,Credit Card,In-Store
+TXN-00106,2026-01-18,CUST-003,Noah Cruz,Prince of Tennis,Sports,20,Shueisha,New,454.52,3,1363.56,GCash,Online
+TXN-00107,2026-02-12,CUST-029,Aiden Ruiz,Kaguya-sama,Romance,6,Shueisha,New,598.81,1,598.81,Maya,Online
+TXN-00108,2025-03-31,CUST-028,Sofia Molina,Barakamon,Slice of Life,5,Square Enix,New,338.39,2,676.78,GCash,Online
+TXN-00109,2025-08-24,CUST-016,Ava Rivera,Gekkan Shoujo Nozaki-kun,Comedy,16,Square Enix,Used,117.51,4,470.04,Maya,Online
+TXN-00110,2025-06-03,CUST-019,Benjamin Ortega,Fairy Tail,Action,22,Kodansha,New,159.15,3,477.45,Debit Card,In-Store
+TXN-00111,2025-05-02,CUST-030,Chloe Silva,Konosuba,Comedy,28,Kadokawa,New,649.67,4,2598.68,Cash,Online
+TXN-00112,2025-01-05,CUST-019,Benjamin Ortega,Nana,Slice of Life,23,Shueisha,New,638.31,4,2553.24,Maya,In-Store
+TXN-00113,2026-02-15,CUST-032,Victoria Torres,My Hero Academia,Action,27,Shueisha,Used,163.01,2,326.02,Debit Card,Online
+TXN-00114,2026-04-08,CUST-017,James Castillo,20th Century Boys,Sci-Fi,22,Shogakukan,Used,316.06,2,632.12,Cash,In-Store
+TXN-00115,2025-06-17,CUST-029,Aiden Ruiz,Jujutsu Kaisen,Action,2,Shueisha,New,508.15,1,508.15,Maya,In-Store
+TXN-00116,2026-04-13,CUST-009,Lucas Ramos,Junji Ito Collection,Horror,26,Shogakukan,New,634.89,5,3174.45,Debit Card,Online
+TXN-00117,2025-02-08,CUST-031,Matthew Perez,Parasyte,Horror,26,Kodansha,New,581.31,1,581.31,Credit Card,Online
+TXN-00118,2025-03-05,CUST-036,Zoe Moreno,Gantz,Sci-Fi,12,Shueisha,New,329.12,3,987.36,Debit Card,In-Store
+TXN-00119,2025-01-13,CUST-025,Jackson Romero,No Game No Life,Fantasy,27,Media Factory,New,316.88,2,633.76,Credit Card,In-Store
+TXN-00120,2025-11-29,CUST-040,Hannah Serrano,Detective Conan,Mystery,8,Shogakukan,New,456.76,4,1827.04,Maya,In-Store
+TXN-00121,2025-03-11,CUST-003,Noah Cruz,Tokyo Ghoul,Horror,10,Shueisha,Used,108.92,2,217.84,Debit Card,Online
+TXN-00122,2026-03-03,CUST-027,Sebastian Alvarez,Aria,Slice of Life,19,Mag Garden,Used,121.14,4,484.56,Cash,In-Store
+TXN-00123,2025-02-20,CUST-003,Noah Cruz,Konosuba,Comedy,23,Kadokawa,New,354.99,2,709.98,Maya,In-Store
+TXN-00124,2025-02-16,CUST-023,Henry Medina,Aria,Slice of Life,2,Mag Garden,New,220.6,1,220.6,Credit Card,In-Store
+TXN-00125,2025-02-05,CUST-004,Olivia Dela Cruz,Attack on Titan,Thriller,26,Kodansha,New,644.08,5,3220.4,GCash,In-Store
+TXN-00126,2025-01-02,CUST-038,Lillian Reyes,Q.E.D.,Mystery,7,Kodansha,Used,146.09,2,292.18,Debit Card,Online
+TXN-00127,2025-01-08,CUST-035,David Salazar,Berserk,Horror,9,Hakusensha,Used,106.96,1,106.96,GCash,Online
+TXN-00128,2025-02-28,CUST-021,Alexander Herrera,20th Century Boys,Sci-Fi,1,Shogakukan,New,147.77,4,591.08,Debit Card,In-Store
+TXN-00129,2025-01-23,CUST-024,Emily Vargas,Daiya no Ace,Sports,17,Kodansha,New,359.56,2,719.12,Debit Card,In-Store
+TXN-00130,2025-08-07,CUST-030,Chloe Silva,Kindaichi Case Files,Mystery,21,Kodansha,Used,91.34,4,365.36,Credit Card,In-Store
+TXN-00131,2025-05-21,CUST-005,Ethan Garcia,Daiya no Ace,Sports,29,Kodansha,New,442.4,1,442.4,GCash,In-Store
+TXN-00132,2025-11-06,CUST-021,Alexander Herrera,Bastard!!,Thriller,13,Shueisha,Used,240.72,4,962.88,Debit Card,In-Store
+TXN-00133,2025-07-24,CUST-014,Amelia Vasquez,Skip Beat,Romance,14,Hakusensha,New,241.1,3,723.3,Credit Card,In-Store
+TXN-00134,2025-02-04,CUST-028,Sofia Molina,Toradora,Romance,11,ASCII Media Works,New,318.38,2,636.76,Credit Card,Online
+TXN-00135,2025-01-31,CUST-028,Sofia Molina,Kaguya-sama,Romance,4,Shueisha,Used,190.5,2,381.0,Debit Card,In-Store
+TXN-00136,2025-05-28,CUST-022,Abigail Diaz,91 Days,Mystery,22,Shogakukan,New,307.41,4,1229.64,Cash,In-Store
+TXN-00137,2025-06-29,CUST-037,Joseph Gomez,Chi's Sweet Home,Slice of Life,17,Kodansha,New,468.07,2,936.14,Cash,In-Store
+TXN-00138,2025-11-11,CUST-018,Harper Jimenez,Chi's Sweet Home,Slice of Life,19,Kodansha,New,347.43,5,1737.15,Debit Card,In-Store
+TXN-00139,2025-05-20,CUST-039,Owen Nunez,Death Note,Mystery,30,Shueisha,New,487.54,1,487.54,GCash,In-Store
+TXN-00140,2025-03-14,CUST-023,Henry Medina,Re:Zero,Fantasy,1,Kadokawa,New,195.92,4,783.68,Cash,In-Store
+TXN-00141,2025-06-09,CUST-034,Penelope Rojas,One Piece,Action,7,Shueisha,New,360.43,2,720.86,Maya,In-Store
+TXN-00142,2025-12-12,CUST-006,Sophia Mendoza,Dungeon Meshi,Thriller,29,Kadokawa,New,203.43,5,1017.15,Cash,Online
+TXN-00143,2025-06-26,CUST-032,Victoria Torres,Yowamushi Pedal,Sports,20,Akita Shoten,New,264.78,5,1323.9,Cash,In-Store
+TXN-00144,2025-01-29,CUST-032,Victoria Torres,No Game No Life,Fantasy,17,Media Factory,New,144.07,4,576.28,Debit Card,Online
+TXN-00145,2026-01-18,CUST-009,Lucas Ramos,Made in Abyss,Fantasy,25,Takeshobo,New,293.9,1,293.9,Credit Card,In-Store
+TXN-00146,2025-07-23,CUST-035,David Salazar,Blood+,Horror,23,Sony,New,416.12,3,1248.36,Cash,In-Store
+TXN-00147,2025-10-21,CUST-002,Emma Reyes,Bleach,Action,15,Shueisha,Used,346.15,5,1730.75,Credit Card,In-Store
+TXN-00148,2026-03-02,CUST-008,Isabella Lopez,Konosuba,Comedy,13,Kadokawa,New,292.13,5,1460.65,Credit Card,In-Store
+TXN-00149,2025-02-10,CUST-028,Sofia Molina,Chi's Sweet Home,Slice of Life,28,Kodansha,New,350.91,4,1403.64,Debit Card,Online
+TXN-00150,2025-09-19,CUST-015,Logan Morales,Re:Zero,Fantasy,11,Kadokawa,Used,96.29,1,96.29,Debit Card,Online
+TXN-00151,2025-03-20,CUST-010,Mia Gonzalez,Barakamon,Slice of Life,8,Square Enix,New,255.66,2,511.32,Debit Card,In-Store
+TXN-00152,2025-11-26,CUST-032,Victoria Torres,Horimiya,Romance,15,Square Enix,Used,313.64,4,1254.56,Debit Card,In-Store
+TXN-00153,2025-10-30,CUST-021,Alexander Herrera,Eden: It's an Endless World!,Thriller,5,Shogakukan,New,368.53,3,1105.59,Maya,Online
+TXN-00154,2025-11-27,CUST-020,Evelyn Aguirre,The Promised Neverland,Mystery,15,Shueisha,New,150.15,3,450.45,Cash,In-Store
+TXN-00155,2026-04-11,CUST-039,Owen Nunez,Nisekoi,Romance,17,Shueisha,New,427.57,1,427.57,Credit Card,In-Store
+TXN-00156,2026-02-20,CUST-039,Owen Nunez,Knights of Sidonia,Sci-Fi,16,Kodansha,New,627.59,4,2510.36,Cash,In-Store
+TXN-00157,2025-09-26,CUST-033,Samuel Castro,Chi's Sweet Home,Slice of Life,21,Kodansha,New,251.3,4,1005.2,Credit Card,In-Store
+TXN-00158,2025-01-27,CUST-024,Emily Vargas,Devilman Crybaby,Horror,30,Kodansha,New,336.65,3,1009.95,Debit Card,In-Store
+TXN-00159,2026-03-24,CUST-022,Abigail Diaz,Chi's Sweet Home,Slice of Life,4,Kodansha,New,324.88,3,974.64,Debit Card,Online
+TXN-00160,2025-11-01,CUST-010,Mia Gonzalez,Nisekoi,Romance,30,Shueisha,New,632.88,4,2531.52,GCash,In-Store
+TXN-00161,2025-02-17,CUST-036,Zoe Moreno,Your Lie in April,Romance,13,Kodansha,New,294.09,2,588.18,Debit Card,In-Store
+TXN-00162,2026-01-28,CUST-024,Emily Vargas,D-Frag!,Comedy,1,Kadokawa,New,215.54,2,431.08,Maya,In-Store
+TXN-00163,2026-03-04,CUST-010,Mia Gonzalez,Neon Genesis Evangelion,Sci-Fi,3,Kadokawa,New,537.7,5,2688.5,Debit Card,In-Store
+TXN-00164,2025-03-25,CUST-022,Abigail Diaz,Death Note,Mystery,29,Shueisha,Used,113.68,4,454.72,GCash,Online
+TXN-00165,2025-11-09,CUST-029,Aiden Ruiz,Assassination Classroom,Thriller,2,Shueisha,New,478.47,2,956.94,Credit Card,Online
+TXN-00166,2025-07-08,CUST-035,David Salazar,Eyeshield 21,Sports,8,Shueisha,New,548.57,4,2194.28,GCash,In-Store
+TXN-00167,2025-03-24,CUST-030,Chloe Silva,Dorohedoro,Thriller,25,Shogakukan,New,322.39,5,1611.95,Credit Card,In-Store
+TXN-00168,2025-12-31,CUST-017,James Castillo,Assassination Classroom,Thriller,2,Shueisha,New,583.28,5,2916.4,Cash,In-Store
+TXN-00169,2026-03-02,CUST-006,Sophia Mendoza,Your Lie in April,Romance,25,Kodansha,New,358.14,5,1790.7,GCash,In-Store
+TXN-00170,2025-05-01,CUST-023,Henry Medina,Battle Angel Alita,Sci-Fi,30,Shueisha,New,148.23,5,741.15,Maya,Online
+TXN-00171,2025-03-12,CUST-015,Logan Morales,Toradora,Romance,1,ASCII Media Works,New,172.51,3,517.53,GCash,Online
+TXN-00172,2025-04-21,CUST-031,Matthew Perez,Slam Dunk,Sports,15,Shueisha,New,600.1,1,600.1,Maya,In-Store
+TXN-00173,2025-01-25,CUST-034,Penelope Rojas,ID: Invaded,Mystery,14,Kadokawa,New,272.69,3,818.07,Cash,Online
+TXN-00174,2025-11-20,CUST-005,Ethan Garcia,Dorohedoro,Thriller,4,Shogakukan,Used,230.95,5,1154.75,Cash,In-Store
+TXN-00175,2025-04-06,CUST-019,Benjamin Ortega,Neon Genesis Evangelion,Sci-Fi,14,Kadokawa,New,306.99,5,1534.95,Credit Card,In-Store
+TXN-00176,2025-01-11,CUST-024,Emily Vargas,Skip Beat,Romance,3,Hakusensha,Used,245.02,5,1225.1,Debit Card,Online
+TXN-00177,2025-05-04,CUST-025,Jackson Romero,Haikyuu!!,Sports,12,Shueisha,New,128.61,1,128.61,Maya,In-Store
+TXN-00178,2025-12-23,CUST-022,Abigail Diaz,Nisekoi,Romance,5,Shueisha,New,409.39,2,818.78,Credit Card,In-Store
+TXN-00179,2025-01-23,CUST-005,Ethan Garcia,Berserk,Horror,23,Hakusensha,Used,217.54,3,652.62,GCash,In-Store
+TXN-00180,2025-01-19,CUST-020,Evelyn Aguirre,Black Clover,Action,17,Shueisha,New,552.17,4,2208.68,Maya,In-Store
+TXN-00181,2025-03-05,CUST-023,Henry Medina,Blame!,Sci-Fi,28,Kodansha,Used,347.32,3,1041.96,Maya,In-Store
+TXN-00182,2025-12-21,CUST-029,Aiden Ruiz,Hinamatsuri,Comedy,29,Kadokawa,Used,179.81,2,359.62,Credit Card,In-Store
+TXN-00183,2025-05-31,CUST-006,Sophia Mendoza,Kindaichi Case Files,Mystery,24,Kodansha,New,348.22,2,696.44,Debit Card,Online
+TXN-00184,2025-06-29,CUST-019,Benjamin Ortega,Toradora,Romance,10,ASCII Media Works,New,500.36,2,1000.72,Credit Card,In-Store
+TXN-00185,2025-12-10,CUST-028,Sofia Molina,Nana,Slice of Life,9,Shueisha,New,539.48,1,539.48,Cash,In-Store
+TXN-00186,2025-03-06,CUST-011,Mason Torres,Aria,Slice of Life,1,Mag Garden,New,442.01,4,1768.04,Cash,Online
+TXN-00187,2025-07-10,CUST-025,Jackson Romero,Barakamon,Slice of Life,19,Square Enix,New,201.32,4,805.28,Maya,In-Store
+TXN-00188,2025-02-28,CUST-009,Lucas Ramos,Nisekoi,Romance,17,Shueisha,New,286.62,3,859.86,GCash,Online
+TXN-00189,2025-04-20,CUST-034,Penelope Rojas,Uzumaki,Horror,13,Shogakukan,Used,109.45,3,328.35,Credit Card,In-Store
+TXN-00190,2025-02-14,CUST-013,Elijah Navarro,Sword Art Online,Fantasy,4,Kadokawa,New,159.25,2,318.5,Credit Card,In-Store
+TXN-00191,2026-02-11,CUST-005,Ethan Garcia,Barakamon,Slice of Life,18,Square Enix,New,592.41,2,1184.82,GCash,Online
+TXN-00192,2025-10-11,CUST-013,Elijah Navarro,Ghost in the Shell,Sci-Fi,26,Kodansha,New,538.9,1,538.9,Maya,In-Store
+TXN-00193,2025-09-27,CUST-009,Lucas Ramos,Prince of Tennis,Sports,20,Shueisha,Used,92.91,4,371.64,Credit Card,In-Store
+TXN-00194,2025-12-15,CUST-005,Ethan Garcia,Gekkan Shoujo Nozaki-kun,Comedy,5,Square Enix,Used,276.26,4,1105.04,Credit Card,In-Store
+TXN-00195,2026-03-02,CUST-038,Lillian Reyes,Battle Royale,Horror,6,Akita Shoten,Used,113.03,5,565.15,Cash,Online
+TXN-00196,2026-04-04,CUST-011,Mason Torres,Parasyte,Horror,6,Kodansha,New,495.95,3,1487.85,Debit Card,Online
+TXN-00197,2025-10-01,CUST-013,Elijah Navarro,Your Lie in April,Romance,21,Kodansha,Used,159.28,3,477.84,Debit Card,Online
+TXN-00198,2026-03-08,CUST-038,Lillian Reyes,Hellsing,Horror,5,Shonen Gahosha,New,450.97,5,2254.85,Maya,In-Store
+TXN-00199,2026-01-28,CUST-006,Sophia Mendoza,Naruto,Action,2,Shueisha,Used,317.18,3,951.54,GCash,In-Store
+TXN-00200,2025-05-06,CUST-032,Victoria Torres,Attack on Titan,Thriller,29,Kodansha,New,273.53,3,820.59,Credit Card,In-Store
+TXN-00201,2025-08-26,CUST-030,Chloe Silva,Konosuba,Comedy,3,Kadokawa,New,203.78,4,815.12,Credit Card,Online
+TXN-00202,2025-03-08,CUST-021,Alexander Herrera,Assassination Classroom,Thriller,28,Shueisha,Used,305.48,3,916.44,Credit Card,In-Store
+TXN-00203,2025-03-14,CUST-007,Aiden Flores,91 Days,Mystery,11,Shogakukan,New,184.94,4,739.76,GCash,Online
+TXN-00204,2026-04-24,CUST-040,Hannah Serrano,That Time I Got Reincarnated,Fantasy,14,Kodansha,New,578.61,2,1157.22,Maya,In-Store
+TXN-00205,2025-01-12,CUST-011,Mason Torres,Yuru Camp,Slice of Life,16,Houbunsha,Used,220.45,3,661.35,Credit Card,Online
+TXN-00206,2025-09-11,CUST-030,Chloe Silva,D-Frag!,Comedy,8,Kadokawa,New,307.03,1,307.03,Maya,In-Store
+TXN-00207,2026-01-27,CUST-035,David Salazar,Captain Tsubasa,Sports,1,Shueisha,Used,209.03,3,627.09,Maya,In-Store
+TXN-00208,2025-07-17,CUST-004,Olivia Dela Cruz,Bleach,Action,19,Shueisha,New,312.14,3,936.42,Cash,In-Store
+TXN-00209,2025-07-11,CUST-040,Hannah Serrano,Kindaichi Case Files,Mystery,22,Kodansha,New,188.19,1,188.19,Credit Card,In-Store
+TXN-00210,2025-01-21,CUST-024,Emily Vargas,Aria,Slice of Life,25,Mag Garden,New,439.31,4,1757.24,Debit Card,Online
+TXN-00211,2025-06-17,CUST-031,Matthew Perez,Devilman Crybaby,Horror,17,Kodansha,New,441.32,5,2206.6,GCash,In-Store
+TXN-00212,2026-03-01,CUST-026,Elizabeth Gutierrez,March Comes in Like a Lion,Slice of Life,20,Hakusensha,Used,167.15,3,501.45,Debit Card,In-Store
+TXN-00213,2025-10-26,CUST-020,Evelyn Aguirre,Blue Lock,Sports,16,Kodansha,Used,189.14,1,189.14,Credit Card,Online
+TXN-00214,2025-04-27,CUST-031,Matthew Perez,My Hero Academia,Action,9,Shueisha,Used,320.96,5,1604.8,Debit Card,In-Store
+TXN-00215,2026-02-25,CUST-011,Mason Torres,Dorohedoro,Thriller,17,Shogakukan,New,448.46,4,1793.84,GCash,In-Store
+TXN-00216,2025-12-20,CUST-008,Isabella Lopez,My Hero Academia,Action,7,Shueisha,New,286.26,2,572.52,Credit Card,Online
+TXN-00217,2025-04-17,CUST-031,Matthew Perez,ID: Invaded,Mystery,28,Kadokawa,Used,303.31,2,606.62,Debit Card,In-Store
+TXN-00218,2025-10-07,CUST-025,Jackson Romero,Prince of Tennis,Sports,11,Shueisha,Used,218.17,5,1090.85,Maya,Online
+TXN-00219,2026-04-28,CUST-031,Matthew Perez,No Game No Life,Fantasy,7,Media Factory,Used,160.72,3,482.16,GCash,In-Store
+TXN-00220,2026-04-24,CUST-014,Amelia Vasquez,Overlord,Fantasy,23,Kadokawa,Used,172.82,3,518.46,Debit Card,In-Store
+TXN-00221,2026-01-31,CUST-008,Isabella Lopez,Overlord,Fantasy,19,Kadokawa,New,321.24,4,1284.96,Maya,In-Store
+TXN-00222,2025-04-20,CUST-019,Benjamin Ortega,Fullmetal Alchemist,Fantasy,23,Square Enix,New,609.73,3,1829.19,Credit Card,Online
+TXN-00223,2025-05-05,CUST-036,Zoe Moreno,Kindaichi Case Files,Mystery,23,Kodansha,New,177.89,5,889.45,GCash,Online
+TXN-00224,2025-12-15,CUST-015,Logan Morales,Q.E.D.,Mystery,2,Kodansha,New,295.06,4,1180.24,Cash,In-Store
+TXN-00225,2025-11-30,CUST-011,Mason Torres,Hunter x Hunter,Action,14,Shueisha,New,586.74,4,2346.96,Credit Card,Online
+TXN-00226,2025-10-01,CUST-019,Benjamin Ortega,Re:Zero,Fantasy,21,Kadokawa,New,527.42,5,2637.1,GCash,In-Store
+TXN-00227,2026-02-08,CUST-027,Sebastian Alvarez,Dragon Ball Z,Action,29,Shueisha,Used,368.99,1,368.99,Credit Card,In-Store
+TXN-00228,2025-08-21,CUST-001,Liam Santos,Fullmetal Alchemist,Fantasy,10,Square Enix,New,176.87,3,530.61,Maya,In-Store
+TXN-00229,2025-04-09,CUST-032,Victoria Torres,91 Days,Mystery,29,Shogakukan,Used,342.64,4,1370.56,Maya,In-Store
+TXN-00230,2025-10-18,CUST-030,Chloe Silva,March Comes in Like a Lion,Slice of Life,21,Hakusensha,New,218.69,3,656.07,Maya,In-Store
+TXN-00231,2025-06-17,CUST-040,Hannah Serrano,Neon Genesis Evangelion,Sci-Fi,28,Kadokawa,New,334.91,4,1339.64,Debit Card,Online
+TXN-00232,2025-05-01,CUST-009,Lucas Ramos,Horimiya,Romance,16,Square Enix,New,251.46,3,754.38,Credit Card,In-Store
+TXN-00233,2025-02-01,CUST-020,Evelyn Aguirre,Re:Zero,Fantasy,19,Kadokawa,Used,75.64,3,226.92,GCash,In-Store
+TXN-00234,2025-11-24,CUST-011,Mason Torres,Captain Tsubasa,Sports,13,Shueisha,New,609.25,3,1827.75,Cash,In-Store
+TXN-00235,2026-01-18,CUST-040,Hannah Serrano,Re:Zero,Fantasy,8,Kadokawa,New,190.79,2,381.58,Credit Card,In-Store
+TXN-00236,2025-12-15,CUST-036,Zoe Moreno,Silver Spoon,Slice of Life,30,Shogakukan,New,404.88,2,809.76,GCash,In-Store
+TXN-00237,2025-02-01,CUST-029,Aiden Ruiz,Skip Beat,Romance,17,Hakusensha,Used,96.83,5,484.15,Cash,In-Store
+TXN-00238,2025-03-01,CUST-037,Joseph Gomez,Q.E.D.,Mystery,18,Kodansha,New,293.9,5,1469.5,Credit Card,In-Store
+TXN-00239,2025-09-20,CUST-006,Sophia Mendoza,Dorohedoro,Thriller,29,Shogakukan,New,548.61,4,2194.44,GCash,In-Store
+TXN-00240,2025-05-11,CUST-036,Zoe Moreno,Attack on Titan,Thriller,15,Kodansha,New,283.33,1,283.33,Credit Card,In-Store
+TXN-00241,2026-04-24,CUST-005,Ethan Garcia,20th Century Boys,Sci-Fi,2,Shogakukan,New,491.2,5,2456.0,Cash,In-Store
+TXN-00242,2026-04-02,CUST-019,Benjamin Ortega,Haikyuu!!,Sports,14,Shueisha,New,191.78,4,767.12,Maya,Online
+TXN-00243,2025-03-02,CUST-006,Sophia Mendoza,Hinamatsuri,Comedy,22,Kadokawa,Used,350.11,2,700.22,Maya,Online
+TXN-00244,2025-06-02,CUST-034,Penelope Rojas,Moriarty the Patriot,Mystery,5,Shueisha,Used,142.82,1,142.82,Cash,In-Store
+TXN-00245,2025-05-22,CUST-035,David Salazar,Moriarty the Patriot,Mystery,13,Shueisha,Used,150.71,3,452.13,GCash,Online
+TXN-00246,2025-04-16,CUST-027,Sebastian Alvarez,Fruits Basket,Romance,20,Hakusensha,Used,353.03,1,353.03,GCash,Online
+TXN-00247,2025-07-25,CUST-029,Aiden Ruiz,Attack on Titan,Thriller,20,Kodansha,New,582.27,2,1164.54,Cash,In-Store
+TXN-00248,2025-10-23,CUST-004,Olivia Dela Cruz,Q.E.D.,Mystery,5,Kodansha,New,273.31,5,1366.55,Maya,In-Store
+TXN-00249,2025-06-03,CUST-020,Evelyn Aguirre,Yuru Camp,Slice of Life,29,Houbunsha,New,469.91,2,939.82,Credit Card,Online
+TXN-00250,2026-04-28,CUST-012,Charlotte Fernandez,ID: Invaded,Mystery,21,Kadokawa,New,414.6,1,414.6,Maya,In-Store
+TXN-00251,2026-01-22,CUST-021,Alexander Herrera,D-Frag!,Comedy,23,Kadokawa,New,199.09,4,796.36,GCash,In-Store
+TXN-00252,2025-07-31,CUST-020,Evelyn Aguirre,Pluto,Sci-Fi,28,Shogakukan,Used,328.24,1,328.24,Debit Card,In-Store
+TXN-00253,2026-03-10,CUST-009,Lucas Ramos,91 Days,Mystery,13,Shogakukan,New,227.77,1,227.77,Credit Card,Online
+TXN-00254,2025-04-07,CUST-004,Olivia Dela Cruz,Q.E.D.,Mystery,9,Kodansha,New,440.63,1,440.63,Cash,In-Store
+TXN-00255,2025-04-19,CUST-014,Amelia Vasquez,Bastard!!,Thriller,16,Shueisha,New,600.73,3,1802.19,Cash,In-Store
+TXN-00256,2025-06-14,CUST-016,Ava Rivera,Lovely Complex,Romance,23,Shueisha,New,228.39,2,456.78,Debit Card,In-Store
+TXN-00257,2025-08-27,CUST-035,David Salazar,Nichijou,Comedy,21,Kadokawa,New,258.63,5,1293.15,Credit Card,Online
+TXN-00258,2025-01-09,CUST-014,Amelia Vasquez,Hajime no Ippo,Sports,12,Kodansha,New,144.23,2,288.46,GCash,Online
+TXN-00259,2026-03-03,CUST-027,Sebastian Alvarez,Dungeon Meshi,Thriller,10,Kadokawa,New,294.83,4,1179.32,Debit Card,Online
+TXN-00260,2025-03-28,CUST-017,James Castillo,Detective Conan,Mystery,25,Shogakukan,Used,379.35,4,1517.4,Credit Card,In-Store
+TXN-00261,2025-09-26,CUST-009,Lucas Ramos,March Comes in Like a Lion,Slice of Life,24,Hakusensha,New,217.55,5,1087.75,Cash,Online
+TXN-00262,2025-01-05,CUST-001,Liam Santos,Fruits Basket,Romance,14,Hakusensha,New,454.27,1,454.27,GCash,Online
+TXN-00263,2025-01-09,CUST-004,Olivia Dela Cruz,Hajime no Ippo,Sports,20,Kodansha,New,614.97,4,2459.88,Credit Card,Online
+TXN-00264,2025-09-15,CUST-001,Liam Santos,Moriarty the Patriot,Mystery,1,Shueisha,New,265.61,3,796.83,Cash,In-Store
+TXN-00265,2025-09-27,CUST-007,Aiden Flores,Daily Lives of High School Boys,Comedy,30,Square Enix,New,198.92,2,397.84,Debit Card,Online
+TXN-00266,2025-12-23,CUST-026,Elizabeth Gutierrez,K-On!,Slice of Life,3,Houbunsha,New,335.19,5,1675.95,GCash,Online
+TXN-00267,2025-12-26,CUST-006,Sophia Mendoza,Fruits Basket,Romance,13,Hakusensha,New,412.93,1,412.93,Cash,Online
+TXN-00268,2025-04-28,CUST-022,Abigail Diaz,Yowamushi Pedal,Sports,19,Akita Shoten,Used,381.68,5,1908.4,Cash,Online
+TXN-00269,2025-10-16,CUST-018,Harper Jimenez,Dorohedoro,Thriller,2,Shogakukan,Used,289.65,3,868.95,Debit Card,In-Store
+TXN-00270,2025-06-03,CUST-002,Emma Reyes,Devilman Crybaby,Horror,7,Kodansha,New,518.69,4,2074.76,Cash,Online
+TXN-00271,2025-09-14,CUST-025,Jackson Romero,20th Century Boys,Sci-Fi,22,Shogakukan,Used,177.49,2,354.98,Cash,In-Store
+TXN-00272,2025-11-01,CUST-007,Aiden Flores,Yotsuba&!,Slice of Life,14,ASCII Media Works,New,160.29,5,801.45,Debit Card,Online
+TXN-00273,2026-04-27,CUST-018,Harper Jimenez,Yotsuba&!,Slice of Life,26,ASCII Media Works,Used,228.01,3,684.03,Debit Card,Online
+TXN-00274,2025-02-12,CUST-025,Jackson Romero,Hellsing,Horror,3,Shonen Gahosha,Used,165.93,2,331.86,Cash,Online
+TXN-00275,2025-07-04,CUST-025,Jackson Romero,Daily Lives of High School Boys,Comedy,11,Square Enix,New,168.51,3,505.53,Credit Card,In-Store
+TXN-00276,2025-02-22,CUST-006,Sophia Mendoza,Horimiya,Romance,6,Square Enix,New,415.2,5,2076.0,Credit Card,Online
+TXN-00277,2025-05-30,CUST-006,Sophia Mendoza,Aria,Slice of Life,20,Mag Garden,New,291.95,4,1167.8,Cash,In-Store
+TXN-00278,2025-05-18,CUST-016,Ava Rivera,Skip Beat,Romance,19,Hakusensha,New,483.22,2,966.44,GCash,Online
+TXN-00279,2025-07-04,CUST-005,Ethan Garcia,Slam Dunk,Sports,6,Shueisha,New,343.18,4,1372.72,Cash,Online
+TXN-00280,2025-07-22,CUST-039,Owen Nunez,Battle Angel Alita,Sci-Fi,20,Shueisha,New,176.7,3,530.1,Cash,Online
+TXN-00281,2025-06-03,CUST-022,Abigail Diaz,Biomega,Thriller,15,Shueisha,New,552.2,5,2761.0,GCash,Online
+TXN-00282,2025-10-22,CUST-021,Alexander Herrera,Battle Angel Alita,Sci-Fi,6,Shueisha,Used,380.05,3,1140.15,Credit Card,In-Store
+TXN-00283,2025-10-31,CUST-018,Harper Jimenez,Silver Spoon,Slice of Life,27,Shogakukan,Used,188.08,5,940.4,GCash,In-Store
+TXN-00284,2026-03-02,CUST-002,Emma Reyes,Battle Royale,Horror,24,Akita Shoten,New,495.43,4,1981.72,Maya,In-Store
+TXN-00285,2026-02-09,CUST-009,Lucas Ramos,Nichijou,Comedy,21,Kadokawa,New,253.92,2,507.84,Credit Card,Online
+TXN-00286,2025-01-19,CUST-031,Matthew Perez,Blue Lock,Sports,19,Kodansha,New,388.5,4,1554.0,Debit Card,In-Store
+TXN-00287,2025-03-27,CUST-039,Owen Nunez,Aria,Slice of Life,21,Mag Garden,Used,106.78,2,213.56,Maya,In-Store
+TXN-00288,2025-02-20,CUST-026,Elizabeth Gutierrez,My Hero Academia,Action,25,Shueisha,New,542.0,1,542.0,Cash,Online
+TXN-00289,2025-08-26,CUST-036,Zoe Moreno,91 Days,Mystery,19,Shogakukan,New,237.15,3,711.45,Credit Card,In-Store
+TXN-00290,2026-04-17,CUST-010,Mia Gonzalez,Bastard!!,Thriller,12,Shueisha,Used,225.52,3,676.56,Credit Card,In-Store
+TXN-00291,2025-06-28,CUST-023,Henry Medina,Horimiya,Romance,10,Square Enix,New,535.66,5,2678.3,Credit Card,In-Store
+TXN-00292,2026-03-11,CUST-021,Alexander Herrera,Daiya no Ace,Sports,3,Kodansha,New,549.4,1,549.4,Cash,Online
+TXN-00293,2025-08-25,CUST-016,Ava Rivera,Horimiya,Romance,17,Square Enix,New,204.87,5,1024.35,Credit Card,Online
+TXN-00294,2025-08-19,CUST-012,Charlotte Fernandez,Daily Lives of High School Boys,Comedy,21,Square Enix,New,329.66,5,1648.3,GCash,In-Store
+TXN-00295,2025-02-22,CUST-014,Amelia Vasquez,Gintama,Comedy,7,Shueisha,New,492.99,1,492.99,Debit Card,In-Store
+TXN-00296,2025-11-24,CUST-024,Emily Vargas,Monster,Mystery,11,Shogakukan,New,180.4,4,721.6,Debit Card,Online
+TXN-00297,2025-03-30,CUST-026,Elizabeth Gutierrez,Gekkan Shoujo Nozaki-kun,Comedy,19,Square Enix,New,306.55,4,1226.2,Debit Card,In-Store
+TXN-00298,2025-03-01,CUST-038,Lillian Reyes,No Game No Life,Fantasy,3,Media Factory,New,285.99,2,571.98,Maya,Online
+TXN-00299,2025-09-07,CUST-025,Jackson Romero,Battle Royale,Horror,14,Akita Shoten,New,424.65,4,1698.6,GCash,In-Store
+TXN-00300,2025-01-28,CUST-011,Mason Torres,Battle Royale,Horror,16,Akita Shoten,New,219.16,4,876.64,Debit Card,In-Store
+TXN-00301,2025-07-29,CUST-009,Lucas Ramos,Fairy Tail,Action,7,Kodansha,Used,378.5,5,1892.5,Credit Card,In-Store
+TXN-00302,2025-01-17,CUST-032,Victoria Torres,Nichijou,Comedy,6,Kadokawa,New,136.36,2,272.72,Maya,Online
+TXN-00303,2025-09-19,CUST-011,Mason Torres,Kindaichi Case Files,Mystery,25,Kodansha,New,513.53,4,2054.12,Debit Card,Online
+TXN-00304,2025-10-07,CUST-035,David Salazar,Your Lie in April,Romance,27,Kodansha,Used,244.37,1,244.37,Credit Card,Online
+TXN-00305,2026-03-18,CUST-016,Ava Rivera,Cromartie High School,Comedy,10,Kodansha,Used,82.25,3,246.75,Maya,In-Store
+TXN-00306,2025-11-20,CUST-016,Ava Rivera,Kuroko's Basketball,Sports,7,Shueisha,Used,258.96,3,776.88,Debit Card,In-Store
+TXN-00307,2025-05-24,CUST-014,Amelia Vasquez,Assassination Classroom,Thriller,27,Shueisha,New,151.46,3,454.38,Debit Card,In-Store
+TXN-00308,2025-03-11,CUST-019,Benjamin Ortega,Devilman Crybaby,Horror,10,Kodansha,New,624.77,5,3123.85,Cash,In-Store
+TXN-00309,2025-03-16,CUST-018,Harper Jimenez,Gintama,Comedy,28,Shueisha,New,491.76,2,983.52,GCash,In-Store
+TXN-00310,2025-08-20,CUST-032,Victoria Torres,Gantz,Sci-Fi,5,Shueisha,New,262.42,4,1049.68,Credit Card,Online
+TXN-00311,2025-09-07,CUST-033,Samuel Castro,Clannad,Romance,24,Key/VisualArts,New,616.26,3,1848.78,Credit Card,Online
+TXN-00312,2025-07-23,CUST-030,Chloe Silva,One Piece,Action,21,Shueisha,New,309.86,1,309.86,Debit Card,Online
+TXN-00313,2025-03-08,CUST-032,Victoria Torres,Grand Blue,Comedy,9,Kodansha,New,270.3,5,1351.5,Debit Card,In-Store
+TXN-00314,2025-03-05,CUST-004,Olivia Dela Cruz,Hajime no Ippo,Sports,2,Kodansha,New,535.46,4,2141.84,Cash,In-Store
+TXN-00315,2025-03-23,CUST-030,Chloe Silva,Uzumaki,Horror,1,Shogakukan,Used,208.04,2,416.08,Maya,In-Store
+TXN-00316,2025-07-22,CUST-024,Emily Vargas,Vinland Saga,Fantasy,9,Kodansha,New,472.19,2,944.38,Cash,In-Store
+TXN-00317,2025-10-31,CUST-006,Sophia Mendoza,Gantz,Sci-Fi,23,Shueisha,New,233.11,1,233.11,GCash,Online
+TXN-00318,2025-09-02,CUST-001,Liam Santos,Haikyuu!!,Sports,23,Shueisha,New,183.91,4,735.64,GCash,Online
+TXN-00319,2026-02-01,CUST-007,Aiden Flores,Cromartie High School,Comedy,4,Kodansha,New,586.92,2,1173.84,Credit Card,In-Store
+TXN-00320,2025-06-29,CUST-005,Ethan Garcia,Berserk,Horror,17,Hakusensha,New,443.47,2,886.94,Credit Card,In-Store
+TXN-00321,2026-01-21,CUST-040,Hannah Serrano,Blood+,Horror,22,Sony,New,235.14,1,235.14,GCash,Online
+TXN-00322,2025-10-11,CUST-028,Sofia Molina,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,11,Media Factory,Used,150.8,1,150.8,GCash,In-Store
+TXN-00323,2025-11-07,CUST-002,Emma Reyes,Future Diary,Thriller,28,Kadokawa,Used,350.51,2,701.02,Debit Card,In-Store
+TXN-00324,2025-02-27,CUST-004,Olivia Dela Cruz,Konosuba,Comedy,26,Kadokawa,Used,375.59,4,1502.36,Credit Card,Online
+TXN-00325,2025-07-18,CUST-034,Penelope Rojas,Spy x Family,Thriller,29,Shueisha,Used,385.83,3,1157.49,GCash,In-Store
+TXN-00326,2025-10-28,CUST-024,Emily Vargas,Biomega,Thriller,18,Shueisha,New,524.24,1,524.24,Cash,Online
+TXN-00327,2025-11-18,CUST-003,Noah Cruz,Made in Abyss,Fantasy,30,Takeshobo,New,538.32,5,2691.6,Maya,In-Store
+TXN-00328,2025-02-12,CUST-026,Elizabeth Gutierrez,Hinamatsuri,Comedy,3,Kadokawa,New,404.96,2,809.92,Maya,Online
+TXN-00329,2025-12-24,CUST-010,Mia Gonzalez,Q.E.D.,Mystery,18,Kodansha,New,430.81,1,430.81,Maya,In-Store
+TXN-00330,2025-01-29,CUST-016,Ava Rivera,Akira,Sci-Fi,3,Kodansha,Used,108.88,5,544.4,Debit Card,Online
+TXN-00331,2025-09-25,CUST-001,Liam Santos,Chainsaw Man,Horror,23,Shueisha,New,126.02,4,504.08,Maya,In-Store
+TXN-00332,2025-06-21,CUST-024,Emily Vargas,Magi,Fantasy,5,Shogakukan,Used,349.76,1,349.76,Cash,In-Store
+TXN-00333,2025-08-22,CUST-005,Ethan Garcia,Log Horizon,Fantasy,9,Kadokawa,Used,255.38,1,255.38,Credit Card,In-Store
+TXN-00334,2025-12-12,CUST-037,Joseph Gomez,Fairy Tail,Action,6,Kodansha,New,255.21,1,255.21,Debit Card,In-Store
+TXN-00335,2025-07-06,CUST-001,Liam Santos,Terra Formars,Sci-Fi,2,Shueisha,Used,75.91,1,75.91,Credit Card,Online
+TXN-00336,2025-06-14,CUST-003,Noah Cruz,Berserk,Horror,18,Hakusensha,Used,299.06,4,1196.24,GCash,Online
+TXN-00337,2025-04-25,CUST-005,Ethan Garcia,K-On!,Slice of Life,19,Houbunsha,New,386.08,1,386.08,GCash,In-Store
+TXN-00338,2025-02-14,CUST-005,Ethan Garcia,Bleach,Action,29,Shueisha,New,269.62,3,808.86,Maya,In-Store
+TXN-00339,2025-08-26,CUST-013,Elijah Navarro,Black Clover,Action,10,Shueisha,New,281.07,5,1405.35,GCash,Online
+TXN-00340,2025-04-30,CUST-035,David Salazar,Eyeshield 21,Sports,25,Shueisha,Used,119.88,4,479.52,Cash,In-Store
+TXN-00341,2025-04-16,CUST-001,Liam Santos,Black Clover,Action,25,Shueisha,New,569.97,3,1709.91,Cash,In-Store
+TXN-00342,2025-01-23,CUST-032,Victoria Torres,Gantz,Sci-Fi,2,Shueisha,Used,117.28,3,351.84,Cash,In-Store
+TXN-00343,2025-03-10,CUST-024,Emily Vargas,Moriarty the Patriot,Mystery,15,Shueisha,Used,99.0,1,99.0,Debit Card,In-Store
+TXN-00344,2025-05-30,CUST-038,Lillian Reyes,Cromartie High School,Comedy,19,Kodansha,New,471.1,2,942.2,GCash,Online
+TXN-00345,2026-02-04,CUST-021,Alexander Herrera,Silver Spoon,Slice of Life,11,Shogakukan,New,243.81,2,487.62,GCash,In-Store
+TXN-00346,2025-07-03,CUST-007,Aiden Flores,Horimiya,Romance,6,Square Enix,New,286.44,1,286.44,Debit Card,In-Store
+TXN-00347,2026-02-28,CUST-020,Evelyn Aguirre,Battle Angel Alita,Sci-Fi,15,Shueisha,New,183.55,2,367.1,Maya,In-Store
+TXN-00348,2025-07-22,CUST-014,Amelia Vasquez,Attack on Titan,Thriller,27,Kodansha,Used,119.17,2,238.34,Maya,In-Store
+TXN-00349,2025-05-08,CUST-012,Charlotte Fernandez,Overlord,Fantasy,1,Kadokawa,Used,343.76,5,1718.8,Debit Card,Online
+TXN-00350,2025-04-12,CUST-008,Isabella Lopez,Horimiya,Romance,1,Square Enix,New,533.91,2,1067.82,GCash,In-Store
+TXN-00351,2025-04-12,CUST-038,Lillian Reyes,Chi's Sweet Home,Slice of Life,19,Kodansha,New,550.76,1,550.76,Cash,In-Store
+TXN-00352,2026-04-28,CUST-006,Sophia Mendoza,Slam Dunk,Sports,29,Shueisha,Used,329.23,1,329.23,Cash,In-Store
+TXN-00353,2025-03-30,CUST-028,Sofia Molina,Hellsing,Horror,27,Shonen Gahosha,Used,229.77,4,919.08,Credit Card,Online
+TXN-00354,2025-05-06,CUST-018,Harper Jimenez,Parasyte,Horror,15,Kodansha,Used,83.02,5,415.1,Debit Card,In-Store
+TXN-00355,2025-04-13,CUST-036,Zoe Moreno,Yowamushi Pedal,Sports,16,Akita Shoten,New,268.28,2,536.56,Credit Card,In-Store
+TXN-00356,2025-10-06,CUST-035,David Salazar,Q.E.D.,Mystery,26,Kodansha,New,322.72,3,968.16,Credit Card,In-Store
+TXN-00357,2025-04-23,CUST-033,Samuel Castro,Nana,Slice of Life,11,Shueisha,New,215.3,3,645.9,Debit Card,Online
+TXN-00358,2025-02-21,CUST-031,Matthew Perez,Fullmetal Alchemist,Fantasy,17,Square Enix,New,429.51,2,859.02,GCash,Online
+TXN-00359,2026-03-10,CUST-035,David Salazar,Blame!,Sci-Fi,27,Kodansha,Used,306.38,2,612.76,Debit Card,In-Store
+TXN-00360,2025-01-15,CUST-012,Charlotte Fernandez,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,6,Media Factory,New,288.54,3,865.62,Debit Card,In-Store
+TXN-00361,2025-06-08,CUST-037,Joseph Gomez,Nana,Slice of Life,5,Shueisha,New,219.76,4,879.04,Debit Card,Online
+TXN-00362,2025-06-19,CUST-004,Olivia Dela Cruz,One Piece,Action,8,Shueisha,New,130.56,4,522.24,Cash,In-Store
+TXN-00363,2025-01-12,CUST-022,Abigail Diaz,Neon Genesis Evangelion,Sci-Fi,23,Kadokawa,New,545.28,3,1635.84,Cash,Online
+TXN-00364,2025-02-21,CUST-034,Penelope Rojas,Chainsaw Man,Horror,28,Shueisha,New,158.44,4,633.76,Debit Card,Online
+TXN-00365,2025-03-31,CUST-011,Mason Torres,March Comes in Like a Lion,Slice of Life,24,Hakusensha,Used,323.81,4,1295.24,Maya,In-Store
+TXN-00366,2026-01-11,CUST-023,Henry Medina,ID: Invaded,Mystery,8,Kadokawa,New,551.66,4,2206.64,Maya,In-Store
+TXN-00367,2025-04-04,CUST-001,Liam Santos,Berserk,Horror,23,Hakusensha,Used,196.53,5,982.65,Cash,In-Store
+TXN-00368,2025-06-27,CUST-037,Joseph Gomez,Deadman Wonderland,Thriller,4,Kadokawa,Used,116.72,1,116.72,GCash,In-Store
+TXN-00369,2025-05-12,CUST-022,Abigail Diaz,Chainsaw Man,Horror,15,Shueisha,New,231.13,1,231.13,Maya,In-Store
+TXN-00370,2026-03-28,CUST-025,Jackson Romero,Naruto,Action,15,Shueisha,Used,380.17,4,1520.68,Credit Card,Online
+TXN-00371,2025-08-20,CUST-007,Aiden Flores,Moriarty the Patriot,Mystery,27,Shueisha,New,577.95,2,1155.9,GCash,Online
+TXN-00372,2026-03-31,CUST-002,Emma Reyes,Jujutsu Kaisen,Action,11,Shueisha,New,175.5,3,526.5,GCash,Online
+TXN-00373,2025-08-09,CUST-006,Sophia Mendoza,Skip Beat,Romance,11,Hakusensha,New,445.23,4,1780.92,Cash,In-Store
+TXN-00374,2025-12-23,CUST-028,Sofia Molina,Hellsing,Horror,6,Shonen Gahosha,New,295.48,2,590.96,Credit Card,In-Store
+TXN-00375,2026-03-07,CUST-019,Benjamin Ortega,Kindaichi Case Files,Mystery,10,Kodansha,New,146.31,5,731.55,Debit Card,In-Store
+TXN-00376,2025-04-13,CUST-001,Liam Santos,Black Clover,Action,14,Shueisha,New,556.67,5,2783.35,Credit Card,Online
+TXN-00377,2025-09-08,CUST-019,Benjamin Ortega,Neon Genesis Evangelion,Sci-Fi,3,Kadokawa,New,181.22,4,724.88,Credit Card,In-Store
+TXN-00378,2025-08-17,CUST-035,David Salazar,Vinland Saga,Fantasy,13,Kodansha,New,589.31,3,1767.93,GCash,Online
+TXN-00379,2025-02-13,CUST-017,James Castillo,Daiya no Ace,Sports,8,Kodansha,Used,251.43,2,502.86,Cash,In-Store
+TXN-00380,2025-10-02,CUST-038,Lillian Reyes,Moriarty the Patriot,Mystery,8,Shueisha,New,565.62,5,2828.1,Credit Card,In-Store
+TXN-00381,2025-10-20,CUST-016,Ava Rivera,Blue Lock,Sports,16,Kodansha,New,329.25,1,329.25,Debit Card,In-Store
+TXN-00382,2026-02-18,CUST-010,Mia Gonzalez,Dungeon Meshi,Thriller,4,Kadokawa,Used,214.79,2,429.58,GCash,Online
+TXN-00383,2025-05-13,CUST-006,Sophia Mendoza,Bleach,Action,22,Shueisha,New,648.55,2,1297.1,Debit Card,Online
+TXN-00384,2025-08-23,CUST-025,Jackson Romero,Kaguya-sama,Romance,18,Shueisha,New,292.85,3,878.55,Debit Card,In-Store
+TXN-00385,2025-10-18,CUST-038,Lillian Reyes,My Hero Academia,Action,17,Shueisha,Used,107.78,2,215.56,GCash,In-Store
+TXN-00386,2026-03-26,CUST-037,Joseph Gomez,Kaguya-sama,Romance,25,Shueisha,New,271.63,5,1358.15,Maya,In-Store
+TXN-00387,2025-11-13,CUST-037,Joseph Gomez,Nichijou,Comedy,20,Kadokawa,New,211.27,4,845.08,GCash,In-Store
+TXN-00388,2026-04-17,CUST-026,Elizabeth Gutierrez,Gintama,Comedy,29,Shueisha,Used,291.58,1,291.58,Credit Card,Online
+TXN-00389,2026-03-21,CUST-022,Abigail Diaz,Yotsuba&!,Slice of Life,27,ASCII Media Works,Used,170.88,4,683.52,Cash,Online
+TXN-00390,2025-08-15,CUST-021,Alexander Herrera,Sword Art Online,Fantasy,9,Kadokawa,Used,264.38,1,264.38,GCash,Online
+TXN-00391,2025-06-09,CUST-034,Penelope Rojas,Nichijou,Comedy,28,Kadokawa,New,149.79,2,299.58,Cash,In-Store
+TXN-00392,2025-05-08,CUST-034,Penelope Rojas,Daily Lives of High School Boys,Comedy,29,Square Enix,New,212.08,2,424.16,Cash,Online
+TXN-00393,2025-12-15,CUST-013,Elijah Navarro,Black Clover,Action,9,Shueisha,New,366.04,4,1464.16,Cash,Online
+TXN-00394,2025-06-29,CUST-039,Owen Nunez,A Silent Voice,Slice of Life,15,Kodansha,New,581.35,5,2906.75,Debit Card,Online
+TXN-00395,2026-03-15,CUST-019,Benjamin Ortega,Vinland Saga,Fantasy,1,Kodansha,New,206.34,5,1031.7,GCash,Online
+TXN-00396,2026-04-12,CUST-018,Harper Jimenez,Pluto,Sci-Fi,21,Shogakukan,New,130.63,1,130.63,Credit Card,Online
+TXN-00397,2025-08-05,CUST-001,Liam Santos,Hellsing,Horror,8,Shonen Gahosha,New,546.7,3,1640.1,Maya,In-Store
+TXN-00398,2025-10-27,CUST-017,James Castillo,A Silent Voice,Slice of Life,7,Kodansha,New,478.91,5,2394.55,Credit Card,Online
+TXN-00399,2025-02-02,CUST-036,Zoe Moreno,Detective Conan,Mystery,21,Shogakukan,New,269.82,1,269.82,Credit Card,Online
+TXN-00400,2025-03-18,CUST-018,Harper Jimenez,Re:Zero,Fantasy,9,Kadokawa,New,624.66,3,1873.98,GCash,In-Store
+TXN-00401,2025-06-01,CUST-039,Owen Nunez,Akira,Sci-Fi,13,Kodansha,New,480.8,1,480.8,Credit Card,Online
+TXN-00402,2025-06-25,CUST-025,Jackson Romero,Hinamatsuri,Comedy,24,Kadokawa,New,495.28,5,2476.4,GCash,In-Store
+TXN-00403,2026-03-07,CUST-031,Matthew Perez,Terra Formars,Sci-Fi,30,Shueisha,Used,186.0,3,558.0,GCash,In-Store
+TXN-00404,2025-12-15,CUST-019,Benjamin Ortega,Monster,Mystery,4,Shogakukan,New,512.69,5,2563.45,GCash,In-Store
+TXN-00405,2025-05-14,CUST-023,Henry Medina,Ao Haru Ride,Romance,8,Shueisha,Used,169.66,3,508.98,Maya,In-Store
+TXN-00406,2025-08-30,CUST-031,Matthew Perez,Kuroko's Basketball,Sports,2,Shueisha,Used,257.57,5,1287.85,Cash,In-Store
+TXN-00407,2025-04-13,CUST-025,Jackson Romero,The Promised Neverland,Mystery,17,Shueisha,New,148.65,2,297.3,GCash,Online
+TXN-00408,2025-06-20,CUST-010,Mia Gonzalez,Dorohedoro,Thriller,11,Shogakukan,Used,129.35,1,129.35,Credit Card,In-Store
+TXN-00409,2026-01-27,CUST-004,Olivia Dela Cruz,Devilman Crybaby,Horror,1,Kodansha,New,230.97,2,461.94,Debit Card,Online
+TXN-00410,2025-01-03,CUST-040,Hannah Serrano,Horimiya,Romance,14,Square Enix,New,333.8,4,1335.2,Credit Card,Online
+TXN-00411,2025-12-13,CUST-001,Liam Santos,Knights of Sidonia,Sci-Fi,29,Kodansha,New,561.61,2,1123.22,Cash,Online
+TXN-00412,2025-03-27,CUST-023,Henry Medina,Pluto,Sci-Fi,10,Shogakukan,New,323.28,5,1616.4,Maya,Online
+TXN-00413,2026-03-31,CUST-019,Benjamin Ortega,Jujutsu Kaisen,Action,15,Shueisha,Used,261.65,3,784.95,Credit Card,In-Store
+TXN-00414,2025-04-27,CUST-032,Victoria Torres,Devilman Crybaby,Horror,12,Kodansha,Used,124.43,4,497.72,Cash,Online
+TXN-00415,2026-03-25,CUST-002,Emma Reyes,Junji Ito Collection,Horror,19,Shogakukan,New,185.28,1,185.28,Credit Card,In-Store
+TXN-00416,2025-12-20,CUST-004,Olivia Dela Cruz,ID: Invaded,Mystery,20,Kadokawa,Used,282.5,1,282.5,Cash,Online
+TXN-00417,2025-06-04,CUST-008,Isabella Lopez,Yowamushi Pedal,Sports,18,Akita Shoten,New,491.99,2,983.98,Cash,In-Store
+TXN-00418,2026-01-04,CUST-018,Harper Jimenez,Skip Beat,Romance,20,Hakusensha,New,192.7,1,192.7,Debit Card,In-Store
+TXN-00419,2025-04-14,CUST-007,Aiden Flores,Vinland Saga,Fantasy,16,Kodansha,New,225.87,3,677.61,Debit Card,Online
+TXN-00420,2025-05-01,CUST-011,Mason Torres,Konosuba,Comedy,2,Kadokawa,New,602.49,4,2409.96,Maya,Online
+TXN-00421,2026-01-06,CUST-037,Joseph Gomez,Kaguya-sama,Romance,22,Shueisha,New,623.21,5,3116.05,Cash,In-Store
+TXN-00422,2026-03-13,CUST-030,Chloe Silva,Made in Abyss,Fantasy,10,Takeshobo,New,146.54,2,293.08,Cash,Online
+TXN-00423,2025-12-06,CUST-008,Isabella Lopez,Silver Spoon,Slice of Life,4,Shogakukan,Used,355.11,1,355.11,GCash,In-Store
+TXN-00424,2025-04-04,CUST-029,Aiden Ruiz,Barakamon,Slice of Life,20,Square Enix,New,508.53,3,1525.59,Maya,Online
+TXN-00425,2025-02-27,CUST-018,Harper Jimenez,Nichijou,Comedy,27,Kadokawa,New,570.86,4,2283.44,GCash,Online
+TXN-00426,2025-04-03,CUST-007,Aiden Flores,Dragon Ball Z,Action,14,Shueisha,Used,225.49,5,1127.45,Credit Card,In-Store
+TXN-00427,2026-04-17,CUST-002,Emma Reyes,Nana,Slice of Life,28,Shueisha,New,564.42,2,1128.84,Credit Card,In-Store
+TXN-00428,2026-01-06,CUST-003,Noah Cruz,Nichijou,Comedy,3,Kadokawa,New,286.55,5,1432.75,Debit Card,In-Store
+TXN-00429,2025-06-27,CUST-034,Penelope Rojas,Aria,Slice of Life,23,Mag Garden,Used,102.29,2,204.58,Credit Card,In-Store
+TXN-00430,2026-03-11,CUST-036,Zoe Moreno,Daily Lives of High School Boys,Comedy,29,Square Enix,Used,89.35,2,178.7,Debit Card,In-Store
+TXN-00431,2025-09-17,CUST-005,Ethan Garcia,Slam Dunk,Sports,25,Shueisha,New,247.67,3,743.01,Cash,Online
+TXN-00432,2026-03-15,CUST-016,Ava Rivera,Hinamatsuri,Comedy,3,Kadokawa,New,544.67,4,2178.68,Cash,In-Store
+TXN-00433,2025-10-13,CUST-032,Victoria Torres,Chi's Sweet Home,Slice of Life,24,Kodansha,New,174.4,4,697.6,Cash,In-Store
+TXN-00434,2025-06-24,CUST-040,Hannah Serrano,Nisekoi,Romance,21,Shueisha,New,389.42,2,778.84,Credit Card,Online
+TXN-00435,2026-01-02,CUST-030,Chloe Silva,Demon Slayer,Action,11,Shueisha,New,448.47,4,1793.88,Maya,In-Store
+TXN-00436,2025-09-25,CUST-001,Liam Santos,Ao Haru Ride,Romance,11,Shueisha,New,455.84,3,1367.52,Debit Card,Online
+TXN-00437,2025-05-11,CUST-011,Mason Torres,Fruits Basket,Romance,16,Hakusensha,New,499.93,4,1999.72,Cash,In-Store
+TXN-00438,2026-01-23,CUST-026,Elizabeth Gutierrez,Ghost in the Shell,Sci-Fi,7,Kodansha,New,534.15,3,1602.45,Cash,In-Store
+TXN-00439,2025-01-03,CUST-029,Aiden Ruiz,Spy x Family,Thriller,15,Shueisha,New,626.78,2,1253.56,Credit Card,In-Store
+TXN-00440,2025-03-30,CUST-028,Sofia Molina,Hunter x Hunter,Action,27,Shueisha,New,609.92,2,1219.84,Debit Card,In-Store
+TXN-00441,2025-08-03,CUST-025,Jackson Romero,Chainsaw Man,Horror,22,Shueisha,New,587.83,5,2939.15,Credit Card,In-Store
+TXN-00442,2025-07-31,CUST-026,Elizabeth Gutierrez,Blame!,Sci-Fi,11,Kodansha,Used,216.01,2,432.02,GCash,In-Store
+TXN-00443,2025-04-13,CUST-036,Zoe Moreno,Kindaichi Case Files,Mystery,28,Kodansha,New,510.51,5,2552.55,GCash,Online
+TXN-00444,2025-12-22,CUST-009,Lucas Ramos,Re:Zero,Fantasy,23,Kadokawa,New,627.91,5,3139.55,Debit Card,In-Store
+TXN-00445,2025-05-27,CUST-036,Zoe Moreno,Toradora,Romance,16,ASCII Media Works,New,619.62,4,2478.48,Debit Card,In-Store
+TXN-00446,2025-05-17,CUST-034,Penelope Rojas,Gintama,Comedy,4,Shueisha,New,197.02,1,197.02,GCash,In-Store
+TXN-00447,2026-01-21,CUST-017,James Castillo,Parasyte,Horror,5,Kodansha,Used,291.61,3,874.83,GCash,In-Store
+TXN-00448,2025-07-19,CUST-007,Aiden Flores,A Silent Voice,Slice of Life,20,Kodansha,Used,307.16,2,614.32,Debit Card,Online
+TXN-00449,2025-01-28,CUST-025,Jackson Romero,Fullmetal Alchemist,Fantasy,13,Square Enix,New,537.7,3,1613.1,Debit Card,Online
+TXN-00450,2026-01-22,CUST-040,Hannah Serrano,Made in Abyss,Fantasy,28,Takeshobo,Used,348.7,2,697.4,Maya,In-Store
+TXN-00451,2025-03-30,CUST-013,Elijah Navarro,Deadman Wonderland,Thriller,10,Kadokawa,New,641.23,1,641.23,GCash,In-Store
+TXN-00452,2026-03-10,CUST-003,Noah Cruz,Clannad,Romance,14,Key/VisualArts,New,260.05,2,520.1,Debit Card,Online
+TXN-00453,2026-03-08,CUST-010,Mia Gonzalez,A Silent Voice,Slice of Life,2,Kodansha,New,290.99,1,290.99,Debit Card,In-Store
+TXN-00454,2025-04-05,CUST-036,Zoe Moreno,Blue Lock,Sports,12,Kodansha,New,495.07,5,2475.35,GCash,In-Store
+TXN-00455,2025-12-06,CUST-027,Sebastian Alvarez,Monster,Mystery,18,Shogakukan,New,168.73,2,337.46,GCash,Online
+TXN-00456,2025-02-28,CUST-014,Amelia Vasquez,K-On!,Slice of Life,25,Houbunsha,New,371.67,5,1858.35,Cash,In-Store
+TXN-00457,2026-04-14,CUST-040,Hannah Serrano,Eyeshield 21,Sports,30,Shueisha,New,628.22,3,1884.66,Credit Card,In-Store
+TXN-00458,2025-09-21,CUST-017,James Castillo,Clannad,Romance,18,Key/VisualArts,Used,79.85,5,399.25,Maya,In-Store
+TXN-00459,2025-02-19,CUST-003,Noah Cruz,Daiya no Ace,Sports,10,Kodansha,Used,133.22,5,666.1,Cash,Online
+TXN-00460,2026-03-04,CUST-001,Liam Santos,91 Days,Mystery,21,Shogakukan,New,475.28,2,950.56,Credit Card,Online
+TXN-00461,2025-02-14,CUST-005,Ethan Garcia,Moriarty the Patriot,Mystery,24,Shueisha,New,132.59,3,397.77,Cash,Online
+TXN-00462,2025-07-18,CUST-036,Zoe Moreno,Parasyte,Horror,3,Kodansha,New,240.65,3,721.95,Credit Card,In-Store
+TXN-00463,2025-02-02,CUST-021,Alexander Herrera,Hinamatsuri,Comedy,1,Kadokawa,New,182.7,1,182.7,Debit Card,In-Store
+TXN-00464,2025-02-14,CUST-005,Ethan Garcia,Attack on Titan,Thriller,12,Kodansha,Used,105.75,3,317.25,Debit Card,Online
+TXN-00465,2025-03-11,CUST-026,Elizabeth Gutierrez,Yowamushi Pedal,Sports,27,Akita Shoten,New,371.21,5,1856.05,GCash,In-Store
+TXN-00466,2025-10-11,CUST-010,Mia Gonzalez,Kindaichi Case Files,Mystery,10,Kodansha,New,604.51,3,1813.53,Cash,In-Store
+TXN-00467,2025-06-06,CUST-003,Noah Cruz,Chainsaw Man,Horror,1,Shueisha,New,328.86,5,1644.3,Cash,Online
+TXN-00468,2025-04-24,CUST-027,Sebastian Alvarez,Yuru Camp,Slice of Life,29,Houbunsha,New,391.65,2,783.3,GCash,In-Store
+TXN-00469,2025-08-25,CUST-008,Isabella Lopez,Made in Abyss,Fantasy,6,Takeshobo,New,420.67,1,420.67,Debit Card,In-Store
+TXN-00470,2025-07-02,CUST-005,Ethan Garcia,Your Lie in April,Romance,9,Kodansha,New,504.56,4,2018.24,Maya,Online
+TXN-00471,2025-06-18,CUST-019,Benjamin Ortega,Ghost in the Shell,Sci-Fi,20,Kodansha,New,222.55,4,890.2,Credit Card,In-Store
+TXN-00472,2025-01-03,CUST-010,Mia Gonzalez,No Game No Life,Fantasy,19,Media Factory,New,548.08,4,2192.32,GCash,Online
+TXN-00473,2025-08-25,CUST-018,Harper Jimenez,Gantz,Sci-Fi,27,Shueisha,New,480.18,3,1440.54,Credit Card,In-Store
+TXN-00474,2026-04-02,CUST-036,Zoe Moreno,Sword Art Online,Fantasy,4,Kadokawa,New,441.51,3,1324.53,GCash,In-Store
+TXN-00475,2025-10-24,CUST-005,Ethan Garcia,Vinland Saga,Fantasy,29,Kodansha,New,388.8,1,388.8,Debit Card,In-Store
+TXN-00476,2025-12-01,CUST-003,Noah Cruz,Deadman Wonderland,Thriller,18,Kadokawa,New,593.81,5,2969.05,Credit Card,In-Store
+TXN-00477,2025-08-26,CUST-015,Logan Morales,Silver Spoon,Slice of Life,29,Shogakukan,Used,305.17,3,915.51,GCash,In-Store
+TXN-00478,2026-01-23,CUST-024,Emily Vargas,Clannad,Romance,17,Key/VisualArts,New,246.61,5,1233.05,GCash,In-Store
+TXN-00479,2026-04-26,CUST-012,Charlotte Fernandez,Slam Dunk,Sports,19,Shueisha,Used,281.69,2,563.38,Credit Card,Online
+TXN-00480,2026-04-10,CUST-015,Logan Morales,Battle Angel Alita,Sci-Fi,3,Shueisha,New,244.03,2,488.06,Debit Card,In-Store
+TXN-00481,2025-12-27,CUST-030,Chloe Silva,Nichijou,Comedy,29,Kadokawa,New,639.71,3,1919.13,Cash,In-Store
+TXN-00482,2025-10-28,CUST-038,Lillian Reyes,Overlord,Fantasy,18,Kadokawa,New,319.63,4,1278.52,Maya,In-Store
+TXN-00483,2026-02-23,CUST-017,James Castillo,Skip Beat,Romance,13,Hakusensha,Used,142.88,4,571.52,Maya,In-Store
+TXN-00484,2025-02-09,CUST-039,Owen Nunez,Daiya no Ace,Sports,1,Kodansha,New,193.65,2,387.3,GCash,In-Store
+TXN-00485,2025-08-01,CUST-010,Mia Gonzalez,Made in Abyss,Fantasy,6,Takeshobo,New,439.07,1,439.07,GCash,In-Store
+TXN-00486,2025-05-05,CUST-031,Matthew Perez,Lovely Complex,Romance,16,Shueisha,New,205.46,4,821.84,Cash,Online
+TXN-00487,2025-01-29,CUST-011,Mason Torres,Dungeon Meshi,Thriller,5,Kadokawa,New,140.77,5,703.85,GCash,Online
+TXN-00488,2025-04-21,CUST-026,Elizabeth Gutierrez,Battle Royale,Horror,20,Akita Shoten,Used,274.76,3,824.28,Cash,In-Store
+TXN-00489,2025-11-16,CUST-011,Mason Torres,Daiya no Ace,Sports,8,Kodansha,Used,263.06,5,1315.3,GCash,In-Store
+TXN-00490,2025-07-17,CUST-022,Abigail Diaz,Magi,Fantasy,30,Shogakukan,New,433.02,2,866.04,Credit Card,Online
+TXN-00491,2025-02-19,CUST-034,Penelope Rojas,Demon Slayer,Action,28,Shueisha,Used,289.63,2,579.26,Debit Card,Online
+TXN-00492,2025-09-04,CUST-003,Noah Cruz,Dungeon Meshi,Thriller,29,Kadokawa,Used,232.06,1,232.06,Cash,In-Store
+TXN-00493,2025-08-04,CUST-001,Liam Santos,Bastard!!,Thriller,29,Shueisha,Used,287.78,4,1151.12,Debit Card,Online
+TXN-00494,2025-10-29,CUST-028,Sofia Molina,Hunter x Hunter,Action,8,Shueisha,Used,225.32,4,901.28,Maya,In-Store
+TXN-00495,2025-11-03,CUST-028,Sofia Molina,Spy x Family,Thriller,5,Shueisha,New,525.91,1,525.91,Maya,In-Store
+TXN-00496,2025-03-02,CUST-013,Elijah Navarro,Konosuba,Comedy,1,Kadokawa,Used,323.03,5,1615.15,Debit Card,In-Store
+TXN-00497,2025-05-14,CUST-021,Alexander Herrera,Grand Blue,Comedy,14,Kodansha,New,202.03,5,1010.15,Maya,In-Store
+TXN-00498,2025-10-10,CUST-024,Emily Vargas,Gekkan Shoujo Nozaki-kun,Comedy,20,Square Enix,New,480.72,2,961.44,Credit Card,In-Store
+TXN-00499,2025-06-26,CUST-024,Emily Vargas,Slam Dunk,Sports,18,Shueisha,New,254.5,3,763.5,Debit Card,In-Store
+TXN-00500,2025-04-20,CUST-008,Isabella Lopez,Daily Lives of High School Boys,Comedy,24,Square Enix,New,535.05,2,1070.1,Cash,In-Store
+TXN-00501,2026-02-16,CUST-040,Hannah Serrano,Aria,Slice of Life,23,Mag Garden,New,147.59,4,590.36,Cash,Online
+TXN-00502,2025-11-08,CUST-039,Owen Nunez,Uzumaki,Horror,14,Shogakukan,New,259.44,3,778.32,Cash,Online
+TXN-00503,2026-02-01,CUST-040,Hannah Serrano,Hinamatsuri,Comedy,21,Kadokawa,New,497.15,5,2485.75,Cash,In-Store
+TXN-00504,2025-04-10,CUST-001,Liam Santos,Daiya no Ace,Sports,7,Kodansha,Used,367.98,5,1839.9,Maya,Online
+TXN-00505,2025-05-03,CUST-034,Penelope Rojas,Bastard!!,Thriller,23,Shueisha,New,209.83,1,209.83,Maya,In-Store
+TXN-00506,2025-04-13,CUST-018,Harper Jimenez,Chainsaw Man,Horror,25,Shueisha,New,474.92,4,1899.68,Debit Card,In-Store
+TXN-00507,2025-06-27,CUST-036,Zoe Moreno,Kaguya-sama,Romance,10,Shueisha,Used,249.8,5,1249.0,Maya,In-Store
+TXN-00508,2025-03-31,CUST-039,Owen Nunez,Made in Abyss,Fantasy,7,Takeshobo,New,334.1,1,334.1,Maya,In-Store
+TXN-00509,2026-03-25,CUST-005,Ethan Garcia,Skip Beat,Romance,17,Hakusensha,New,621.92,5,3109.6,Maya,In-Store
+TXN-00510,2025-12-15,CUST-029,Aiden Ruiz,Future Diary,Thriller,13,Kadokawa,New,528.08,3,1584.24,Credit Card,In-Store
+TXN-00511,2026-02-14,CUST-031,Matthew Perez,Attack on Titan,Thriller,4,Kodansha,New,322.82,2,645.64,GCash,Online
+TXN-00512,2025-07-24,CUST-035,David Salazar,Aria,Slice of Life,1,Mag Garden,Used,155.75,3,467.25,Cash,In-Store
+TXN-00513,2025-05-18,CUST-036,Zoe Moreno,Chi's Sweet Home,Slice of Life,30,Kodansha,New,286.35,2,572.7,Debit Card,Online
+TXN-00514,2025-04-14,CUST-013,Elijah Navarro,Battle Angel Alita,Sci-Fi,8,Shueisha,Used,349.53,2,699.06,GCash,In-Store
+TXN-00515,2025-01-04,CUST-010,Mia Gonzalez,Eden: It's an Endless World!,Thriller,25,Shogakukan,New,607.7,4,2430.8,Debit Card,In-Store
+TXN-00516,2025-09-09,CUST-031,Matthew Perez,Death Note,Mystery,12,Shueisha,New,380.94,5,1904.7,Maya,Online
+TXN-00517,2025-09-02,CUST-026,Elizabeth Gutierrez,Kindaichi Case Files,Mystery,8,Kodansha,Used,112.78,5,563.9,Credit Card,In-Store
+TXN-00518,2025-12-24,CUST-023,Henry Medina,Hunter x Hunter,Action,13,Shueisha,Used,318.74,4,1274.96,Cash,In-Store
+TXN-00519,2025-11-10,CUST-001,Liam Santos,Yotsuba&!,Slice of Life,22,ASCII Media Works,New,427.93,3,1283.79,Maya,In-Store
+TXN-00520,2025-04-05,CUST-017,James Castillo,Battle Royale,Horror,8,Akita Shoten,New,628.02,3,1884.06,Maya,In-Store
+TXN-00521,2025-03-09,CUST-024,Emily Vargas,Gantz,Sci-Fi,12,Shueisha,Used,160.92,2,321.84,Debit Card,In-Store
+TXN-00522,2025-03-16,CUST-018,Harper Jimenez,Ghost in the Shell,Sci-Fi,26,Kodansha,New,349.08,4,1396.32,GCash,In-Store
+TXN-00523,2026-01-04,CUST-001,Liam Santos,Uzumaki,Horror,6,Shogakukan,New,191.27,5,956.35,Debit Card,Online
+TXN-00524,2025-01-31,CUST-017,James Castillo,Captain Tsubasa,Sports,18,Shueisha,Used,87.17,1,87.17,GCash,Online
+TXN-00525,2025-10-13,CUST-007,Aiden Flores,Sword Art Online,Fantasy,15,Kadokawa,Used,154.61,3,463.83,Debit Card,In-Store
+TXN-00526,2025-10-23,CUST-002,Emma Reyes,Re:Zero,Fantasy,14,Kadokawa,New,579.71,5,2898.55,GCash,In-Store
+TXN-00527,2025-07-15,CUST-019,Benjamin Ortega,Monster,Mystery,12,Shogakukan,New,390.54,4,1562.16,Cash,In-Store
+TXN-00528,2025-07-27,CUST-011,Mason Torres,Slam Dunk,Sports,21,Shueisha,Used,179.29,5,896.45,Debit Card,In-Store
+TXN-00529,2025-11-06,CUST-011,Mason Torres,Kaguya-sama,Romance,11,Shueisha,New,287.95,3,863.85,Maya,In-Store
+TXN-00530,2025-04-05,CUST-024,Emily Vargas,Sword Art Online,Fantasy,24,Kadokawa,New,631.73,4,2526.92,GCash,In-Store
+TXN-00531,2025-02-22,CUST-017,James Castillo,Junji Ito Collection,Horror,24,Shogakukan,Used,97.46,2,194.92,Credit Card,Online
+TXN-00532,2025-05-15,CUST-004,Olivia Dela Cruz,Prince of Tennis,Sports,1,Shueisha,Used,238.63,1,238.63,Cash,In-Store
+TXN-00533,2025-09-27,CUST-020,Evelyn Aguirre,Clannad,Romance,8,Key/VisualArts,New,270.61,2,541.22,GCash,In-Store
+TXN-00534,2026-04-24,CUST-023,Henry Medina,Naruto,Action,28,Shueisha,Used,346.83,4,1387.32,Debit Card,Online
+TXN-00535,2025-09-26,CUST-035,David Salazar,Slam Dunk,Sports,6,Shueisha,New,361.97,5,1809.85,Credit Card,In-Store
+TXN-00536,2025-07-07,CUST-023,Henry Medina,Kindaichi Case Files,Mystery,16,Kodansha,New,546.5,4,2186.0,Maya,In-Store
+TXN-00537,2025-05-27,CUST-001,Liam Santos,Parasyte,Horror,1,Kodansha,New,521.9,2,1043.8,Maya,In-Store
+TXN-00538,2025-04-29,CUST-031,Matthew Perez,Fairy Tail,Action,10,Kodansha,New,348.13,3,1044.39,Debit Card,In-Store
+TXN-00539,2026-01-02,CUST-013,Elijah Navarro,Detective Conan,Mystery,14,Shogakukan,Used,211.0,2,422.0,GCash,In-Store
+TXN-00540,2026-02-18,CUST-015,Logan Morales,Hinamatsuri,Comedy,9,Kadokawa,New,451.42,5,2257.1,Debit Card,In-Store
+TXN-00541,2025-03-11,CUST-035,David Salazar,Overlord,Fantasy,26,Kadokawa,New,219.64,1,219.64,GCash,Online
+TXN-00542,2025-03-19,CUST-029,Aiden Ruiz,Blue Lock,Sports,9,Kodansha,Used,228.46,3,685.38,Cash,Online
+TXN-00543,2025-04-30,CUST-012,Charlotte Fernandez,Death Note,Mystery,4,Shueisha,New,186.27,4,745.08,Cash,Online
+TXN-00544,2025-08-26,CUST-014,Amelia Vasquez,Fairy Tail,Action,11,Kodansha,New,536.43,4,2145.72,Maya,In-Store
+TXN-00545,2025-02-06,CUST-006,Sophia Mendoza,Black Clover,Action,27,Shueisha,Used,118.46,3,355.38,Credit Card,In-Store
+TXN-00546,2026-01-30,CUST-017,James Castillo,Junji Ito Collection,Horror,27,Shogakukan,New,126.69,2,253.38,Credit Card,In-Store
+TXN-00547,2025-07-19,CUST-013,Elijah Navarro,Akira,Sci-Fi,15,Kodansha,Used,101.88,2,203.76,Credit Card,In-Store
+TXN-00548,2025-03-04,CUST-011,Mason Torres,Re:Zero,Fantasy,21,Kadokawa,Used,308.82,5,1544.1,Debit Card,Online
+TXN-00549,2025-11-21,CUST-024,Emily Vargas,Made in Abyss,Fantasy,29,Takeshobo,New,473.35,1,473.35,GCash,In-Store
+TXN-00550,2025-10-25,CUST-018,Harper Jimenez,Dragon Ball Z,Action,19,Shueisha,New,538.25,1,538.25,Cash,In-Store
+TXN-00551,2025-12-18,CUST-010,Mia Gonzalez,Blue Lock,Sports,12,Kodansha,Used,151.09,4,604.36,Cash,In-Store
+TXN-00552,2025-09-07,CUST-023,Henry Medina,Naruto,Action,21,Shueisha,New,404.27,1,404.27,GCash,Online
+TXN-00553,2025-05-09,CUST-029,Aiden Ruiz,Detective Conan,Mystery,24,Shogakukan,New,485.3,3,1455.9,GCash,In-Store
+TXN-00554,2025-10-06,CUST-036,Zoe Moreno,Daiya no Ace,Sports,10,Kodansha,New,379.75,5,1898.75,GCash,Online
+TXN-00555,2025-08-19,CUST-039,Owen Nunez,Captain Tsubasa,Sports,30,Shueisha,Used,122.99,5,614.95,GCash,Online
+TXN-00556,2026-03-29,CUST-024,Emily Vargas,Log Horizon,Fantasy,15,Kadokawa,New,458.15,4,1832.6,GCash,Online
+TXN-00557,2025-04-08,CUST-016,Ava Rivera,Nana,Slice of Life,11,Shueisha,Used,281.33,5,1406.65,Credit Card,In-Store
+TXN-00558,2025-02-19,CUST-010,Mia Gonzalez,Prince of Tennis,Sports,20,Shueisha,New,337.2,3,1011.6,Cash,In-Store
+TXN-00559,2025-02-20,CUST-009,Lucas Ramos,Fruits Basket,Romance,6,Hakusensha,Used,136.26,4,545.04,GCash,Online
+TXN-00560,2025-11-07,CUST-034,Penelope Rojas,Nichijou,Comedy,20,Kadokawa,Used,153.39,3,460.17,GCash,In-Store
+TXN-00561,2025-10-13,CUST-032,Victoria Torres,Demon Slayer,Action,30,Shueisha,Used,97.43,1,97.43,Maya,In-Store
+TXN-00562,2025-02-09,CUST-004,Olivia Dela Cruz,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,27,Media Factory,New,400.38,1,400.38,Maya,In-Store
+TXN-00563,2025-12-03,CUST-007,Aiden Flores,The Promised Neverland,Mystery,24,Shueisha,New,324.23,2,648.46,Debit Card,Online
+TXN-00564,2025-12-12,CUST-036,Zoe Moreno,Battle Royale,Horror,14,Akita Shoten,Used,315.68,5,1578.4,Maya,In-Store
+TXN-00565,2025-10-01,CUST-011,Mason Torres,Cromartie High School,Comedy,26,Kodansha,New,332.83,3,998.49,GCash,In-Store
+TXN-00566,2026-01-27,CUST-021,Alexander Herrera,Hajime no Ippo,Sports,18,Kodansha,Used,175.24,3,525.72,Credit Card,In-Store
+TXN-00567,2025-07-04,CUST-016,Ava Rivera,Nana,Slice of Life,19,Shueisha,New,318.78,5,1593.9,Maya,In-Store
+TXN-00568,2025-03-11,CUST-001,Liam Santos,Yowamushi Pedal,Sports,24,Akita Shoten,New,270.78,1,270.78,Debit Card,In-Store
+TXN-00569,2025-09-19,CUST-020,Evelyn Aguirre,Fullmetal Alchemist,Fantasy,8,Square Enix,New,286.9,3,860.7,Debit Card,In-Store
+TXN-00570,2026-04-01,CUST-007,Aiden Flores,Assassination Classroom,Thriller,2,Shueisha,New,202.74,3,608.22,Maya,In-Store
+TXN-00571,2026-01-06,CUST-020,Evelyn Aguirre,Blame!,Sci-Fi,3,Kodansha,New,421.6,2,843.2,Cash,Online
+TXN-00572,2025-11-25,CUST-032,Victoria Torres,Slam Dunk,Sports,27,Shueisha,Used,295.51,1,295.51,Debit Card,Online
+TXN-00573,2025-08-02,CUST-006,Sophia Mendoza,Biomega,Thriller,25,Shueisha,New,528.58,3,1585.74,Credit Card,In-Store
+TXN-00574,2025-06-06,CUST-039,Owen Nunez,Ao Haru Ride,Romance,30,Shueisha,New,532.03,4,2128.12,Cash,In-Store
+TXN-00575,2025-12-11,CUST-037,Joseph Gomez,Aria,Slice of Life,5,Mag Garden,New,489.82,2,979.64,Cash,In-Store
+TXN-00576,2025-03-17,CUST-039,Owen Nunez,Nichijou,Comedy,19,Kadokawa,New,237.71,3,713.13,Credit Card,Online
+TXN-00577,2025-09-14,CUST-037,Joseph Gomez,Lovely Complex,Romance,24,Shueisha,New,331.57,1,331.57,Credit Card,In-Store
+TXN-00578,2025-10-15,CUST-031,Matthew Perez,Berserk,Horror,18,Hakusensha,New,329.52,5,1647.6,GCash,In-Store
+TXN-00579,2025-02-27,CUST-016,Ava Rivera,Q.E.D.,Mystery,3,Kodansha,New,347.93,5,1739.65,Cash,In-Store
+TXN-00580,2025-03-28,CUST-023,Henry Medina,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,7,Media Factory,New,434.75,1,434.75,Maya,In-Store
+TXN-00581,2025-12-17,CUST-040,Hannah Serrano,Dorohedoro,Thriller,5,Shogakukan,New,609.83,2,1219.66,GCash,Online
+TXN-00582,2025-06-25,CUST-004,Olivia Dela Cruz,Kaguya-sama,Romance,8,Shueisha,Used,366.7,3,1100.1,Cash,In-Store
+TXN-00583,2025-04-15,CUST-029,Aiden Ruiz,Your Lie in April,Romance,16,Kodansha,New,230.78,5,1153.9,GCash,In-Store
+TXN-00584,2025-10-26,CUST-031,Matthew Perez,Log Horizon,Fantasy,20,Kadokawa,Used,116.95,1,116.95,Credit Card,In-Store
+TXN-00585,2025-01-28,CUST-017,James Castillo,Death Note,Mystery,6,Shueisha,New,226.37,5,1131.85,Maya,In-Store
+TXN-00586,2025-01-10,CUST-025,Jackson Romero,One Piece,Action,22,Shueisha,New,571.6,3,1714.8,Cash,Online
+TXN-00587,2026-03-20,CUST-025,Jackson Romero,Grand Blue,Comedy,17,Kodansha,Used,103.67,3,311.01,Credit Card,In-Store
+TXN-00588,2025-05-07,CUST-013,Elijah Navarro,Horimiya,Romance,17,Square Enix,Used,250.3,1,250.3,Cash,In-Store
+TXN-00589,2025-11-17,CUST-032,Victoria Torres,Re:Zero,Fantasy,13,Kadokawa,Used,77.84,3,233.52,Maya,Online
+TXN-00590,2025-05-24,CUST-004,Olivia Dela Cruz,Kindaichi Case Files,Mystery,21,Kodansha,New,325.2,1,325.2,Debit Card,Online
+TXN-00591,2025-08-02,CUST-009,Lucas Ramos,Silver Spoon,Slice of Life,3,Shogakukan,Used,237.59,5,1187.95,GCash,Online
+TXN-00592,2025-12-01,CUST-020,Evelyn Aguirre,Blood+,Horror,30,Sony,New,358.06,2,716.12,GCash,Online
+TXN-00593,2026-04-11,CUST-009,Lucas Ramos,Q.E.D.,Mystery,10,Kodansha,New,596.28,2,1192.56,Credit Card,In-Store
+TXN-00594,2025-06-12,CUST-011,Mason Torres,Hellsing,Horror,11,Shonen Gahosha,New,402.47,1,402.47,GCash,In-Store
+TXN-00595,2026-01-17,CUST-021,Alexander Herrera,Tokyo Ghoul,Horror,29,Shueisha,Used,377.66,3,1132.98,Credit Card,In-Store
+TXN-00596,2025-05-17,CUST-013,Elijah Navarro,Magi,Fantasy,4,Shogakukan,New,133.89,5,669.45,Debit Card,In-Store
+TXN-00597,2025-03-10,CUST-039,Owen Nunez,Deadman Wonderland,Thriller,8,Kadokawa,New,133.82,1,133.82,Credit Card,In-Store
+TXN-00598,2025-04-09,CUST-024,Emily Vargas,Dorohedoro,Thriller,6,Shogakukan,Used,228.28,2,456.56,GCash,Online
+TXN-00599,2025-02-03,CUST-018,Harper Jimenez,Gintama,Comedy,14,Shueisha,New,475.81,2,951.62,GCash,Online
+TXN-00600,2025-07-27,CUST-032,Victoria Torres,Blue Lock,Sports,23,Kodansha,New,362.5,2,725.0,Credit Card,In-Store
+TXN-00601,2025-09-26,CUST-021,Alexander Herrera,Biomega,Thriller,13,Shueisha,New,513.51,5,2567.55,Debit Card,In-Store
+TXN-00602,2025-10-03,CUST-007,Aiden Flores,Hunter x Hunter,Action,15,Shueisha,New,585.22,2,1170.44,Debit Card,Online
+TXN-00603,2025-08-14,CUST-025,Jackson Romero,Hunter x Hunter,Action,17,Shueisha,Used,378.1,2,756.2,Maya,Online
+TXN-00604,2026-04-08,CUST-030,Chloe Silva,Overlord,Fantasy,6,Kadokawa,New,444.96,1,444.96,Debit Card,Online
+TXN-00605,2025-07-21,CUST-033,Samuel Castro,Kuroko's Basketball,Sports,4,Shueisha,New,430.29,5,2151.45,GCash,In-Store
+TXN-00606,2025-02-16,CUST-012,Charlotte Fernandez,Haikyuu!!,Sports,15,Shueisha,New,497.7,2,995.4,Credit Card,Online
+TXN-00607,2025-12-29,CUST-006,Sophia Mendoza,Chainsaw Man,Horror,4,Shueisha,Used,273.64,1,273.64,Debit Card,Online
+TXN-00608,2025-10-17,CUST-011,Mason Torres,ID: Invaded,Mystery,13,Kadokawa,New,143.27,2,286.54,Maya,In-Store
+TXN-00609,2026-01-09,CUST-010,Mia Gonzalez,Berserk,Horror,6,Hakusensha,Used,88.31,3,264.93,Maya,In-Store
+TXN-00610,2026-01-27,CUST-012,Charlotte Fernandez,Captain Tsubasa,Sports,4,Shueisha,Used,377.42,1,377.42,Debit Card,Online
+TXN-00611,2025-04-22,CUST-032,Victoria Torres,Daiya no Ace,Sports,18,Kodansha,Used,265.34,4,1061.36,GCash,In-Store
+TXN-00612,2025-05-23,CUST-027,Sebastian Alvarez,Daiya no Ace,Sports,15,Kodansha,New,438.05,2,876.1,Debit Card,In-Store
+TXN-00613,2026-03-14,CUST-004,Olivia Dela Cruz,Q.E.D.,Mystery,6,Kodansha,New,466.24,1,466.24,GCash,Online
+TXN-00614,2025-03-24,CUST-020,Evelyn Aguirre,Dungeon Meshi,Thriller,11,Kadokawa,Used,87.59,4,350.36,GCash,In-Store
+TXN-00615,2026-04-22,CUST-037,Joseph Gomez,Dungeon Meshi,Thriller,26,Kadokawa,New,632.14,5,3160.7,Maya,Online
+TXN-00616,2025-02-03,CUST-024,Emily Vargas,Re:Zero,Fantasy,29,Kadokawa,New,155.86,4,623.44,Debit Card,Online
+TXN-00617,2025-01-30,CUST-018,Harper Jimenez,Chainsaw Man,Horror,11,Shueisha,New,398.06,2,796.12,Debit Card,Online
+TXN-00618,2025-11-08,CUST-031,Matthew Perez,The Promised Neverland,Mystery,24,Shueisha,New,614.96,3,1844.88,Credit Card,In-Store
+TXN-00619,2025-09-24,CUST-037,Joseph Gomez,Log Horizon,Fantasy,20,Kadokawa,New,188.75,5,943.75,Credit Card,In-Store
+TXN-00620,2025-03-02,CUST-012,Charlotte Fernandez,Daiya no Ace,Sports,29,Kodansha,New,495.55,2,991.1,Cash,Online
+TXN-00621,2025-01-06,CUST-040,Hannah Serrano,Ao Haru Ride,Romance,14,Shueisha,New,296.91,5,1484.55,GCash,In-Store
+TXN-00622,2025-12-18,CUST-005,Ethan Garcia,Overlord,Fantasy,10,Kadokawa,New,411.5,1,411.5,Cash,Online
+TXN-00623,2026-04-15,CUST-040,Hannah Serrano,Gekkan Shoujo Nozaki-kun,Comedy,1,Square Enix,Used,133.7,3,401.1,Credit Card,In-Store
+TXN-00624,2025-08-25,CUST-031,Matthew Perez,Dragon Ball Z,Action,5,Shueisha,New,592.79,5,2963.95,Maya,In-Store
+TXN-00625,2025-01-10,CUST-034,Penelope Rojas,Gintama,Comedy,10,Shueisha,New,479.44,5,2397.2,Debit Card,Online
+TXN-00626,2026-03-08,CUST-005,Ethan Garcia,Barakamon,Slice of Life,5,Square Enix,New,136.52,4,546.08,Debit Card,Online
+TXN-00627,2025-12-30,CUST-012,Charlotte Fernandez,Biomega,Thriller,20,Shueisha,New,534.64,3,1603.92,Maya,Online
+TXN-00628,2025-09-26,CUST-032,Victoria Torres,Cromartie High School,Comedy,29,Kodansha,New,359.51,3,1078.53,GCash,Online
+TXN-00629,2026-02-14,CUST-003,Noah Cruz,Toradora,Romance,25,ASCII Media Works,New,169.08,5,845.4,Cash,In-Store
+TXN-00630,2026-02-02,CUST-013,Elijah Navarro,Monster,Mystery,11,Shogakukan,Used,304.91,5,1524.55,Maya,Online
+TXN-00631,2025-01-03,CUST-009,Lucas Ramos,Skip Beat,Romance,7,Hakusensha,Used,218.08,5,1090.4,Cash,Online
+TXN-00632,2025-01-12,CUST-006,Sophia Mendoza,My Hero Academia,Action,11,Shueisha,New,144.45,5,722.25,Maya,In-Store
+TXN-00633,2025-12-10,CUST-021,Alexander Herrera,Made in Abyss,Fantasy,7,Takeshobo,New,266.62,3,799.86,Credit Card,Online
+TXN-00634,2025-04-16,CUST-018,Harper Jimenez,Berserk,Horror,4,Hakusensha,New,450.16,5,2250.8,Cash,In-Store
+TXN-00635,2025-03-29,CUST-018,Harper Jimenez,Detective Conan,Mystery,5,Shogakukan,Used,327.67,5,1638.35,GCash,Online
+TXN-00636,2025-07-16,CUST-035,David Salazar,Eden: It's an Endless World!,Thriller,15,Shogakukan,New,135.37,1,135.37,Cash,Online
+TXN-00637,2025-07-02,CUST-012,Charlotte Fernandez,Hinamatsuri,Comedy,23,Kadokawa,New,434.16,4,1736.64,Debit Card,Online
+TXN-00638,2026-02-21,CUST-006,Sophia Mendoza,Terra Formars,Sci-Fi,30,Shueisha,Used,220.09,2,440.18,Cash,In-Store
+TXN-00639,2025-04-29,CUST-030,Chloe Silva,Kuroko's Basketball,Sports,10,Shueisha,New,496.41,4,1985.64,Credit Card,In-Store
+TXN-00640,2025-08-21,CUST-017,James Castillo,Hellsing,Horror,30,Shonen Gahosha,New,217.18,3,651.54,Maya,In-Store
+TXN-00641,2025-11-06,CUST-008,Isabella Lopez,Lovely Complex,Romance,12,Shueisha,New,568.26,3,1704.78,Maya,In-Store
+TXN-00642,2026-02-10,CUST-026,Elizabeth Gutierrez,The Promised Neverland,Mystery,27,Shueisha,Used,106.02,5,530.1,Cash,Online
+TXN-00643,2025-07-16,CUST-038,Lillian Reyes,Yowamushi Pedal,Sports,14,Akita Shoten,New,249.16,2,498.32,Credit Card,Online
+TXN-00644,2025-12-22,CUST-028,Sofia Molina,20th Century Boys,Sci-Fi,26,Shogakukan,Used,252.37,3,757.11,Debit Card,Online
+TXN-00645,2026-02-25,CUST-032,Victoria Torres,Nisekoi,Romance,4,Shueisha,New,365.34,5,1826.7,Cash,In-Store
+TXN-00646,2025-09-11,CUST-005,Ethan Garcia,That Time I Got Reincarnated,Fantasy,20,Kodansha,New,551.46,4,2205.84,Maya,In-Store
+TXN-00647,2025-12-05,CUST-014,Amelia Vasquez,One Piece,Action,27,Shueisha,New,427.81,1,427.81,GCash,Online
+TXN-00648,2025-10-19,CUST-025,Jackson Romero,Kindaichi Case Files,Mystery,20,Kodansha,New,223.7,3,671.1,Maya,In-Store
+TXN-00649,2026-03-10,CUST-023,Henry Medina,That Time I Got Reincarnated,Fantasy,3,Kodansha,New,444.09,5,2220.45,Credit Card,Online
+TXN-00650,2025-02-26,CUST-024,Emily Vargas,Fullmetal Alchemist,Fantasy,29,Square Enix,New,148.16,5,740.8,Maya,In-Store
+TXN-00651,2025-07-15,CUST-028,Sofia Molina,Demon Slayer,Action,23,Shueisha,New,451.36,4,1805.44,Credit Card,In-Store
+TXN-00652,2025-03-20,CUST-031,Matthew Perez,Neon Genesis Evangelion,Sci-Fi,5,Kadokawa,New,323.84,3,971.52,Credit Card,Online
+TXN-00653,2025-03-11,CUST-001,Liam Santos,Berserk,Horror,3,Hakusensha,New,196.32,4,785.28,Credit Card,Online
+TXN-00654,2025-10-10,CUST-039,Owen Nunez,Nichijou,Comedy,30,Kadokawa,New,215.29,5,1076.45,Credit Card,In-Store
+TXN-00655,2025-12-31,CUST-015,Logan Morales,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,6,Media Factory,New,123.94,4,495.76,GCash,In-Store
+TXN-00656,2025-02-27,CUST-037,Joseph Gomez,D-Frag!,Comedy,12,Kadokawa,New,140.07,4,560.28,Maya,In-Store
+TXN-00657,2025-02-10,CUST-034,Penelope Rojas,Horimiya,Romance,28,Square Enix,Used,319.68,4,1278.72,Debit Card,In-Store
+TXN-00658,2026-02-13,CUST-016,Ava Rivera,Spy x Family,Thriller,16,Shueisha,New,471.78,1,471.78,Debit Card,In-Store
+TXN-00659,2025-10-21,CUST-022,Abigail Diaz,Attack on Titan,Thriller,18,Kodansha,Used,221.1,5,1105.5,Credit Card,In-Store
+TXN-00660,2026-01-08,CUST-019,Benjamin Ortega,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,10,Media Factory,New,488.38,5,2441.9,Maya,In-Store
+TXN-00661,2025-01-14,CUST-031,Matthew Perez,Fullmetal Alchemist,Fantasy,19,Square Enix,New,147.36,3,442.08,Debit Card,Online
+TXN-00662,2025-05-24,CUST-033,Samuel Castro,Horimiya,Romance,3,Square Enix,Used,160.36,2,320.72,Debit Card,Online
+TXN-00663,2025-07-09,CUST-008,Isabella Lopez,Fullmetal Alchemist,Fantasy,20,Square Enix,New,433.64,2,867.28,Credit Card,In-Store
+TXN-00664,2025-03-16,CUST-032,Victoria Torres,Made in Abyss,Fantasy,6,Takeshobo,Used,346.12,3,1038.36,Cash,In-Store
+TXN-00665,2025-10-23,CUST-027,Sebastian Alvarez,Uzumaki,Horror,25,Shogakukan,New,470.15,2,940.3,GCash,In-Store
+TXN-00666,2025-09-01,CUST-017,James Castillo,Yotsuba&!,Slice of Life,25,ASCII Media Works,Used,88.7,4,354.8,Credit Card,Online
+TXN-00667,2026-03-22,CUST-025,Jackson Romero,Q.E.D.,Mystery,22,Kodansha,Used,222.92,2,445.84,Debit Card,In-Store
+TXN-00668,2026-04-15,CUST-025,Jackson Romero,Sword Art Online,Fantasy,22,Kadokawa,New,401.03,1,401.03,Cash,In-Store
+TXN-00669,2026-02-15,CUST-040,Hannah Serrano,Silver Spoon,Slice of Life,30,Shogakukan,New,264.47,3,793.41,Maya,Online
+TXN-00670,2025-09-24,CUST-030,Chloe Silva,Biomega,Thriller,25,Shueisha,New,248.15,5,1240.75,GCash,Online
+TXN-00671,2025-02-20,CUST-036,Zoe Moreno,Devilman Crybaby,Horror,1,Kodansha,New,560.8,1,560.8,Credit Card,In-Store
+TXN-00672,2025-02-17,CUST-015,Logan Morales,Hajime no Ippo,Sports,24,Kodansha,New,222.33,1,222.33,Debit Card,Online
+TXN-00673,2025-03-08,CUST-039,Owen Nunez,Deadman Wonderland,Thriller,21,Kadokawa,New,627.63,1,627.63,Debit Card,Online
+TXN-00674,2026-04-18,CUST-008,Isabella Lopez,Assassination Classroom,Thriller,23,Shueisha,New,276.12,1,276.12,Credit Card,In-Store
+TXN-00675,2025-07-18,CUST-017,James Castillo,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,6,Media Factory,Used,160.18,1,160.18,Credit Card,Online
+TXN-00676,2025-07-21,CUST-017,James Castillo,Jujutsu Kaisen,Action,6,Shueisha,New,380.61,2,761.22,Debit Card,Online
+TXN-00677,2026-01-02,CUST-010,Mia Gonzalez,Kuroko's Basketball,Sports,18,Shueisha,Used,141.44,1,141.44,Credit Card,Online
+TXN-00678,2025-03-18,CUST-005,Ethan Garcia,One Piece,Action,19,Shueisha,Used,319.16,1,319.16,Credit Card,In-Store
+TXN-00679,2025-01-02,CUST-025,Jackson Romero,Naruto,Action,9,Shueisha,New,294.81,4,1179.24,Debit Card,In-Store
+TXN-00680,2025-04-26,CUST-028,Sofia Molina,Daiya no Ace,Sports,13,Kodansha,Used,320.34,1,320.34,Debit Card,Online
+TXN-00681,2025-01-29,CUST-037,Joseph Gomez,Kuroko's Basketball,Sports,18,Shueisha,Used,186.14,3,558.42,Credit Card,In-Store
+TXN-00682,2025-11-28,CUST-035,David Salazar,Toradora,Romance,28,ASCII Media Works,Used,97.58,4,390.32,Maya,Online
+TXN-00683,2025-09-07,CUST-025,Jackson Romero,Death Note,Mystery,22,Shueisha,New,488.82,1,488.82,Maya,Online
+TXN-00684,2025-09-08,CUST-009,Lucas Ramos,Eyeshield 21,Sports,2,Shueisha,New,501.46,5,2507.3,GCash,Online
+TXN-00685,2025-06-23,CUST-032,Victoria Torres,Kindaichi Case Files,Mystery,18,Kodansha,Used,330.14,1,330.14,Cash,Online
+TXN-00686,2025-03-18,CUST-008,Isabella Lopez,Bleach,Action,7,Shueisha,Used,284.21,4,1136.84,Debit Card,In-Store
+TXN-00687,2025-01-24,CUST-003,Noah Cruz,Ghost in the Shell,Sci-Fi,24,Kodansha,New,466.53,4,1866.12,Debit Card,Online
+TXN-00688,2025-11-09,CUST-012,Charlotte Fernandez,Tokyo Ghoul,Horror,21,Shueisha,New,282.89,1,282.89,Credit Card,Online
+TXN-00689,2026-02-16,CUST-007,Aiden Flores,Spy x Family,Thriller,4,Shueisha,New,543.56,2,1087.12,Cash,Online
+TXN-00690,2026-03-05,CUST-021,Alexander Herrera,Silver Spoon,Slice of Life,4,Shogakukan,Used,255.16,2,510.32,Maya,In-Store
+TXN-00691,2025-03-28,CUST-038,Lillian Reyes,Akira,Sci-Fi,6,Kodansha,New,184.0,2,368.0,Credit Card,In-Store
+TXN-00692,2025-07-12,CUST-029,Aiden Ruiz,Monster,Mystery,8,Shogakukan,Used,84.94,1,84.94,Debit Card,In-Store
+TXN-00693,2025-08-02,CUST-006,Sophia Mendoza,Fairy Tail,Action,1,Kodansha,New,610.85,5,3054.25,Maya,In-Store
+TXN-00694,2026-04-26,CUST-014,Amelia Vasquez,Slam Dunk,Sports,5,Shueisha,New,397.24,4,1588.96,GCash,Online
+TXN-00695,2025-08-03,CUST-012,Charlotte Fernandez,My Hero Academia,Action,23,Shueisha,New,623.66,3,1870.98,Maya,Online
+TXN-00696,2025-04-23,CUST-008,Isabella Lopez,Pluto,Sci-Fi,17,Shogakukan,Used,268.82,5,1344.1,Debit Card,In-Store
+TXN-00697,2025-04-01,CUST-004,Olivia Dela Cruz,Blame!,Sci-Fi,7,Kodansha,New,199.09,4,796.36,Credit Card,Online
+TXN-00698,2025-01-23,CUST-024,Emily Vargas,Naruto,Action,10,Shueisha,New,253.23,5,1266.15,Credit Card,Online
+TXN-00699,2026-04-04,CUST-012,Charlotte Fernandez,Hunter x Hunter,Action,6,Shueisha,Used,226.25,1,226.25,Cash,Online
+TXN-00700,2026-02-03,CUST-038,Lillian Reyes,Blue Lock,Sports,11,Kodansha,New,515.96,3,1547.88,GCash,Online
+TXN-00701,2025-08-30,CUST-016,Ava Rivera,Ghost in the Shell,Sci-Fi,24,Kodansha,New,225.98,2,451.96,Cash,In-Store
+TXN-00702,2025-03-11,CUST-010,Mia Gonzalez,Bleach,Action,7,Shueisha,Used,216.69,4,866.76,Maya,In-Store
+TXN-00703,2025-05-24,CUST-018,Harper Jimenez,Knights of Sidonia,Sci-Fi,7,Kodansha,New,137.01,5,685.05,Cash,Online
+TXN-00704,2025-03-22,CUST-027,Sebastian Alvarez,Daiya no Ace,Sports,6,Kodansha,Used,141.91,3,425.73,Debit Card,In-Store
+TXN-00705,2026-03-18,CUST-037,Joseph Gomez,Assassination Classroom,Thriller,18,Shueisha,Used,99.5,5,497.5,Credit Card,In-Store
+TXN-00706,2025-06-17,CUST-030,Chloe Silva,Dorohedoro,Thriller,9,Shogakukan,New,346.9,2,693.8,GCash,In-Store
+TXN-00707,2025-08-29,CUST-010,Mia Gonzalez,20th Century Boys,Sci-Fi,30,Shogakukan,New,122.69,1,122.69,Cash,In-Store
+TXN-00708,2025-09-11,CUST-028,Sofia Molina,Death Note,Mystery,17,Shueisha,New,549.15,1,549.15,Credit Card,Online
+TXN-00709,2025-09-03,CUST-027,Sebastian Alvarez,Death Note,Mystery,7,Shueisha,New,276.77,1,276.77,Cash,In-Store
+TXN-00710,2026-03-24,CUST-037,Joseph Gomez,Uzumaki,Horror,24,Shogakukan,New,637.5,4,2550.0,GCash,In-Store
+TXN-00711,2026-04-03,CUST-030,Chloe Silva,Devilman Crybaby,Horror,23,Kodansha,New,576.0,1,576.0,Credit Card,In-Store
+TXN-00712,2025-10-22,CUST-019,Benjamin Ortega,Death Note,Mystery,14,Shueisha,Used,293.98,5,1469.9,Debit Card,In-Store
+TXN-00713,2025-02-26,CUST-022,Abigail Diaz,Nisekoi,Romance,24,Shueisha,Used,235.69,3,707.07,Cash,Online
+TXN-00714,2025-12-30,CUST-003,Noah Cruz,Blue Lock,Sports,12,Kodansha,New,463.53,1,463.53,Debit Card,In-Store
+TXN-00715,2026-01-21,CUST-016,Ava Rivera,Devilman Crybaby,Horror,18,Kodansha,New,373.6,5,1868.0,GCash,In-Store
+TXN-00716,2025-02-02,CUST-023,Henry Medina,Knights of Sidonia,Sci-Fi,29,Kodansha,New,480.52,3,1441.56,Cash,Online
+TXN-00717,2026-04-06,CUST-033,Samuel Castro,Daiya no Ace,Sports,17,Kodansha,Used,221.51,5,1107.55,Debit Card,Online
+TXN-00718,2026-04-05,CUST-005,Ethan Garcia,Eden: It's an Endless World!,Thriller,7,Shogakukan,Used,217.6,1,217.6,Credit Card,Online
+TXN-00719,2025-09-24,CUST-011,Mason Torres,Kaguya-sama,Romance,9,Shueisha,New,198.42,2,396.84,GCash,In-Store
+TXN-00720,2025-08-16,CUST-027,Sebastian Alvarez,Jujutsu Kaisen,Action,22,Shueisha,New,189.97,3,569.91,Credit Card,In-Store
+TXN-00721,2025-07-30,CUST-013,Elijah Navarro,Jujutsu Kaisen,Action,3,Shueisha,New,545.05,5,2725.25,Maya,In-Store
+TXN-00722,2025-06-05,CUST-038,Lillian Reyes,A Silent Voice,Slice of Life,22,Kodansha,New,566.21,4,2264.84,Credit Card,In-Store
+TXN-00723,2025-06-30,CUST-017,James Castillo,Magi,Fantasy,8,Shogakukan,New,634.48,1,634.48,GCash,Online
+TXN-00724,2025-03-24,CUST-011,Mason Torres,Hellsing,Horror,23,Shonen Gahosha,New,216.61,2,433.22,GCash,Online
+TXN-00725,2025-12-29,CUST-037,Joseph Gomez,Black Clover,Action,5,Shueisha,New,315.93,2,631.86,Debit Card,Online
+TXN-00726,2025-03-04,CUST-010,Mia Gonzalez,Barakamon,Slice of Life,12,Square Enix,New,637.0,5,3185.0,Maya,In-Store
+TXN-00727,2025-06-19,CUST-010,Mia Gonzalez,Nichijou,Comedy,15,Kadokawa,Used,121.63,5,608.15,Debit Card,In-Store
+TXN-00728,2026-01-09,CUST-019,Benjamin Ortega,Sword Art Online,Fantasy,25,Kadokawa,Used,254.45,2,508.9,Debit Card,In-Store
+TXN-00729,2025-06-07,CUST-008,Isabella Lopez,Hajime no Ippo,Sports,24,Kodansha,New,141.24,5,706.2,Cash,Online
+TXN-00730,2025-09-27,CUST-029,Aiden Ruiz,Deadman Wonderland,Thriller,12,Kadokawa,New,149.17,2,298.34,Debit Card,Online
+TXN-00731,2025-07-21,CUST-002,Emma Reyes,Made in Abyss,Fantasy,3,Takeshobo,New,356.09,1,356.09,Debit Card,Online
+TXN-00732,2025-03-17,CUST-039,Owen Nunez,Nana,Slice of Life,17,Shueisha,Used,360.89,3,1082.67,Credit Card,In-Store
+TXN-00733,2026-03-24,CUST-025,Jackson Romero,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,12,Media Factory,New,302.81,3,908.43,Credit Card,In-Store
+TXN-00734,2025-03-13,CUST-027,Sebastian Alvarez,Battle Angel Alita,Sci-Fi,26,Shueisha,New,206.81,4,827.24,Credit Card,In-Store
+TXN-00735,2025-02-03,CUST-010,Mia Gonzalez,Spy x Family,Thriller,7,Shueisha,New,643.84,5,3219.2,Maya,In-Store
+TXN-00736,2025-10-12,CUST-006,Sophia Mendoza,Biomega,Thriller,1,Shueisha,New,604.64,4,2418.56,GCash,In-Store
+TXN-00737,2026-02-26,CUST-013,Elijah Navarro,Assassination Classroom,Thriller,6,Shueisha,Used,164.05,4,656.2,Cash,In-Store
+TXN-00738,2025-05-15,CUST-032,Victoria Torres,Future Diary,Thriller,18,Kadokawa,Used,143.4,1,143.4,GCash,Online
+TXN-00739,2025-03-03,CUST-019,Benjamin Ortega,Kuroko's Basketball,Sports,14,Shueisha,New,600.6,2,1201.2,Cash,In-Store
+TXN-00740,2025-11-18,CUST-039,Owen Nunez,Kuroko's Basketball,Sports,24,Shueisha,New,374.66,4,1498.64,Maya,In-Store
+TXN-00741,2025-01-30,CUST-033,Samuel Castro,Toradora,Romance,24,ASCII Media Works,New,568.0,2,1136.0,Debit Card,Online
+TXN-00742,2025-05-29,CUST-023,Henry Medina,Slam Dunk,Sports,6,Shueisha,New,311.42,3,934.26,Cash,Online
+TXN-00743,2025-10-06,CUST-013,Elijah Navarro,Skip Beat,Romance,25,Hakusensha,New,525.29,5,2626.45,GCash,Online
+TXN-00744,2025-06-30,CUST-018,Harper Jimenez,K-On!,Slice of Life,22,Houbunsha,New,312.14,5,1560.7,Debit Card,In-Store
+TXN-00745,2025-02-22,CUST-034,Penelope Rojas,Dragon Ball Z,Action,10,Shueisha,New,377.0,3,1131.0,GCash,Online
+TXN-00746,2025-12-31,CUST-013,Elijah Navarro,Q.E.D.,Mystery,26,Kodansha,Used,267.07,5,1335.35,Debit Card,In-Store
+TXN-00747,2025-06-28,CUST-030,Chloe Silva,Clannad,Romance,30,Key/VisualArts,New,553.99,1,553.99,Credit Card,Online
+TXN-00748,2025-12-30,CUST-029,Aiden Ruiz,March Comes in Like a Lion,Slice of Life,29,Hakusensha,Used,238.35,3,715.05,GCash,Online
+TXN-00749,2025-04-18,CUST-009,Lucas Ramos,Ao Haru Ride,Romance,28,Shueisha,New,484.66,3,1453.98,GCash,Online
+TXN-00750,2025-04-11,CUST-008,Isabella Lopez,Clannad,Romance,3,Key/VisualArts,New,376.66,4,1506.64,Cash,Online
+TXN-00751,2025-12-08,CUST-004,Olivia Dela Cruz,ID: Invaded,Mystery,16,Kadokawa,New,254.1,1,254.1,Maya,Online
+TXN-00752,2025-02-16,CUST-039,Owen Nunez,Kaguya-sama,Romance,7,Shueisha,New,226.01,3,678.03,Cash,Online
+TXN-00753,2025-09-16,CUST-023,Henry Medina,No Game No Life,Fantasy,12,Media Factory,New,385.34,5,1926.7,GCash,In-Store
+TXN-00754,2026-04-07,CUST-001,Liam Santos,Nisekoi,Romance,17,Shueisha,New,221.52,3,664.56,GCash,In-Store
+TXN-00755,2025-04-05,CUST-014,Amelia Vasquez,One Piece,Action,30,Shueisha,New,495.11,3,1485.33,Debit Card,In-Store
+TXN-00756,2026-01-25,CUST-023,Henry Medina,Horimiya,Romance,13,Square Enix,New,392.55,4,1570.2,Cash,In-Store
+TXN-00757,2026-01-05,CUST-008,Isabella Lopez,Lovely Complex,Romance,17,Shueisha,New,524.01,3,1572.03,Debit Card,Online
+TXN-00758,2025-04-26,CUST-008,Isabella Lopez,A Silent Voice,Slice of Life,13,Kodansha,New,438.21,3,1314.63,Credit Card,In-Store
+TXN-00759,2025-04-02,CUST-013,Elijah Navarro,That Time I Got Reincarnated,Fantasy,28,Kodansha,New,565.76,4,2263.04,Maya,Online
+TXN-00760,2025-07-22,CUST-026,Elizabeth Gutierrez,Kuroko's Basketball,Sports,15,Shueisha,New,478.55,1,478.55,GCash,In-Store
+TXN-00761,2026-03-09,CUST-011,Mason Torres,Spy x Family,Thriller,3,Shueisha,New,225.52,2,451.04,Debit Card,In-Store
+TXN-00762,2025-05-20,CUST-028,Sofia Molina,Ao Haru Ride,Romance,24,Shueisha,New,525.35,5,2626.75,Debit Card,In-Store
+TXN-00763,2025-05-23,CUST-031,Matthew Perez,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,22,Media Factory,New,334.36,4,1337.44,Debit Card,Online
+TXN-00764,2025-02-20,CUST-008,Isabella Lopez,Kuroko's Basketball,Sports,9,Shueisha,New,242.34,2,484.68,Cash,In-Store
+TXN-00765,2025-11-15,CUST-002,Emma Reyes,Lovely Complex,Romance,6,Shueisha,New,479.98,2,959.96,Maya,In-Store
+TXN-00766,2025-09-16,CUST-032,Victoria Torres,Skip Beat,Romance,26,Hakusensha,New,275.59,4,1102.36,Credit Card,Online
+TXN-00767,2025-07-16,CUST-035,David Salazar,Aria,Slice of Life,1,Mag Garden,Used,82.05,4,328.2,Cash,In-Store
+TXN-00768,2025-09-09,CUST-030,Chloe Silva,Nichijou,Comedy,2,Kadokawa,New,415.03,3,1245.09,GCash,In-Store
+TXN-00769,2025-10-20,CUST-032,Victoria Torres,That Time I Got Reincarnated,Fantasy,25,Kodansha,New,477.76,5,2388.8,Debit Card,In-Store
+TXN-00770,2025-12-13,CUST-033,Samuel Castro,Monster,Mystery,2,Shogakukan,New,382.19,4,1528.76,Debit Card,Online
+TXN-00771,2026-02-19,CUST-004,Olivia Dela Cruz,Re:Zero,Fantasy,1,Kadokawa,New,187.94,3,563.82,Maya,In-Store
+TXN-00772,2025-01-29,CUST-025,Jackson Romero,Black Clover,Action,4,Shueisha,New,645.73,4,2582.92,Maya,In-Store
+TXN-00773,2025-06-22,CUST-020,Evelyn Aguirre,Pluto,Sci-Fi,19,Shogakukan,New,484.64,3,1453.92,Cash,Online
+TXN-00774,2025-05-17,CUST-003,Noah Cruz,Detective Conan,Mystery,15,Shogakukan,New,343.91,5,1719.55,Credit Card,Online
+TXN-00775,2026-02-18,CUST-002,Emma Reyes,Blue Lock,Sports,11,Kodansha,New,326.86,5,1634.3,Cash,In-Store
+TXN-00776,2025-06-03,CUST-032,Victoria Torres,Knights of Sidonia,Sci-Fi,17,Kodansha,Used,284.23,2,568.46,Debit Card,Online
+TXN-00777,2025-05-28,CUST-032,Victoria Torres,Grand Blue,Comedy,21,Kodansha,Used,322.31,5,1611.55,GCash,Online
+TXN-00778,2025-02-18,CUST-026,Elizabeth Gutierrez,No Game No Life,Fantasy,26,Media Factory,New,513.73,1,513.73,Debit Card,In-Store
+TXN-00779,2025-11-30,CUST-037,Joseph Gomez,Vinland Saga,Fantasy,26,Kodansha,New,346.37,3,1039.11,Cash,In-Store
+TXN-00780,2025-11-16,CUST-028,Sofia Molina,Kindaichi Case Files,Mystery,22,Kodansha,New,226.04,4,904.16,Maya,In-Store
+TXN-00781,2025-04-20,CUST-002,Emma Reyes,Monster,Mystery,21,Shogakukan,Used,346.34,5,1731.7,Credit Card,In-Store
+TXN-00782,2026-01-08,CUST-035,David Salazar,Captain Tsubasa,Sports,26,Shueisha,New,527.63,4,2110.52,Debit Card,In-Store
+TXN-00783,2025-07-30,CUST-024,Emily Vargas,Q.E.D.,Mystery,15,Kodansha,New,199.75,3,599.25,Credit Card,Online
+TXN-00784,2025-05-01,CUST-027,Sebastian Alvarez,Ao Haru Ride,Romance,9,Shueisha,Used,277.44,3,832.32,Debit Card,In-Store
+TXN-00785,2025-10-14,CUST-013,Elijah Navarro,Horimiya,Romance,1,Square Enix,New,558.43,4,2233.72,Credit Card,In-Store
+TXN-00786,2025-04-01,CUST-013,Elijah Navarro,Gintama,Comedy,6,Shueisha,New,135.45,3,406.35,Debit Card,In-Store
+TXN-00787,2026-03-20,CUST-002,Emma Reyes,Fairy Tail,Action,2,Kodansha,Used,98.69,5,493.45,Maya,Online
+TXN-00788,2025-02-27,CUST-006,Sophia Mendoza,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,13,Media Factory,Used,302.3,2,604.6,GCash,In-Store
+TXN-00789,2025-09-12,CUST-034,Penelope Rojas,The Promised Neverland,Mystery,22,Shueisha,Used,374.0,5,1870.0,Maya,In-Store
+TXN-00790,2026-02-17,CUST-008,Isabella Lopez,20th Century Boys,Sci-Fi,25,Shogakukan,Used,176.71,5,883.55,Credit Card,In-Store
+TXN-00791,2025-07-29,CUST-014,Amelia Vasquez,Gantz,Sci-Fi,5,Shueisha,New,233.48,3,700.44,Credit Card,Online
+TXN-00792,2025-08-05,CUST-032,Victoria Torres,Attack on Titan,Thriller,18,Kodansha,New,622.82,3,1868.46,Debit Card,In-Store
+TXN-00793,2025-11-27,CUST-010,Mia Gonzalez,Blame!,Sci-Fi,12,Kodansha,New,314.9,3,944.7,Cash,In-Store
+TXN-00794,2025-07-16,CUST-004,Olivia Dela Cruz,Attack on Titan,Thriller,23,Kodansha,Used,285.57,3,856.71,Debit Card,Online
+TXN-00795,2026-04-20,CUST-035,David Salazar,Chi's Sweet Home,Slice of Life,28,Kodansha,New,354.47,1,354.47,Credit Card,In-Store
+TXN-00796,2026-04-14,CUST-006,Sophia Mendoza,Overlord,Fantasy,30,Kadokawa,Used,146.87,2,293.74,GCash,In-Store
+TXN-00797,2026-01-13,CUST-003,Noah Cruz,Silver Spoon,Slice of Life,9,Shogakukan,Used,333.77,4,1335.08,Credit Card,In-Store
+TXN-00798,2025-08-04,CUST-007,Aiden Flores,Silver Spoon,Slice of Life,27,Shogakukan,New,258.31,1,258.31,Maya,In-Store
+TXN-00799,2026-02-10,CUST-030,Chloe Silva,Detective Conan,Mystery,23,Shogakukan,New,147.61,2,295.22,Credit Card,In-Store
+TXN-00800,2025-05-08,CUST-013,Elijah Navarro,Bleach,Action,21,Shueisha,New,425.18,1,425.18,GCash,In-Store
+TXN-00801,2025-03-30,CUST-027,Sebastian Alvarez,Hellsing,Horror,26,Shonen Gahosha,Used,215.57,2,431.14,Maya,In-Store
+TXN-00802,2025-04-25,CUST-013,Elijah Navarro,K-On!,Slice of Life,3,Houbunsha,New,216.4,4,865.6,Debit Card,Online
+TXN-00803,2025-05-15,CUST-040,Hannah Serrano,Hunter x Hunter,Action,21,Shueisha,New,167.16,4,668.64,GCash,In-Store
+TXN-00804,2025-03-29,CUST-026,Elizabeth Gutierrez,Tokyo Ghoul,Horror,20,Shueisha,New,257.88,1,257.88,Maya,In-Store
+TXN-00805,2025-04-25,CUST-034,Penelope Rojas,Fruits Basket,Romance,14,Hakusensha,Used,367.19,4,1468.76,Cash,In-Store
+TXN-00806,2025-04-21,CUST-019,Benjamin Ortega,Blame!,Sci-Fi,24,Kodansha,New,189.01,2,378.02,Debit Card,In-Store
+TXN-00807,2025-05-01,CUST-027,Sebastian Alvarez,Made in Abyss,Fantasy,6,Takeshobo,New,197.35,3,592.05,Maya,In-Store
+TXN-00808,2026-03-23,CUST-038,Lillian Reyes,Knights of Sidonia,Sci-Fi,22,Kodansha,New,165.44,4,661.76,GCash,Online
+TXN-00809,2025-10-13,CUST-025,Jackson Romero,Grand Blue,Comedy,23,Kodansha,New,436.51,1,436.51,Cash,Online
+TXN-00810,2025-01-03,CUST-031,Matthew Perez,Yuru Camp,Slice of Life,30,Houbunsha,New,441.38,5,2206.9,Cash,Online
+TXN-00811,2025-10-25,CUST-020,Evelyn Aguirre,Biomega,Thriller,13,Shueisha,New,190.09,5,950.45,Cash,Online
+TXN-00812,2025-12-30,CUST-032,Victoria Torres,Battle Royale,Horror,30,Akita Shoten,New,368.08,1,368.08,Maya,In-Store
+TXN-00813,2026-04-20,CUST-008,Isabella Lopez,Parasyte,Horror,11,Kodansha,New,187.77,3,563.31,Maya,In-Store
+TXN-00814,2026-01-27,CUST-017,James Castillo,No Game No Life,Fantasy,17,Media Factory,New,593.12,3,1779.36,Credit Card,In-Store
+TXN-00815,2025-05-14,CUST-004,Olivia Dela Cruz,Vanitas no Carte,Mystery,7,Square Enix,New,241.83,1,241.83,Credit Card,Online
+TXN-00816,2025-09-06,CUST-008,Isabella Lopez,Yowamushi Pedal,Sports,29,Akita Shoten,Used,84.97,3,254.91,Debit Card,In-Store
+TXN-00817,2026-01-19,CUST-008,Isabella Lopez,Horimiya,Romance,12,Square Enix,New,580.13,2,1160.26,GCash,In-Store
+TXN-00818,2025-04-03,CUST-038,Lillian Reyes,No Game No Life,Fantasy,7,Media Factory,New,634.96,5,3174.8,Debit Card,In-Store
+TXN-00819,2025-07-21,CUST-032,Victoria Torres,Ao Haru Ride,Romance,22,Shueisha,New,294.19,3,882.57,Cash,Online
+TXN-00820,2025-11-18,CUST-010,Mia Gonzalez,Toradora,Romance,1,ASCII Media Works,New,560.27,4,2241.08,Credit Card,In-Store
+TXN-00821,2025-03-08,CUST-022,Abigail Diaz,Attack on Titan,Thriller,2,Kodansha,New,623.97,3,1871.91,Debit Card,Online
+TXN-00822,2025-02-17,CUST-021,Alexander Herrera,Jujutsu Kaisen,Action,26,Shueisha,New,157.48,5,787.4,Credit Card,Online
+TXN-00823,2025-05-26,CUST-026,Elizabeth Gutierrez,Junji Ito Collection,Horror,3,Shogakukan,New,230.36,4,921.44,Credit Card,In-Store
+TXN-00824,2025-03-09,CUST-020,Evelyn Aguirre,Chainsaw Man,Horror,16,Shueisha,Used,306.01,3,918.03,Debit Card,Online
+TXN-00825,2025-10-16,CUST-033,Samuel Castro,Toradora,Romance,7,ASCII Media Works,New,589.27,4,2357.08,Maya,In-Store
+TXN-00826,2025-09-20,CUST-024,Emily Vargas,Clannad,Romance,20,Key/VisualArts,New,454.26,1,454.26,Cash,Online
+TXN-00827,2025-05-29,CUST-010,Mia Gonzalez,Eyeshield 21,Sports,30,Shueisha,New,453.67,5,2268.35,Cash,In-Store
+TXN-00828,2025-09-25,CUST-020,Evelyn Aguirre,Lovely Complex,Romance,5,Shueisha,Used,289.61,3,868.83,GCash,In-Store
+TXN-00829,2025-07-31,CUST-036,Zoe Moreno,Attack on Titan,Thriller,3,Kodansha,Used,235.27,5,1176.35,Credit Card,Online
+TXN-00830,2026-01-15,CUST-023,Henry Medina,Future Diary,Thriller,9,Kadokawa,New,527.38,1,527.38,Cash,In-Store
+TXN-00831,2025-10-28,CUST-026,Elizabeth Gutierrez,Berserk,Horror,2,Hakusensha,New,584.68,3,1754.04,Maya,In-Store
+TXN-00832,2025-04-05,CUST-017,James Castillo,Blue Lock,Sports,11,Kodansha,Used,349.09,2,698.18,GCash,Online
+TXN-00833,2025-03-29,CUST-007,Aiden Flores,Future Diary,Thriller,14,Kadokawa,New,123.1,1,123.1,Cash,In-Store
+TXN-00834,2025-12-20,CUST-039,Owen Nunez,Yowamushi Pedal,Sports,24,Akita Shoten,New,447.8,5,2239.0,Maya,In-Store
+TXN-00835,2026-03-16,CUST-006,Sophia Mendoza,Konosuba,Comedy,5,Kadokawa,New,221.13,1,221.13,GCash,Online
+TXN-00836,2025-02-14,CUST-016,Ava Rivera,Slam Dunk,Sports,14,Shueisha,Used,344.9,5,1724.5,GCash,Online
+TXN-00837,2025-09-06,CUST-031,Matthew Perez,Slam Dunk,Sports,14,Shueisha,New,208.04,2,416.08,Credit Card,In-Store
+TXN-00838,2025-06-20,CUST-016,Ava Rivera,Blue Lock,Sports,7,Kodansha,New,559.61,4,2238.44,Cash,Online
+TXN-00839,2025-09-07,CUST-032,Victoria Torres,Hinamatsuri,Comedy,24,Kadokawa,New,507.47,3,1522.41,Cash,Online
+TXN-00840,2026-01-01,CUST-040,Hannah Serrano,ID: Invaded,Mystery,30,Kadokawa,New,552.85,4,2211.4,GCash,Online
+TXN-00841,2025-03-01,CUST-037,Joseph Gomez,Bleach,Action,11,Shueisha,New,261.96,4,1047.84,Credit Card,In-Store
+TXN-00842,2025-08-13,CUST-028,Sofia Molina,A Silent Voice,Slice of Life,1,Kodansha,New,504.89,4,2019.56,Maya,Online
+TXN-00843,2026-03-29,CUST-022,Abigail Diaz,20th Century Boys,Sci-Fi,30,Shogakukan,New,566.51,4,2266.04,GCash,Online
+TXN-00844,2025-04-17,CUST-024,Emily Vargas,Hinamatsuri,Comedy,26,Kadokawa,New,634.6,2,1269.2,Debit Card,Online
+TXN-00845,2026-04-28,CUST-009,Lucas Ramos,Lovely Complex,Romance,6,Shueisha,New,441.05,1,441.05,Credit Card,In-Store
+TXN-00846,2025-12-13,CUST-014,Amelia Vasquez,Made in Abyss,Fantasy,18,Takeshobo,New,129.61,3,388.83,Maya,Online
+TXN-00847,2025-04-25,CUST-005,Ethan Garcia,Death Note,Mystery,11,Shueisha,New,447.31,1,447.31,Debit Card,In-Store
+TXN-00848,2025-11-06,CUST-003,Noah Cruz,Barakamon,Slice of Life,25,Square Enix,Used,157.06,2,314.12,Debit Card,In-Store
+TXN-00849,2026-02-05,CUST-030,Chloe Silva,Fairy Tail,Action,27,Kodansha,Used,381.94,5,1909.7,Debit Card,In-Store
+TXN-00850,2025-03-22,CUST-003,Noah Cruz,Skip Beat,Romance,17,Hakusensha,New,453.86,2,907.72,Maya,In-Store
+TXN-00851,2026-02-24,CUST-032,Victoria Torres,Prince of Tennis,Sports,24,Shueisha,Used,121.07,3,363.21,Maya,Online
+TXN-00852,2025-05-27,CUST-027,Sebastian Alvarez,Battle Angel Alita,Sci-Fi,25,Shueisha,Used,150.01,4,600.04,Maya,In-Store
+TXN-00853,2026-01-21,CUST-024,Emily Vargas,Your Lie in April,Romance,23,Kodansha,Used,186.68,2,373.36,GCash,In-Store
+TXN-00854,2026-02-11,CUST-009,Lucas Ramos,Grand Blue,Comedy,26,Kodansha,New,606.55,4,2426.2,Debit Card,In-Store
+TXN-00855,2025-06-23,CUST-010,Mia Gonzalez,Fairy Tail,Action,25,Kodansha,New,547.31,1,547.31,Cash,Online
+TXN-00856,2025-01-30,CUST-004,Olivia Dela Cruz,Blood+,Horror,13,Sony,Used,281.93,2,563.86,Debit Card,In-Store
+TXN-00857,2026-04-11,CUST-027,Sebastian Alvarez,Kindaichi Case Files,Mystery,13,Kodansha,Used,294.85,3,884.55,Maya,Online
+TXN-00858,2025-11-16,CUST-040,Hannah Serrano,Log Horizon,Fantasy,30,Kadokawa,New,334.09,2,668.18,Debit Card,In-Store
+TXN-00859,2025-06-21,CUST-026,Elizabeth Gutierrez,Hajime no Ippo,Sports,25,Kodansha,New,279.81,1,279.81,Debit Card,Online
+TXN-00860,2025-06-24,CUST-035,David Salazar,Battle Royale,Horror,10,Akita Shoten,New,391.19,3,1173.57,Debit Card,In-Store
+TXN-00861,2026-01-07,CUST-002,Emma Reyes,Tokyo Ghoul,Horror,29,Shueisha,Used,260.42,2,520.84,Maya,In-Store
+TXN-00862,2025-01-25,CUST-004,Olivia Dela Cruz,The Promised Neverland,Mystery,27,Shueisha,New,452.3,3,1356.9,Cash,In-Store
+TXN-00863,2025-10-17,CUST-020,Evelyn Aguirre,Lovely Complex,Romance,19,Shueisha,Used,216.1,2,432.2,Debit Card,In-Store
+TXN-00864,2026-01-01,CUST-015,Logan Morales,ID: Invaded,Mystery,12,Kadokawa,New,473.47,5,2367.35,GCash,Online
+TXN-00865,2025-02-20,CUST-021,Alexander Herrera,Ghost in the Shell,Sci-Fi,17,Kodansha,New,556.11,3,1668.33,Credit Card,Online
+TXN-00866,2025-08-17,CUST-006,Sophia Mendoza,Hinamatsuri,Comedy,3,Kadokawa,New,590.91,4,2363.64,GCash,Online
+TXN-00867,2025-09-13,CUST-038,Lillian Reyes,Moriarty the Patriot,Mystery,18,Shueisha,New,329.23,3,987.69,Debit Card,In-Store
+TXN-00868,2025-03-08,CUST-027,Sebastian Alvarez,Daiya no Ace,Sports,27,Kodansha,New,388.07,4,1552.28,Credit Card,In-Store
+TXN-00869,2025-07-09,CUST-008,Isabella Lopez,91 Days,Mystery,23,Shogakukan,New,370.88,2,741.76,Debit Card,In-Store
+TXN-00870,2025-03-20,CUST-027,Sebastian Alvarez,Nisekoi,Romance,4,Shueisha,New,423.04,1,423.04,Debit Card,Online
+TXN-00871,2025-08-04,CUST-020,Evelyn Aguirre,Re:Zero,Fantasy,10,Kadokawa,New,539.34,2,1078.68,Debit Card,Online
+TXN-00872,2025-06-28,CUST-014,Amelia Vasquez,Overlord,Fantasy,6,Kadokawa,Used,227.44,1,227.44,Debit Card,Online
+TXN-00873,2025-09-01,CUST-031,Matthew Perez,Bleach,Action,19,Shueisha,New,359.76,3,1079.28,Credit Card,In-Store
+TXN-00874,2026-03-20,CUST-009,Lucas Ramos,Assassination Classroom,Thriller,17,Shueisha,New,523.69,4,2094.76,GCash,In-Store
+TXN-00875,2025-01-24,CUST-040,Hannah Serrano,Nisekoi,Romance,14,Shueisha,New,597.13,3,1791.39,Debit Card,In-Store
+TXN-00876,2025-11-27,CUST-006,Sophia Mendoza,Captain Tsubasa,Sports,28,Shueisha,New,133.15,3,399.45,Debit Card,Online
+TXN-00877,2025-04-07,CUST-013,Elijah Navarro,The Promised Neverland,Mystery,20,Shueisha,New,521.54,5,2607.7,Debit Card,In-Store
+TXN-00878,2026-02-07,CUST-008,Isabella Lopez,Death Note,Mystery,22,Shueisha,Used,129.16,1,129.16,Maya,Online
+TXN-00879,2025-09-09,CUST-006,Sophia Mendoza,Dorohedoro,Thriller,26,Shogakukan,New,289.83,5,1449.15,Cash,In-Store
+TXN-00880,2025-05-12,CUST-028,Sofia Molina,Black Clover,Action,6,Shueisha,New,575.61,3,1726.83,Credit Card,Online
+TXN-00881,2025-06-07,CUST-011,Mason Torres,Skip Beat,Romance,10,Hakusensha,New,255.44,1,255.44,GCash,In-Store
+TXN-00882,2025-02-20,CUST-040,Hannah Serrano,Tokyo Ghoul,Horror,11,Shueisha,New,498.05,3,1494.15,Credit Card,Online
+TXN-00883,2025-05-03,CUST-017,James Castillo,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,13,Media Factory,Used,358.04,1,358.04,GCash,In-Store
+TXN-00884,2025-02-01,CUST-032,Victoria Torres,Deadman Wonderland,Thriller,17,Kadokawa,Used,194.45,1,194.45,Maya,Online
+TXN-00885,2025-10-11,CUST-005,Ethan Garcia,Moriarty the Patriot,Mystery,16,Shueisha,New,455.78,1,455.78,Maya,In-Store
+TXN-00886,2025-02-12,CUST-036,Zoe Moreno,Ao Haru Ride,Romance,21,Shueisha,Used,168.86,4,675.44,Credit Card,In-Store
+TXN-00887,2025-08-05,CUST-010,Mia Gonzalez,Q.E.D.,Mystery,12,Kodansha,New,209.14,2,418.28,Debit Card,In-Store
+TXN-00888,2025-12-01,CUST-003,Noah Cruz,Vanitas no Carte,Mystery,1,Square Enix,Used,377.63,5,1888.15,Maya,In-Store
+TXN-00889,2026-03-08,CUST-031,Matthew Perez,Naruto,Action,9,Shueisha,New,564.93,4,2259.72,Maya,In-Store
+TXN-00890,2025-02-15,CUST-019,Benjamin Ortega,Bastard!!,Thriller,2,Shueisha,New,403.07,1,403.07,Maya,Online
+TXN-00891,2026-03-29,CUST-036,Zoe Moreno,Horimiya,Romance,9,Square Enix,Used,139.05,5,695.25,Maya,In-Store
+TXN-00892,2025-08-24,CUST-029,Aiden Ruiz,K-On!,Slice of Life,9,Houbunsha,New,641.0,3,1923.0,GCash,In-Store
+TXN-00893,2025-12-11,CUST-009,Lucas Ramos,Yotsuba&!,Slice of Life,21,ASCII Media Works,Used,265.6,1,265.6,Cash,Online
+TXN-00894,2025-01-16,CUST-026,Elizabeth Gutierrez,Vanitas no Carte,Mystery,18,Square Enix,New,584.66,1,584.66,Debit Card,In-Store
+TXN-00895,2026-03-06,CUST-023,Henry Medina,Kuroko's Basketball,Sports,27,Shueisha,New,438.69,4,1754.76,GCash,In-Store
+TXN-00896,2026-01-24,CUST-030,Chloe Silva,One Piece,Action,12,Shueisha,Used,213.38,2,426.76,Cash,Online
+TXN-00897,2025-09-10,CUST-006,Sophia Mendoza,Yuru Camp,Slice of Life,27,Houbunsha,New,280.68,2,561.36,GCash,In-Store
+TXN-00898,2026-02-25,CUST-032,Victoria Torres,Jujutsu Kaisen,Action,29,Shueisha,Used,264.71,1,264.71,GCash,In-Store
+TXN-00899,2025-10-17,CUST-037,Joseph Gomez,Your Lie in April,Romance,17,Kodansha,New,412.45,5,2062.25,Debit Card,Online
+TXN-00900,2026-01-09,CUST-005,Ethan Garcia,Assassination Classroom,Thriller,5,Shueisha,New,422.05,2,844.1,Debit Card,In-Store
+TXN-00901,2026-04-26,CUST-035,David Salazar,Akira,Sci-Fi,20,Kodansha,New,416.86,4,1667.44,Cash,In-Store
+TXN-00902,2025-09-11,CUST-028,Sofia Molina,Black Clover,Action,28,Shueisha,Used,159.14,5,795.7,Credit Card,Online
+TXN-00903,2025-07-20,CUST-004,Olivia Dela Cruz,Demon Slayer,Action,9,Shueisha,Used,241.31,3,723.93,Cash,Online
+TXN-00904,2025-04-11,CUST-002,Emma Reyes,Nisekoi,Romance,24,Shueisha,New,485.46,1,485.46,GCash,Online
+TXN-00905,2026-03-07,CUST-007,Aiden Flores,Vinland Saga,Fantasy,1,Kodansha,New,548.27,5,2741.35,Maya,Online
+TXN-00906,2025-02-07,CUST-016,Ava Rivera,Lovely Complex,Romance,11,Shueisha,Used,333.28,5,1666.4,GCash,In-Store
+TXN-00907,2025-07-13,CUST-007,Aiden Flores,Dorohedoro,Thriller,21,Shogakukan,New,186.16,1,186.16,Cash,Online
+TXN-00908,2025-02-03,CUST-004,Olivia Dela Cruz,Horimiya,Romance,30,Square Enix,Used,89.42,5,447.1,Credit Card,Online
+TXN-00909,2025-04-30,CUST-004,Olivia Dela Cruz,Hunter x Hunter,Action,10,Shueisha,Used,199.73,5,998.65,Credit Card,In-Store
+TXN-00910,2025-02-21,CUST-030,Chloe Silva,Attack on Titan,Thriller,13,Kodansha,New,346.9,5,1734.5,Debit Card,Online
+TXN-00911,2026-01-01,CUST-034,Penelope Rojas,Fairy Tail,Action,11,Kodansha,New,177.24,1,177.24,Debit Card,Online
+TXN-00912,2025-08-16,CUST-009,Lucas Ramos,20th Century Boys,Sci-Fi,21,Shogakukan,New,308.36,4,1233.44,Debit Card,Online
+TXN-00913,2025-10-26,CUST-004,Olivia Dela Cruz,Tokyo Ghoul,Horror,5,Shueisha,New,351.0,3,1053.0,Maya,In-Store
+TXN-00914,2025-10-28,CUST-031,Matthew Perez,Berserk,Horror,10,Hakusensha,New,274.26,1,274.26,Debit Card,In-Store
+TXN-00915,2025-06-26,CUST-016,Ava Rivera,Tokyo Ghoul,Horror,17,Shueisha,Used,249.91,1,249.91,Credit Card,Online
+TXN-00916,2025-12-21,CUST-005,Ethan Garcia,Pluto,Sci-Fi,11,Shogakukan,New,372.13,4,1488.52,Debit Card,Online
+TXN-00917,2026-03-25,CUST-022,Abigail Diaz,Dungeon Meshi,Thriller,20,Kadokawa,New,294.17,1,294.17,Credit Card,In-Store
+TXN-00918,2025-11-16,CUST-015,Logan Morales,Fairy Tail,Action,30,Kodansha,New,238.2,2,476.4,Credit Card,Online
+TXN-00919,2025-01-06,CUST-025,Jackson Romero,Hajime no Ippo,Sports,7,Kodansha,New,557.82,1,557.82,Maya,Online
+TXN-00920,2025-01-23,CUST-008,Isabella Lopez,Hunter x Hunter,Action,5,Shueisha,New,223.03,5,1115.15,Maya,In-Store
+TXN-00921,2026-03-10,CUST-019,Benjamin Ortega,Pluto,Sci-Fi,6,Shogakukan,New,258.86,2,517.72,Maya,In-Store
+TXN-00922,2025-07-14,CUST-002,Emma Reyes,Junji Ito Collection,Horror,6,Shogakukan,Used,361.58,1,361.58,GCash,In-Store
+TXN-00923,2026-04-27,CUST-014,Amelia Vasquez,Toradora,Romance,10,ASCII Media Works,New,315.91,3,947.73,GCash,In-Store
+TXN-00924,2025-09-30,CUST-005,Ethan Garcia,Biomega,Thriller,4,Shueisha,New,609.8,2,1219.6,GCash,Online
+TXN-00925,2025-10-28,CUST-039,Owen Nunez,Barakamon,Slice of Life,14,Square Enix,Used,149.77,1,149.77,Debit Card,Online
+TXN-00926,2026-03-12,CUST-010,Mia Gonzalez,Kindaichi Case Files,Mystery,11,Kodansha,New,453.61,3,1360.83,GCash,In-Store
+TXN-00927,2025-03-27,CUST-014,Amelia Vasquez,Dorohedoro,Thriller,24,Shogakukan,New,369.45,5,1847.25,Cash,In-Store
+TXN-00928,2025-12-22,CUST-032,Victoria Torres,Detective Conan,Mystery,17,Shogakukan,New,290.57,3,871.71,Debit Card,In-Store
+TXN-00929,2025-04-17,CUST-018,Harper Jimenez,Daiya no Ace,Sports,19,Kodansha,New,608.23,5,3041.15,Cash,Online
+TXN-00930,2025-03-22,CUST-016,Ava Rivera,Battle Angel Alita,Sci-Fi,13,Shueisha,New,345.26,4,1381.04,Debit Card,In-Store
+TXN-00931,2025-06-30,CUST-036,Zoe Moreno,K-On!,Slice of Life,3,Houbunsha,New,164.53,4,658.12,Debit Card,Online
+TXN-00932,2025-07-08,CUST-033,Samuel Castro,Fairy Tail,Action,20,Kodansha,New,359.11,4,1436.44,Credit Card,In-Store
+TXN-00933,2026-04-07,CUST-025,Jackson Romero,K-On!,Slice of Life,1,Houbunsha,New,243.91,1,243.91,Maya,Online
+TXN-00934,2025-03-02,CUST-035,David Salazar,91 Days,Mystery,21,Shogakukan,New,266.51,2,533.02,Cash,Online
+TXN-00935,2025-04-08,CUST-013,Elijah Navarro,Hunter x Hunter,Action,11,Shueisha,New,294.5,3,883.5,Maya,In-Store
+TXN-00936,2025-07-27,CUST-017,James Castillo,Battle Royale,Horror,1,Akita Shoten,Used,161.63,3,484.89,Credit Card,In-Store
+TXN-00937,2026-01-06,CUST-033,Samuel Castro,Fairy Tail,Action,25,Kodansha,Used,347.22,2,694.44,GCash,In-Store
+TXN-00938,2026-02-10,CUST-034,Penelope Rojas,Eyeshield 21,Sports,19,Shueisha,Used,312.92,4,1251.68,Maya,Online
+TXN-00939,2025-03-13,CUST-027,Sebastian Alvarez,Gantz,Sci-Fi,7,Shueisha,New,572.06,1,572.06,Maya,In-Store
+TXN-00940,2025-08-03,CUST-001,Liam Santos,Parasyte,Horror,16,Kodansha,Used,337.31,3,1011.93,GCash,In-Store
+TXN-00941,2025-03-20,CUST-020,Evelyn Aguirre,D-Frag!,Comedy,11,Kadokawa,New,420.82,1,420.82,GCash,In-Store
+TXN-00942,2025-07-20,CUST-039,Owen Nunez,Nana,Slice of Life,30,Shueisha,New,579.48,4,2317.92,GCash,Online
+TXN-00943,2025-03-29,CUST-031,Matthew Perez,Grand Blue,Comedy,4,Kodansha,New,629.83,3,1889.49,Cash,Online
+TXN-00944,2025-02-05,CUST-003,Noah Cruz,Monster,Mystery,27,Shogakukan,New,378.97,2,757.94,GCash,In-Store
+TXN-00945,2025-07-08,CUST-014,Amelia Vasquez,Konosuba,Comedy,8,Kadokawa,New,397.93,4,1591.72,Cash,In-Store
+TXN-00946,2025-09-02,CUST-027,Sebastian Alvarez,Devilman Crybaby,Horror,13,Kodansha,New,178.69,5,893.45,Credit Card,In-Store
+TXN-00947,2025-11-06,CUST-009,Lucas Ramos,Grand Blue,Comedy,28,Kodansha,New,349.07,4,1396.28,GCash,In-Store
+TXN-00948,2025-03-15,CUST-013,Elijah Navarro,No Game No Life,Fantasy,17,Media Factory,Used,217.95,2,435.9,Cash,In-Store
+TXN-00949,2025-08-25,CUST-016,Ava Rivera,Gekkan Shoujo Nozaki-kun,Comedy,17,Square Enix,New,421.69,4,1686.76,Credit Card,In-Store
+TXN-00950,2025-11-10,CUST-030,Chloe Silva,Your Lie in April,Romance,12,Kodansha,Used,298.3,3,894.9,Credit Card,In-Store
+TXN-00951,2026-04-12,CUST-016,Ava Rivera,Blood+,Horror,6,Sony,Used,305.17,4,1220.68,Credit Card,In-Store
+TXN-00952,2026-03-28,CUST-026,Elizabeth Gutierrez,Spy x Family,Thriller,23,Shueisha,Used,148.22,2,296.44,Maya,In-Store
+TXN-00953,2025-07-08,CUST-014,Amelia Vasquez,Vinland Saga,Fantasy,30,Kodansha,New,645.97,5,3229.85,Cash,Online
+TXN-00954,2025-08-25,CUST-021,Alexander Herrera,Skip Beat,Romance,14,Hakusensha,New,253.97,5,1269.85,Cash,Online
+TXN-00955,2025-05-09,CUST-022,Abigail Diaz,Yowamushi Pedal,Sports,24,Akita Shoten,New,223.03,1,223.03,Cash,Online
+TXN-00956,2025-03-13,CUST-030,Chloe Silva,Devilman Crybaby,Horror,16,Kodansha,New,163.75,2,327.5,Credit Card,In-Store
+TXN-00957,2025-10-01,CUST-011,Mason Torres,Magi,Fantasy,27,Shogakukan,New,173.27,3,519.81,Cash,In-Store
+TXN-00958,2026-01-01,CUST-001,Liam Santos,Chainsaw Man,Horror,22,Shueisha,New,353.55,2,707.1,GCash,Online
+TXN-00959,2025-07-19,CUST-029,Aiden Ruiz,Q.E.D.,Mystery,23,Kodansha,New,456.44,5,2282.2,Cash,In-Store
+TXN-00960,2025-07-11,CUST-039,Owen Nunez,Haikyuu!!,Sports,1,Shueisha,New,320.02,2,640.04,GCash,In-Store
+TXN-00961,2025-04-23,CUST-002,Emma Reyes,Ghost in the Shell,Sci-Fi,14,Kodansha,New,127.72,2,255.44,Cash,In-Store
+TXN-00962,2025-10-15,CUST-011,Mason Torres,Horimiya,Romance,2,Square Enix,New,177.07,3,531.21,Maya,In-Store
+TXN-00963,2025-07-02,CUST-035,David Salazar,Deadman Wonderland,Thriller,13,Kadokawa,Used,110.42,2,220.84,Cash,Online
+TXN-00964,2025-11-29,CUST-021,Alexander Herrera,Bleach,Action,1,Shueisha,New,363.15,1,363.15,Maya,In-Store
+TXN-00965,2026-02-10,CUST-014,Amelia Vasquez,One Piece,Action,14,Shueisha,New,437.4,1,437.4,Debit Card,In-Store
+TXN-00966,2025-06-20,CUST-017,James Castillo,Assassination Classroom,Thriller,4,Shueisha,New,640.15,4,2560.6,GCash,Online
+TXN-00967,2025-09-19,CUST-005,Ethan Garcia,A Silent Voice,Slice of Life,11,Kodansha,New,603.41,4,2413.64,Credit Card,In-Store
+TXN-00968,2025-06-08,CUST-038,Lillian Reyes,Terra Formars,Sci-Fi,23,Shueisha,Used,145.97,5,729.85,Cash,Online
+TXN-00969,2025-03-19,CUST-040,Hannah Serrano,Grand Blue,Comedy,3,Kodansha,New,318.5,3,955.5,GCash,Online
+TXN-00970,2025-11-26,CUST-039,Owen Nunez,Demon Slayer,Action,15,Shueisha,Used,176.53,3,529.59,Maya,In-Store
+TXN-00971,2025-06-25,CUST-027,Sebastian Alvarez,Hunter x Hunter,Action,21,Shueisha,Used,310.67,2,621.34,Maya,Online
+TXN-00972,2025-09-24,CUST-016,Ava Rivera,Death Note,Mystery,26,Shueisha,New,501.34,5,2506.7,Credit Card,Online
+TXN-00973,2026-04-26,CUST-005,Ethan Garcia,Haikyuu!!,Sports,28,Shueisha,New,625.44,1,625.44,GCash,Online
+TXN-00974,2025-02-10,CUST-038,Lillian Reyes,Horimiya,Romance,18,Square Enix,Used,368.32,2,736.64,Debit Card,In-Store
+TXN-00975,2025-06-05,CUST-011,Mason Torres,Captain Tsubasa,Sports,24,Shueisha,New,344.73,5,1723.65,GCash,Online
+TXN-00976,2025-07-13,CUST-018,Harper Jimenez,Eyeshield 21,Sports,28,Shueisha,Used,97.45,3,292.35,Credit Card,Online
+TXN-00977,2026-01-26,CUST-033,Samuel Castro,Yowamushi Pedal,Sports,20,Akita Shoten,Used,313.78,4,1255.12,Cash,Online
+TXN-00978,2025-08-26,CUST-039,Owen Nunez,Your Lie in April,Romance,18,Kodansha,New,505.12,3,1515.36,Credit Card,Online
+TXN-00979,2025-03-21,CUST-036,Zoe Moreno,That Time I Got Reincarnated,Fantasy,20,Kodansha,New,296.61,4,1186.44,GCash,In-Store
+TXN-00980,2026-01-16,CUST-033,Samuel Castro,Naruto,Action,24,Shueisha,Used,228.28,4,913.12,Credit Card,Online
+TXN-00981,2026-04-23,CUST-038,Lillian Reyes,Captain Tsubasa,Sports,3,Shueisha,New,140.58,1,140.58,Credit Card,In-Store
+TXN-00982,2025-11-22,CUST-017,James Castillo,Gantz,Sci-Fi,25,Shueisha,Used,301.67,5,1508.35,Credit Card,In-Store
+TXN-00983,2025-12-24,CUST-028,Sofia Molina,Bleach,Action,24,Shueisha,New,373.19,3,1119.57,Cash,In-Store
+TXN-00984,2025-10-24,CUST-039,Owen Nunez,Parasyte,Horror,15,Kodansha,Used,118.86,2,237.72,Debit Card,In-Store
+TXN-00985,2025-12-28,CUST-008,Isabella Lopez,Tokyo Ghoul,Horror,25,Shueisha,New,497.15,4,1988.6,Credit Card,In-Store
+TXN-00986,2025-09-14,CUST-013,Elijah Navarro,Skip Beat,Romance,29,Hakusensha,New,559.77,3,1679.31,Maya,In-Store
+TXN-00987,2025-11-22,CUST-020,Evelyn Aguirre,Gekkan Shoujo Nozaki-kun,Comedy,24,Square Enix,New,584.49,1,584.49,Cash,In-Store
+TXN-00988,2025-03-28,CUST-018,Harper Jimenez,March Comes in Like a Lion,Slice of Life,24,Hakusensha,New,516.59,3,1549.77,Cash,In-Store
+TXN-00989,2025-03-29,CUST-005,Ethan Garcia,One Piece,Action,25,Shueisha,New,398.23,3,1194.69,Credit Card,Online
+TXN-00990,2026-02-21,CUST-013,Elijah Navarro,Berserk,Horror,16,Hakusensha,New,622.7,4,2490.8,Debit Card,Online
+TXN-00991,2025-11-17,CUST-012,Charlotte Fernandez,Akira,Sci-Fi,26,Kodansha,Used,154.48,4,617.92,Credit Card,In-Store
+TXN-00992,2025-01-16,CUST-006,Sophia Mendoza,Horimiya,Romance,10,Square Enix,New,186.08,1,186.08,Maya,In-Store
+TXN-00993,2026-02-09,CUST-007,Aiden Flores,Daiya no Ace,Sports,1,Kodansha,New,518.45,1,518.45,Debit Card,In-Store
+TXN-00994,2025-08-31,CUST-034,Penelope Rojas,Ao Haru Ride,Romance,26,Shueisha,New,439.58,3,1318.74,Credit Card,In-Store
+TXN-00995,2026-04-27,CUST-022,Abigail Diaz,Biomega,Thriller,12,Shueisha,New,301.83,3,905.49,GCash,Online
+TXN-00996,2025-08-22,CUST-040,Hannah Serrano,Hinamatsuri,Comedy,2,Kadokawa,Used,349.64,1,349.64,Cash,In-Store
+TXN-00997,2025-08-20,CUST-002,Emma Reyes,Daily Lives of High School Boys,Comedy,20,Square Enix,New,401.23,2,802.46,Maya,In-Store
+TXN-00998,2025-11-21,CUST-027,Sebastian Alvarez,Prince of Tennis,Sports,22,Shueisha,New,642.68,3,1928.04,Cash,Online
+TXN-00999,2025-06-28,CUST-029,Aiden Ruiz,Black Clover,Action,8,Shueisha,New,332.09,5,1660.45,Cash,In-Store
+TXN-01000,2026-02-06,CUST-025,Jackson Romero,Kuroko's Basketball,Sports,10,Shueisha,New,497.33,5,2486.65,Debit Card,In-Store
+TXN-01001,2025-03-28,CUST-009,Lucas Ramos,Death Note,Mystery,16,Shueisha,Used,167.83,5,839.15,Credit Card,In-Store
+TXN-01002,2025-08-11,CUST-035,David Salazar,Lovely Complex,Romance,8,Shueisha,New,210.33,1,210.33,Cash,In-Store
+TXN-01003,2026-04-05,CUST-021,Alexander Herrera,Dragon Ball Z,Action,29,Shueisha,New,268.59,3,805.77,Credit Card,In-Store
+TXN-01004,2026-01-28,CUST-032,Victoria Torres,Battle Royale,Horror,3,Akita Shoten,Used,177.83,2,355.66,Debit Card,In-Store
+TXN-01005,2026-03-15,CUST-025,Jackson Romero,Toradora,Romance,30,ASCII Media Works,Used,306.05,4,1224.2,Debit Card,In-Store
+TXN-01006,2026-04-25,CUST-017,James Castillo,Pluto,Sci-Fi,4,Shogakukan,New,179.03,3,537.09,Debit Card,Online
+TXN-01007,2025-06-09,CUST-024,Emily Vargas,Nisekoi,Romance,5,Shueisha,Used,375.4,5,1877.0,Cash,Online
+TXN-01008,2025-12-06,CUST-025,Jackson Romero,Q.E.D.,Mystery,14,Kodansha,New,313.46,2,626.92,Debit Card,In-Store
+TXN-01009,2026-03-05,CUST-026,Elizabeth Gutierrez,Ghost in the Shell,Sci-Fi,1,Kodansha,New,364.12,2,728.24,Maya,Online
+TXN-01010,2025-06-13,CUST-039,Owen Nunez,Slam Dunk,Sports,10,Shueisha,New,472.64,1,472.64,Debit Card,Online
+TXN-01011,2025-01-31,CUST-037,Joseph Gomez,Your Lie in April,Romance,16,Kodansha,New,234.32,3,702.96,Credit Card,In-Store
+TXN-01012,2026-03-15,CUST-014,Amelia Vasquez,March Comes in Like a Lion,Slice of Life,28,Hakusensha,Used,329.71,1,329.71,GCash,In-Store
+TXN-01013,2026-01-23,CUST-011,Mason Torres,Konosuba,Comedy,1,Kadokawa,New,298.83,4,1195.32,Maya,Online
+TXN-01014,2025-02-19,CUST-019,Benjamin Ortega,Skip Beat,Romance,10,Hakusensha,New,223.4,5,1117.0,Credit Card,Online
+TXN-01015,2025-05-30,CUST-020,Evelyn Aguirre,Attack on Titan,Thriller,15,Kodansha,New,425.89,4,1703.56,Credit Card,In-Store
+TXN-01016,2025-12-14,CUST-013,Elijah Navarro,Pluto,Sci-Fi,24,Shogakukan,New,311.98,5,1559.9,Cash,In-Store
+TXN-01017,2025-08-31,CUST-028,Sofia Molina,Blood+,Horror,22,Sony,Used,366.46,1,366.46,Maya,Online
+TXN-01018,2025-05-06,CUST-033,Samuel Castro,One Piece,Action,21,Shueisha,New,349.93,2,699.86,Credit Card,Online
+TXN-01019,2026-02-03,CUST-032,Victoria Torres,Gantz,Sci-Fi,10,Shueisha,New,625.91,4,2503.64,Cash,In-Store
+TXN-01020,2025-11-25,CUST-029,Aiden Ruiz,Konosuba,Comedy,12,Kadokawa,New,181.81,1,181.81,Credit Card,In-Store
+TXN-01021,2026-02-11,CUST-002,Emma Reyes,Q.E.D.,Mystery,19,Kodansha,New,423.49,3,1270.47,Cash,In-Store
+TXN-01022,2025-04-05,CUST-028,Sofia Molina,Nichijou,Comedy,10,Kadokawa,New,172.7,1,172.7,Debit Card,In-Store
+TXN-01023,2025-09-23,CUST-036,Zoe Moreno,Bleach,Action,27,Shueisha,New,550.46,4,2201.84,Cash,In-Store
+TXN-01024,2025-01-03,CUST-014,Amelia Vasquez,The Promised Neverland,Mystery,22,Shueisha,Used,129.45,5,647.25,GCash,In-Store
+TXN-01025,2025-05-12,CUST-003,Noah Cruz,Chi's Sweet Home,Slice of Life,5,Kodansha,New,465.9,1,465.9,Debit Card,In-Store
+TXN-01026,2025-12-03,CUST-008,Isabella Lopez,One Piece,Action,17,Shueisha,New,632.13,2,1264.26,Credit Card,Online
+TXN-01027,2025-10-23,CUST-034,Penelope Rojas,Fullmetal Alchemist,Fantasy,29,Square Enix,Used,281.61,4,1126.44,GCash,In-Store
+TXN-01028,2025-05-02,CUST-023,Henry Medina,Aria,Slice of Life,20,Mag Garden,New,231.21,1,231.21,Cash,Online
+TXN-01029,2025-03-07,CUST-014,Amelia Vasquez,Parasyte,Horror,5,Kodansha,New,234.5,3,703.5,Maya,In-Store
+TXN-01030,2025-08-22,CUST-036,Zoe Moreno,Cromartie High School,Comedy,9,Kodansha,New,464.38,2,928.76,Credit Card,Online
+TXN-01031,2026-01-01,CUST-010,Mia Gonzalez,That Time I Got Reincarnated,Fantasy,18,Kodansha,New,453.67,3,1361.01,GCash,Online
+TXN-01032,2025-01-14,CUST-011,Mason Torres,ID: Invaded,Mystery,14,Kadokawa,Used,172.6,4,690.4,Credit Card,In-Store
+TXN-01033,2025-06-18,CUST-018,Harper Jimenez,Ghost in the Shell,Sci-Fi,4,Kodansha,New,482.51,4,1930.04,Cash,In-Store
+TXN-01034,2025-07-13,CUST-018,Harper Jimenez,Barakamon,Slice of Life,5,Square Enix,Used,143.8,1,143.8,Cash,In-Store
+TXN-01035,2026-02-25,CUST-007,Aiden Flores,Gantz,Sci-Fi,26,Shueisha,Used,127.88,3,383.64,Debit Card,In-Store
+TXN-01036,2025-02-20,CUST-023,Henry Medina,Skip Beat,Romance,23,Hakusensha,New,269.46,3,808.38,Debit Card,In-Store
+TXN-01037,2025-11-01,CUST-025,Jackson Romero,Devilman Crybaby,Horror,6,Kodansha,New,512.89,5,2564.45,Debit Card,In-Store
+TXN-01038,2025-03-15,CUST-038,Lillian Reyes,Nichijou,Comedy,5,Kadokawa,New,483.93,2,967.86,GCash,Online
+TXN-01039,2025-04-04,CUST-024,Emily Vargas,Fullmetal Alchemist,Fantasy,23,Square Enix,Used,287.67,4,1150.68,Credit Card,In-Store
+TXN-01040,2025-11-22,CUST-033,Samuel Castro,A Silent Voice,Slice of Life,10,Kodansha,New,346.72,2,693.44,Maya,In-Store
+TXN-01041,2025-03-26,CUST-021,Alexander Herrera,That Time I Got Reincarnated,Fantasy,28,Kodansha,New,162.12,2,324.24,Cash,In-Store
+TXN-01042,2026-04-23,CUST-036,Zoe Moreno,Your Lie in April,Romance,30,Kodansha,New,583.41,4,2333.64,Debit Card,In-Store
+TXN-01043,2025-01-08,CUST-033,Samuel Castro,Daiya no Ace,Sports,22,Kodansha,Used,354.41,1,354.41,Credit Card,In-Store
+TXN-01044,2025-01-22,CUST-035,David Salazar,Bleach,Action,24,Shueisha,New,646.94,5,3234.7,Debit Card,In-Store
+TXN-01045,2025-01-27,CUST-015,Logan Morales,Battle Royale,Horror,6,Akita Shoten,New,564.89,5,2824.45,Maya,In-Store
+TXN-01046,2025-05-29,CUST-024,Emily Vargas,Daily Lives of High School Boys,Comedy,4,Square Enix,New,479.9,5,2399.5,Cash,Online
+TXN-01047,2026-04-21,CUST-014,Amelia Vasquez,Overlord,Fantasy,1,Kadokawa,Used,252.89,2,505.78,Maya,In-Store
+TXN-01048,2025-11-12,CUST-030,Chloe Silva,Death Note,Mystery,29,Shueisha,New,378.78,3,1136.34,Cash,In-Store
+TXN-01049,2025-01-05,CUST-007,Aiden Flores,Re:Zero,Fantasy,1,Kadokawa,New,502.89,4,2011.56,Maya,Online
+TXN-01050,2025-01-04,CUST-006,Sophia Mendoza,Eyeshield 21,Sports,17,Shueisha,New,201.47,1,201.47,Credit Card,Online
+TXN-01051,2026-02-20,CUST-031,Matthew Perez,Made in Abyss,Fantasy,13,Takeshobo,New,313.18,2,626.36,Debit Card,Online
+TXN-01052,2025-02-26,CUST-011,Mason Torres,Daiya no Ace,Sports,5,Kodansha,New,350.0,3,1050.0,GCash,Online
+TXN-01053,2025-09-03,CUST-026,Elizabeth Gutierrez,Dragon Ball Z,Action,14,Shueisha,Used,358.52,2,717.04,GCash,In-Store
+TXN-01054,2026-01-20,CUST-027,Sebastian Alvarez,Vinland Saga,Fantasy,16,Kodansha,New,543.9,2,1087.8,Maya,In-Store
+TXN-01055,2025-03-21,CUST-025,Jackson Romero,D-Frag!,Comedy,5,Kadokawa,New,177.18,1,177.18,GCash,Online
+TXN-01056,2025-08-11,CUST-004,Olivia Dela Cruz,Demon Slayer,Action,22,Shueisha,Used,208.63,5,1043.15,Cash,In-Store
+TXN-01057,2025-05-08,CUST-006,Sophia Mendoza,Sword Art Online,Fantasy,25,Kadokawa,New,447.33,5,2236.65,GCash,Online
+TXN-01058,2025-11-09,CUST-016,Ava Rivera,Your Lie in April,Romance,22,Kodansha,Used,135.1,1,135.1,Debit Card,Online
+TXN-01059,2025-08-07,CUST-015,Logan Morales,Assassination Classroom,Thriller,4,Shueisha,New,140.33,2,280.66,GCash,Online
+TXN-01060,2025-06-22,CUST-004,Olivia Dela Cruz,Ghost in the Shell,Sci-Fi,13,Kodansha,New,282.42,2,564.84,GCash,In-Store
+TXN-01061,2026-04-28,CUST-028,Sofia Molina,Hunter x Hunter,Action,21,Shueisha,New,178.33,3,534.99,Maya,Online
+TXN-01062,2025-04-19,CUST-021,Alexander Herrera,Grand Blue,Comedy,29,Kodansha,New,141.67,1,141.67,Maya,Online
+TXN-01063,2025-06-05,CUST-007,Aiden Flores,No Game No Life,Fantasy,14,Media Factory,New,622.61,3,1867.83,Maya,Online
+TXN-01064,2025-11-06,CUST-009,Lucas Ramos,Hunter x Hunter,Action,11,Shueisha,New,549.32,5,2746.6,Debit Card,Online
+TXN-01065,2025-01-22,CUST-038,Lillian Reyes,Made in Abyss,Fantasy,13,Takeshobo,New,176.37,5,881.85,Cash,In-Store
+TXN-01066,2025-06-04,CUST-029,Aiden Ruiz,Pluto,Sci-Fi,30,Shogakukan,New,619.16,5,3095.8,Maya,In-Store
+TXN-01067,2025-06-27,CUST-010,Mia Gonzalez,Terra Formars,Sci-Fi,2,Shueisha,New,341.65,3,1024.95,Debit Card,In-Store
+TXN-01068,2025-03-27,CUST-028,Sofia Molina,Kuroko's Basketball,Sports,3,Shueisha,New,397.59,5,1987.95,Cash,In-Store
+TXN-01069,2025-09-11,CUST-003,Noah Cruz,Parasyte,Horror,19,Kodansha,New,635.41,2,1270.82,Credit Card,In-Store
+TXN-01070,2025-11-07,CUST-011,Mason Torres,The Promised Neverland,Mystery,15,Shueisha,Used,194.16,4,776.64,Credit Card,Online
+TXN-01071,2025-09-15,CUST-011,Mason Torres,Tokyo Ghoul,Horror,19,Shueisha,New,489.26,5,2446.3,Credit Card,In-Store
+TXN-01072,2025-03-29,CUST-020,Evelyn Aguirre,Kindaichi Case Files,Mystery,28,Kodansha,New,495.37,5,2476.85,Cash,Online
+TXN-01073,2025-05-19,CUST-019,Benjamin Ortega,Q.E.D.,Mystery,2,Kodansha,New,619.28,3,1857.84,GCash,In-Store
+TXN-01074,2025-06-16,CUST-014,Amelia Vasquez,Demon Slayer,Action,18,Shueisha,New,463.78,5,2318.9,Maya,Online
+TXN-01075,2026-02-26,CUST-009,Lucas Ramos,Kindaichi Case Files,Mystery,14,Kodansha,Used,165.77,1,165.77,Cash,Online
+TXN-01076,2026-01-05,CUST-017,James Castillo,Magi,Fantasy,1,Shogakukan,New,638.74,5,3193.7,Cash,In-Store
+TXN-01077,2025-04-15,CUST-039,Owen Nunez,Konosuba,Comedy,18,Kadokawa,New,354.36,3,1063.08,Maya,In-Store
+TXN-01078,2025-02-17,CUST-029,Aiden Ruiz,Daily Lives of High School Boys,Comedy,8,Square Enix,Used,209.98,2,419.96,Credit Card,In-Store
+TXN-01079,2025-01-11,CUST-012,Charlotte Fernandez,Slam Dunk,Sports,7,Shueisha,New,619.98,2,1239.96,Maya,Online
+TXN-01080,2026-04-11,CUST-039,Owen Nunez,Blood+,Horror,7,Sony,New,158.19,2,316.38,Credit Card,In-Store
+TXN-01081,2025-07-13,CUST-034,Penelope Rojas,Cromartie High School,Comedy,5,Kodansha,Used,328.94,5,1644.7,Cash,Online
+TXN-01082,2025-01-07,CUST-003,Noah Cruz,Fruits Basket,Romance,5,Hakusensha,New,164.31,2,328.62,Debit Card,In-Store
+TXN-01083,2025-03-13,CUST-035,David Salazar,One Piece,Action,24,Shueisha,Used,343.16,1,343.16,GCash,In-Store
+TXN-01084,2025-12-21,CUST-011,Mason Torres,Dorohedoro,Thriller,10,Shogakukan,New,201.89,1,201.89,Debit Card,Online
+TXN-01085,2026-03-30,CUST-002,Emma Reyes,The Promised Neverland,Mystery,27,Shueisha,New,408.66,1,408.66,Debit Card,In-Store
+TXN-01086,2025-04-26,CUST-015,Logan Morales,Tokyo Ghoul,Horror,1,Shueisha,New,324.25,3,972.75,Maya,In-Store
+TXN-01087,2025-02-09,CUST-032,Victoria Torres,Cromartie High School,Comedy,6,Kodansha,Used,143.4,3,430.2,Maya,In-Store
+TXN-01088,2025-06-21,CUST-006,Sophia Mendoza,Toradora,Romance,29,ASCII Media Works,New,200.08,4,800.32,Debit Card,In-Store
+TXN-01089,2026-04-15,CUST-020,Evelyn Aguirre,Daily Lives of High School Boys,Comedy,20,Square Enix,Used,182.78,1,182.78,Maya,In-Store
+TXN-01090,2025-06-13,CUST-005,Ethan Garcia,K-On!,Slice of Life,26,Houbunsha,New,614.54,2,1229.08,GCash,Online
+TXN-01091,2025-02-16,CUST-005,Ethan Garcia,Daiya no Ace,Sports,4,Kodansha,New,628.58,3,1885.74,GCash,Online
+TXN-01092,2026-02-11,CUST-025,Jackson Romero,Berserk,Horror,12,Hakusensha,New,344.63,4,1378.52,Debit Card,In-Store
+TXN-01093,2025-10-02,CUST-025,Jackson Romero,Junji Ito Collection,Horror,14,Shogakukan,New,405.54,4,1622.16,Debit Card,In-Store
+TXN-01094,2025-05-01,CUST-038,Lillian Reyes,Cromartie High School,Comedy,23,Kodansha,New,426.27,2,852.54,Cash,Online
+TXN-01095,2026-04-12,CUST-024,Emily Vargas,Akira,Sci-Fi,18,Kodansha,New,190.8,1,190.8,Cash,Online
+TXN-01096,2025-04-18,CUST-030,Chloe Silva,Parasyte,Horror,5,Kodansha,Used,247.38,4,989.52,GCash,In-Store
+TXN-01097,2025-07-10,CUST-008,Isabella Lopez,Dragon Ball Z,Action,23,Shueisha,Used,192.03,1,192.03,Credit Card,Online
+TXN-01098,2025-07-07,CUST-005,Ethan Garcia,Nisekoi,Romance,16,Shueisha,Used,348.81,1,348.81,GCash,Online
+TXN-01099,2026-01-16,CUST-001,Liam Santos,Ghost in the Shell,Sci-Fi,19,Kodansha,Used,204.44,2,408.88,Credit Card,Online
+TXN-01100,2025-02-26,CUST-031,Matthew Perez,Kindaichi Case Files,Mystery,14,Kodansha,Used,213.19,1,213.19,Maya,Online
+TXN-01101,2025-10-11,CUST-012,Charlotte Fernandez,My Hero Academia,Action,17,Shueisha,New,330.09,4,1320.36,Credit Card,In-Store
+TXN-01102,2025-02-17,CUST-033,Samuel Castro,No Game No Life,Fantasy,10,Media Factory,Used,206.73,2,413.46,Maya,In-Store
+TXN-01103,2026-03-07,CUST-026,Elizabeth Gutierrez,Junji Ito Collection,Horror,20,Shogakukan,New,327.91,5,1639.55,Debit Card,Online
+TXN-01104,2026-02-16,CUST-021,Alexander Herrera,Daiya no Ace,Sports,21,Kodansha,New,558.44,2,1116.88,Cash,Online
+TXN-01105,2025-05-03,CUST-018,Harper Jimenez,Grand Blue,Comedy,4,Kodansha,New,312.23,3,936.69,Cash,Online
+TXN-01106,2025-10-10,CUST-005,Ethan Garcia,The Promised Neverland,Mystery,7,Shueisha,New,520.96,3,1562.88,GCash,Online
+TXN-01107,2025-01-24,CUST-018,Harper Jimenez,Demon Slayer,Action,3,Shueisha,Used,251.6,5,1258.0,Credit Card,Online
+TXN-01108,2025-06-11,CUST-001,Liam Santos,Your Lie in April,Romance,12,Kodansha,Used,376.88,5,1884.4,GCash,In-Store
+TXN-01109,2026-02-18,CUST-007,Aiden Flores,March Comes in Like a Lion,Slice of Life,11,Hakusensha,New,512.97,1,512.97,Debit Card,In-Store
+TXN-01110,2025-03-19,CUST-025,Jackson Romero,My Hero Academia,Action,16,Shueisha,New,571.57,3,1714.71,GCash,In-Store
+TXN-01111,2025-09-14,CUST-015,Logan Morales,Kaguya-sama,Romance,29,Shueisha,New,481.17,2,962.34,GCash,In-Store
+TXN-01112,2026-03-15,CUST-022,Abigail Diaz,Bastard!!,Thriller,15,Shueisha,Used,179.81,3,539.43,Debit Card,In-Store
+TXN-01113,2025-11-18,CUST-016,Ava Rivera,Bleach,Action,7,Shueisha,Used,264.98,2,529.96,Debit Card,In-Store
+TXN-01114,2025-02-18,CUST-010,Mia Gonzalez,Fruits Basket,Romance,25,Hakusensha,Used,245.99,1,245.99,Credit Card,In-Store
+TXN-01115,2025-04-02,CUST-011,Mason Torres,Parasyte,Horror,3,Kodansha,New,312.56,1,312.56,Cash,In-Store
+TXN-01116,2025-10-19,CUST-031,Matthew Perez,Captain Tsubasa,Sports,9,Shueisha,Used,212.57,2,425.14,Cash,In-Store
+TXN-01117,2025-07-07,CUST-026,Elizabeth Gutierrez,K-On!,Slice of Life,14,Houbunsha,Used,363.65,2,727.3,Credit Card,In-Store
+TXN-01118,2025-11-14,CUST-024,Emily Vargas,Eden: It's an Endless World!,Thriller,3,Shogakukan,New,388.15,3,1164.45,Cash,In-Store
+TXN-01119,2025-10-19,CUST-036,Zoe Moreno,Demon Slayer,Action,1,Shueisha,New,175.81,4,703.24,GCash,Online
+TXN-01120,2025-11-25,CUST-025,Jackson Romero,Ao Haru Ride,Romance,28,Shueisha,New,169.56,4,678.24,Credit Card,In-Store
+TXN-01121,2025-04-13,CUST-006,Sophia Mendoza,Kuroko's Basketball,Sports,6,Shueisha,Used,363.75,4,1455.0,Credit Card,In-Store
+TXN-01122,2025-05-23,CUST-022,Abigail Diaz,Toradora,Romance,20,ASCII Media Works,New,492.21,4,1968.84,Cash,In-Store
+TXN-01123,2026-02-01,CUST-031,Matthew Perez,Monster,Mystery,5,Shogakukan,New,289.7,1,289.7,Debit Card,Online
+TXN-01124,2025-05-10,CUST-031,Matthew Perez,Silver Spoon,Slice of Life,7,Shogakukan,New,580.05,4,2320.2,Maya,In-Store
+TXN-01125,2025-09-26,CUST-005,Ethan Garcia,Horimiya,Romance,9,Square Enix,New,278.12,4,1112.48,Credit Card,Online
+TXN-01126,2025-04-12,CUST-004,Olivia Dela Cruz,Magi,Fantasy,3,Shogakukan,Used,208.27,3,624.81,GCash,Online
+TXN-01127,2026-04-13,CUST-031,Matthew Perez,Nichijou,Comedy,18,Kadokawa,New,205.17,4,820.68,Maya,In-Store
+TXN-01128,2025-03-16,CUST-036,Zoe Moreno,Gintama,Comedy,26,Shueisha,Used,135.14,5,675.7,Debit Card,Online
+TXN-01129,2026-02-10,CUST-010,Mia Gonzalez,Yotsuba&!,Slice of Life,29,ASCII Media Works,New,198.17,3,594.51,Cash,In-Store
+TXN-01130,2025-11-24,CUST-034,Penelope Rojas,Konosuba,Comedy,24,Kadokawa,New,358.8,2,717.6,Credit Card,In-Store
+TXN-01131,2025-11-04,CUST-014,Amelia Vasquez,Fruits Basket,Romance,24,Hakusensha,Used,205.61,5,1028.05,GCash,Online
+TXN-01132,2025-06-04,CUST-013,Elijah Navarro,Yuru Camp,Slice of Life,22,Houbunsha,New,127.62,3,382.86,Cash,In-Store
+TXN-01133,2026-03-01,CUST-032,Victoria Torres,The Promised Neverland,Mystery,21,Shueisha,Used,203.67,3,611.01,Maya,In-Store
+TXN-01134,2025-11-01,CUST-008,Isabella Lopez,Detective Conan,Mystery,30,Shogakukan,New,347.04,2,694.08,Debit Card,Online
+TXN-01135,2026-04-26,CUST-019,Benjamin Ortega,Hinamatsuri,Comedy,28,Kadokawa,New,480.55,3,1441.65,Debit Card,In-Store
+TXN-01136,2025-09-12,CUST-007,Aiden Flores,Kaguya-sama,Romance,3,Shueisha,New,446.62,4,1786.48,Cash,In-Store
+TXN-01137,2026-03-13,CUST-007,Aiden Flores,Bastard!!,Thriller,21,Shueisha,New,428.05,1,428.05,Maya,In-Store
+TXN-01138,2026-02-11,CUST-036,Zoe Moreno,Battle Angel Alita,Sci-Fi,13,Shueisha,New,573.86,1,573.86,Maya,In-Store
+TXN-01139,2025-06-07,CUST-001,Liam Santos,Hinamatsuri,Comedy,12,Kadokawa,Used,233.41,3,700.23,Maya,In-Store
+TXN-01140,2026-02-09,CUST-001,Liam Santos,Grand Blue,Comedy,29,Kodansha,Used,82.39,1,82.39,GCash,Online
+TXN-01141,2025-10-12,CUST-021,Alexander Herrera,ID: Invaded,Mystery,11,Kadokawa,New,423.26,4,1693.04,GCash,In-Store
+TXN-01142,2026-04-26,CUST-026,Elizabeth Gutierrez,20th Century Boys,Sci-Fi,27,Shogakukan,New,613.93,4,2455.72,GCash,In-Store
+TXN-01143,2025-03-02,CUST-021,Alexander Herrera,Blood+,Horror,17,Sony,New,242.41,2,484.82,Debit Card,In-Store
+TXN-01144,2025-08-12,CUST-036,Zoe Moreno,Konosuba,Comedy,6,Kadokawa,Used,136.79,1,136.79,Cash,Online
+TXN-01145,2025-07-15,CUST-002,Emma Reyes,Assassination Classroom,Thriller,20,Shueisha,Used,364.75,1,364.75,Debit Card,Online
+TXN-01146,2025-10-02,CUST-023,Henry Medina,Uzumaki,Horror,6,Shogakukan,New,595.89,3,1787.67,GCash,In-Store
+TXN-01147,2026-03-20,CUST-004,Olivia Dela Cruz,Konosuba,Comedy,9,Kadokawa,New,196.2,1,196.2,Debit Card,Online
+TXN-01148,2025-02-09,CUST-008,Isabella Lopez,Blue Lock,Sports,4,Kodansha,New,258.86,2,517.72,Cash,In-Store
+TXN-01149,2025-11-17,CUST-026,Elizabeth Gutierrez,Yuru Camp,Slice of Life,4,Houbunsha,New,131.64,1,131.64,Credit Card,Online
+TXN-01150,2025-01-06,CUST-021,Alexander Herrera,Hinamatsuri,Comedy,21,Kadokawa,Used,329.12,2,658.24,Maya,In-Store
+TXN-01151,2025-11-04,CUST-003,Noah Cruz,Dungeon Meshi,Thriller,4,Kadokawa,Used,388.01,4,1552.04,Debit Card,In-Store
+TXN-01152,2025-09-23,CUST-017,James Castillo,Battle Royale,Horror,30,Akita Shoten,New,441.24,5,2206.2,Cash,In-Store
+TXN-01153,2025-02-12,CUST-024,Emily Vargas,Junji Ito Collection,Horror,4,Shogakukan,Used,81.38,2,162.76,GCash,In-Store
+TXN-01154,2025-08-28,CUST-018,Harper Jimenez,Parasyte,Horror,16,Kodansha,New,168.74,5,843.7,Maya,In-Store
+TXN-01155,2025-07-21,CUST-033,Samuel Castro,Yowamushi Pedal,Sports,13,Akita Shoten,Used,151.53,2,303.06,Maya,Online
+TXN-01156,2025-08-05,CUST-011,Mason Torres,Future Diary,Thriller,26,Kadokawa,New,502.69,4,2010.76,Credit Card,In-Store
+TXN-01157,2025-07-11,CUST-040,Hannah Serrano,Re:Zero,Fantasy,4,Kadokawa,New,347.54,5,1737.7,Maya,In-Store
+TXN-01158,2025-05-31,CUST-011,Mason Torres,Lovely Complex,Romance,29,Shueisha,New,391.02,5,1955.1,Credit Card,In-Store
+TXN-01159,2025-07-03,CUST-026,Elizabeth Gutierrez,Detective Conan,Mystery,1,Shogakukan,New,548.79,4,2195.16,GCash,Online
+TXN-01160,2026-01-03,CUST-024,Emily Vargas,Knights of Sidonia,Sci-Fi,5,Kodansha,Used,110.89,3,332.67,Cash,Online
+TXN-01161,2025-04-19,CUST-021,Alexander Herrera,Blue Lock,Sports,29,Kodansha,New,155.1,3,465.3,Debit Card,In-Store
+TXN-01162,2026-04-03,CUST-018,Harper Jimenez,Skip Beat,Romance,23,Hakusensha,New,588.18,1,588.18,Debit Card,In-Store
+TXN-01163,2025-05-21,CUST-021,Alexander Herrera,Is It Wrong to Pick Up Girls in a Dungeon,Comedy,7,Media Factory,New,545.44,4,2181.76,Cash,In-Store
+TXN-01164,2025-05-26,CUST-011,Mason Torres,Lovely Complex,Romance,20,Shueisha,New,322.91,5,1614.55,Cash,Online
+TXN-01165,2026-04-16,CUST-030,Chloe Silva,Attack on Titan,Thriller,10,Kodansha,New,632.43,1,632.43,Debit Card,In-Store
+TXN-01166,2025-06-12,CUST-005,Ethan Garcia,Yotsuba&!,Slice of Life,16,ASCII Media Works,New,545.33,3,1635.99,Maya,In-Store
+TXN-01167,2025-12-23,CUST-036,Zoe Moreno,Cromartie High School,Comedy,25,Kodansha,New,444.53,4,1778.12,Maya,In-Store
+TXN-01168,2025-02-23,CUST-024,Emily Vargas,Kuroko's Basketball,Sports,20,Shueisha,New,238.73,1,238.73,GCash,In-Store
+TXN-01169,2025-01-03,CUST-011,Mason Torres,Grand Blue,Comedy,3,Kodansha,New,598.21,3,1794.63,Debit Card,In-Store
+TXN-01170,2025-12-19,CUST-003,Noah Cruz,Jujutsu Kaisen,Action,4,Shueisha,New,281.27,3,843.81,Maya,In-Store
+TXN-01171,2026-03-18,CUST-011,Mason Torres,Konosuba,Comedy,30,Kadokawa,New,364.17,2,728.34,Maya,Online
+TXN-01172,2025-12-05,CUST-029,Aiden Ruiz,Biomega,Thriller,22,Shueisha,New,399.62,5,1998.1,Credit Card,In-Store
+TXN-01173,2025-10-13,CUST-031,Matthew Perez,Re:Zero,Fantasy,8,Kadokawa,New,526.09,1,526.09,Maya,In-Store
+TXN-01174,2025-08-28,CUST-005,Ethan Garcia,Pluto,Sci-Fi,3,Shogakukan,Used,91.16,1,91.16,GCash,In-Store
+TXN-01175,2026-03-16,CUST-007,Aiden Flores,Battle Angel Alita,Sci-Fi,11,Shueisha,New,432.98,5,2164.9,Debit Card,Online
+TXN-01176,2025-07-17,CUST-010,Mia Gonzalez,Sword Art Online,Fantasy,28,Kadokawa,New,604.49,2,1208.98,Maya,In-Store
+TXN-01177,2025-12-18,CUST-013,Elijah Navarro,Bastard!!,Thriller,25,Shueisha,New,156.38,4,625.52,GCash,Online
+TXN-01178,2026-04-03,CUST-010,Mia Gonzalez,Spy x Family,Thriller,15,Shueisha,Used,308.92,2,617.84,Cash,In-Store
+TXN-01179,2025-02-13,CUST-031,Matthew Perez,Fullmetal Alchemist,Fantasy,22,Square Enix,New,306.54,1,306.54,Debit Card,Online
+TXN-01180,2025-07-09,CUST-026,Elizabeth Gutierrez,Neon Genesis Evangelion,Sci-Fi,17,Kadokawa,New,296.88,4,1187.52,Maya,Online
+TXN-01181,2025-11-08,CUST-013,Elijah Navarro,Hinamatsuri,Comedy,10,Kadokawa,New,213.62,3,640.86,Debit Card,In-Store
+TXN-01182,2026-04-04,CUST-004,Olivia Dela Cruz,Cromartie High School,Comedy,21,Kodansha,New,178.87,1,178.87,Cash,Online
+TXN-01183,2025-07-20,CUST-005,Ethan Garcia,Made in Abyss,Fantasy,18,Takeshobo,New,240.03,5,1200.15,Credit Card,Online
+TXN-01184,2025-05-28,CUST-032,Victoria Torres,Blame!,Sci-Fi,7,Kodansha,New,227.9,3,683.7,Debit Card,In-Store
+TXN-01185,2025-03-29,CUST-033,Samuel Castro,Horimiya,Romance,30,Square Enix,Used,223.61,3,670.83,GCash,Online
+TXN-01186,2025-08-08,CUST-012,Charlotte Fernandez,Horimiya,Romance,11,Square Enix,Used,117.1,1,117.1,Credit Card,Online
+TXN-01187,2025-08-31,CUST-005,Ethan Garcia,Parasyte,Horror,6,Kodansha,New,572.14,5,2860.7,Maya,In-Store
+TXN-01188,2025-09-26,CUST-031,Matthew Perez,Eyeshield 21,Sports,4,Shueisha,New,129.22,3,387.66,GCash,In-Store
+TXN-01189,2025-10-07,CUST-007,Aiden Flores,Chainsaw Man,Horror,10,Shueisha,Used,178.75,4,715.0,Maya,Online
+TXN-01190,2026-02-01,CUST-024,Emily Vargas,Captain Tsubasa,Sports,15,Shueisha,New,306.89,3,920.67,Debit Card,In-Store
+TXN-01191,2025-07-30,CUST-008,Isabella Lopez,Dorohedoro,Thriller,9,Shogakukan,New,505.95,1,505.95,GCash,In-Store
+TXN-01192,2025-04-16,CUST-032,Victoria Torres,Devilman Crybaby,Horror,1,Kodansha,New,512.74,4,2050.96,Maya,In-Store
+TXN-01193,2025-03-31,CUST-007,Aiden Flores,Gantz,Sci-Fi,9,Shueisha,Used,287.86,4,1151.44,Debit Card,Online
+TXN-01194,2025-01-22,CUST-026,Elizabeth Gutierrez,Barakamon,Slice of Life,19,Square Enix,New,646.79,3,1940.37,GCash,In-Store
+TXN-01195,2025-02-26,CUST-008,Isabella Lopez,Nana,Slice of Life,14,Shueisha,Used,252.2,3,756.6,Maya,In-Store
+TXN-01196,2025-12-07,CUST-030,Chloe Silva,Slam Dunk,Sports,22,Shueisha,New,632.34,5,3161.7,Debit Card,Online
+TXN-01197,2026-02-27,CUST-005,Ethan Garcia,Captain Tsubasa,Sports,26,Shueisha,New,360.54,2,721.08,Maya,In-Store
+TXN-01198,2025-05-09,CUST-020,Evelyn Aguirre,Fairy Tail,Action,1,Kodansha,New,469.93,1,469.93,Cash,Online
+TXN-01199,2025-08-10,CUST-036,Zoe Moreno,Log Horizon,Fantasy,5,Kadokawa,Used,298.79,2,597.58,GCash,In-Store
+TXN-01200,2025-07-24,CUST-015,Logan Morales,Your Lie in April,Romance,2,Kodansha,New,307.96,4,1231.84,Credit Card,In-Store
