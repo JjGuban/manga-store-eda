@@ -1,0 +1,1001 @@
+transaction_id,manga_title,genre,condition,payment_method,customer_type,publisher,price,quantity,volume_number,transaction_date,restock_date
+TXN-00001,Attack on Titan,Drama,Brand New,Credit Card,Online,Kodansha,218.54,4,34,2024-10-16,2024-10-02
+TXN-00002,Attack on Titan,Mystery,Brand New,Cash,Walk-in,Kodansha,477.82,3,8,2023-04-25,2023-04-21
+TXN-00003,Fullmetal Alchemist,Drama,Second-Hand,GCash,Online,Yen Press,379.4,5,22,2023-01-26,2023-01-08
+TXN-00004,JoJo's Bizarre Adventure,Action,Brand New,Cash,Walk-in,Seven Seas,319.4,1,8,2023-10-09,2023-10-01
+TXN-00005,Jujutsu Kaisen,Romance,Second-Hand,Cash,Walk-in,Shueisha,120.21,5,49,2023-09-08,2023-08-18
+TXN-00006,One Piece,Romance,Brand New,Cash,Online,Viz Media,120.2,1,15,2023-08-17,2023-08-12
+TXN-00007,Jujutsu Kaisen,Horror,Brand New,Debit Card,Walk-in,Kodansha,76.14,2,17,2023-05-23,2023-04-23
+TXN-00008,Mob Psycho 100,Slice of Life,Second-Hand,Cash,Online,Kadokawa,439.78,1,23,2023-04-15,2023-04-06
+TXN-00009,Bleach,Action,Brand New,Cash,Walk-in,Viz Media,320.5,4,24,2024-11-23,2024-10-27
+TXN-00010,Hunter x Hunter,Romance,Brand New,GCash,Online,Kadokawa,368.63,3,45,2024-07-12,2024-07-07
+TXN-00011,One Piece,Action,Brand New,Debit Card,Walk-in,Kadokawa,59.26,2,19,2023-03-31,2023-03-28
+TXN-00012,Jujutsu Kaisen,Sci-Fi,Brand New,Cash,Online,Viz Media,486.46,1,5,2024-08-27,2024-08-25
+TXN-00013,Mob Psycho 100,Sports,Brand New,GCash,Walk-in,Viz Media,424.6,5,32,2024-03-08,2024-03-02
+TXN-00014,JoJo's Bizarre Adventure,Mystery,Brand New,Cash,Online,Seven Seas,145.55,2,44,2023-02-02,2023-01-07
+TXN-00015,Spy x Family,Drama,Brand New,GCash,Walk-in,Kadokawa,131.82,2,1,2023-01-31,2023-01-21
+TXN-00016,Chainsaw Man,Action,Brand New,GCash,Online,Shueisha,132.53,1,23,2023-04-06,2023-03-17
+TXN-00017,Chainsaw Man,Sports,Brand New,GCash,Walk-in,Seven Seas,186.91,2,37,2023-08-12,2023-07-19
+TXN-00018,Tokyo Ghoul,Sci-Fi,Brand New,GCash,Online,Dark Horse,286.14,5,8,2023-08-27,2023-07-31
+TXN-00019,My Hero Academia,Drama,Brand New,GCash,Walk-in,Yen Press,244.38,2,13,2024-06-01,2024-05-13
+TXN-00020,Dragon Ball,Action,Second-Hand,Cash,Walk-in,Dark Horse,181.05,5,8,2024-09-08,2024-08-09
+TXN-00021,Mob Psycho 100,Horror,Second-Hand,GCash,Walk-in,Shueisha,325.33,1,23,2023-01-28,2023-01-18
+TXN-00022,Naruto,Sports,Brand New,Cash,Walk-in,Seven Seas,112.77,3,43,2024-07-28,2024-07-13
+TXN-00023,Bleach,Drama,Second-Hand,Credit Card,Walk-in,Yen Press,181.47,2,1,2023-07-23,2023-07-19
+TXN-00024,Jujutsu Kaisen,Action,Brand New,Maya,Online,Seven Seas,214.86,3,45,2024-10-27,2024-10-12
+TXN-00025,Vinland Saga,Sports,Brand New,Maya,Online,Viz Media,255.23,5,24,2024-12-19,2024-11-26
+TXN-00026,One Piece,Sci-Fi,Brand New,Debit Card,Walk-in,Yen Press,403.33,2,35,2024-07-12,2024-07-02
+TXN-00027,Tokyo Ghoul,Action,Brand New,Credit Card,Online,Kadokawa,139.85,4,24,2024-03-05,2024-02-11
+TXN-00028,Dragon Ball,Action,Brand New,Credit Card,Walk-in,Dark Horse,281.41,3,17,2023-08-14,2023-08-01
+TXN-00029,Mob Psycho 100,Action,Brand New,Cash,Walk-in,Yen Press,316.59,2,5,2024-04-04,2024-03-26
+TXN-00030,JoJo's Bizarre Adventure,Comedy,Brand New,Credit Card,Online,Kadokawa,70.9,3,20,2024-08-26,2024-08-09
+TXN-00031,Bleach,Horror,Second-Hand,GCash,Online,Seven Seas,323.4,2,21,2023-10-12,2023-09-24
+TXN-00032,Black Clover,Sci-Fi,Brand New,GCash,Online,Shueisha,126.74,1,40,2023-01-07,2022-12-22
+TXN-00033,Death Note,Drama,Brand New,Credit Card,Walk-in,Yen Press,79.27,3,31,2023-06-13,2023-05-29
+TXN-00034,Mob Psycho 100,Comedy,Second-Hand,Cash,Online,Kadokawa,477.0,4,46,2024-12-15,2024-12-12
+TXN-00035,Attack on Titan,Slice of Life,Brand New,GCash,Walk-in,Seven Seas,484.53,4,36,2024-03-08,2024-02-17
+TXN-00036,My Hero Academia,Comedy,Brand New,Maya,Walk-in,Seven Seas,413.78,5,11,2023-12-15,2023-12-13
+TXN-00037,Death Note,Mystery,Second-Hand,Cash,Walk-in,Seven Seas,187.08,2,15,2023-10-12,2023-09-13
+TXN-00038,Attack on Titan,Mystery,Second-Hand,GCash,Online,Shueisha,93.95,3,19,2023-06-09,2023-05-26
+TXN-00039,JoJo's Bizarre Adventure,Action,Second-Hand,Maya,Online,Viz Media,357.9,5,7,2023-08-09,2023-07-16
+TXN-00040,Attack on Titan,Comedy,Second-Hand,Credit Card,Online,Shueisha,248.07,3,28,2023-12-11,2023-11-30
+TXN-00041,Dragon Ball,Slice of Life,Second-Hand,GCash,Walk-in,Shueisha,104.92,2,43,2023-04-15,2023-03-26
+TXN-00042,Mob Psycho 100,Comedy,Second-Hand,Cash,Walk-in,Dark Horse,272.83,4,5,2023-04-05,2023-03-27
+TXN-00043,One Piece,Horror,Brand New,GCash,Walk-in,Seven Seas,65.47,1,5,2024-01-25,2024-01-24
+TXN-00044,Tokyo Ghoul,Horror,Brand New,Debit Card,Walk-in,Kadokawa,459.19,4,30,2023-04-10,2023-04-07
+TXN-00045,Jujutsu Kaisen,Slice of Life,Brand New,GCash,Walk-in,Yen Press,166.45,5,32,2024-01-03,2023-12-26
+TXN-00046,Vinland Saga,Comedy,Brand New,GCash,Online,Dark Horse,348.14,1,8,2023-12-19,2023-11-27
+TXN-00047,Chainsaw Man,Sports,Second-Hand,Cash,Walk-in,Seven Seas,190.27,5,10,2024-09-10,2024-08-14
+TXN-00048,Tokyo Ghoul,Horror,Brand New,Cash,Walk-in,Kodansha,284.03,2,38,2023-09-28,2023-08-31
+TXN-00049,My Hero Academia,Horror,Brand New,Maya,Walk-in,Shueisha,296.02,1,47,2023-02-14,2023-01-26
+TXN-00050,Attack on Titan,Romance,Brand New,GCash,Walk-in,Kodansha,133.18,5,32,2024-04-15,2024-03-27
+TXN-00051,JoJo's Bizarre Adventure,Comedy,Second-Hand,Credit Card,Walk-in,Seven Seas,486.31,2,48,2024-07-03,2024-07-02
+TXN-00052,One-Punch Man,Horror,Brand New,Cash,Online,Dark Horse,398.81,4,28,2023-05-08,2023-04-13
+TXN-00053,Fullmetal Alchemist,Sci-Fi,Second-Hand,Credit Card,Online,Kadokawa,472.77,2,17,2024-01-23,2024-01-01
+TXN-00054,Spy x Family,Comedy,Brand New,Maya,Online,Dark Horse,452.67,3,31,2023-03-22,2023-02-23
+TXN-00055,Chainsaw Man,Mystery,Brand New,GCash,Walk-in,Kadokawa,319.05,2,8,2024-07-19,2024-07-10
+TXN-00056,Demon Slayer,Romance,Brand New,Cash,Walk-in,Kadokawa,464.84,2,40,2023-10-28,2023-10-09
+TXN-00057,JoJo's Bizarre Adventure,Horror,Brand New,GCash,Walk-in,Seven Seas,89.82,3,25,2024-10-05,2024-10-03
+TXN-00058,Mob Psycho 100,Romance,Second-Hand,Credit Card,Online,Viz Media,138.19,5,9,2024-09-25,2024-08-31
+TXN-00059,Mob Psycho 100,Mystery,Second-Hand,GCash,Online,Seven Seas,70.35,5,2,2024-01-06,2023-12-12
+TXN-00060,Berserk,Slice of Life,Brand New,Debit Card,Walk-in,Shueisha,196.4,2,15,2024-08-14,2024-08-08
+TXN-00061,Chainsaw Man,Slice of Life,Brand New,Credit Card,Walk-in,Dark Horse,224.9,3,3,2023-07-16,2023-06-30
+TXN-00062,Chainsaw Man,Comedy,Brand New,Debit Card,Walk-in,Kadokawa,172.11,3,49,2024-12-22,2024-12-05
+TXN-00063,One-Punch Man,Mystery,Second-Hand,Credit Card,Online,Seven Seas,422.93,4,36,2023-03-13,2023-02-20
+TXN-00064,Demon Slayer,Fantasy,Second-Hand,Cash,Online,Seven Seas,210.54,5,4,2023-02-16,2023-02-01
+TXN-00065,Dragon Ball,Fantasy,Brand New,GCash,Online,Dark Horse,176.42,1,14,2024-11-08,2024-10-09
+TXN-00066,Demon Slayer,Comedy,Brand New,Cash,Walk-in,Dark Horse,294.21,5,41,2023-08-22,2023-08-13
+TXN-00067,Tokyo Ghoul,Action,Second-Hand,Maya,Walk-in,Kadokawa,113.42,5,41,2023-10-24,2023-10-18
+TXN-00068,Naruto,Romance,Brand New,Credit Card,Walk-in,Yen Press,410.99,4,25,2023-03-23,2023-03-04
+TXN-00069,Vinland Saga,Romance,Brand New,Credit Card,Walk-in,Kodansha,83.55,1,10,2023-08-27,2023-08-13
+TXN-00070,Tokyo Ghoul,Slice of Life,Brand New,GCash,Walk-in,Shueisha,494.1,4,21,2023-04-14,2023-03-24
+TXN-00071,Mob Psycho 100,Fantasy,Brand New,Cash,Online,Shueisha,397.51,1,36,2024-01-25,2023-12-29
+TXN-00072,Black Clover,Drama,Second-Hand,Credit Card,Online,Yen Press,139.42,2,12,2023-10-12,2023-09-26
+TXN-00073,JoJo's Bizarre Adventure,Horror,Second-Hand,GCash,Walk-in,Viz Media,52.48,1,27,2024-04-09,2024-04-06
+TXN-00074,Mob Psycho 100,Horror,Brand New,Cash,Online,Yen Press,416.96,4,40,2024-10-12,2024-09-26
+TXN-00075,Spy x Family,Horror,Brand New,Credit Card,Walk-in,Viz Media,368.09,5,2,2024-01-09,2023-12-28
+TXN-00076,Black Clover,Slice of Life,Brand New,Cash,Walk-in,Viz Media,378.05,1,13,2023-06-16,2023-06-02
+TXN-00077,Mob Psycho 100,Mystery,Brand New,GCash,Walk-in,Yen Press,397.07,1,32,2024-01-15,2024-01-04
+TXN-00078,Vinland Saga,Sports,Brand New,GCash,Walk-in,Shueisha,83.32,3,31,2023-12-30,2023-12-19
+TXN-00079,Vinland Saga,Fantasy,Brand New,Cash,Walk-in,Kodansha,211.31,5,16,2023-08-03,2023-07-12
+TXN-00080,Dragon Ball,Fantasy,Brand New,Maya,Walk-in,Shueisha,102.14,2,32,2024-11-17,2024-11-13
+TXN-00081,My Hero Academia,Drama,Brand New,Cash,Walk-in,Seven Seas,438.4,4,32,2023-10-01,2023-09-03
+TXN-00082,Jujutsu Kaisen,Romance,Brand New,Cash,Online,Shueisha,330.48,2,34,2024-12-19,2024-12-13
+TXN-00083,Bleach,Action,Brand New,Cash,Walk-in,Shueisha,198.9,5,11,2024-11-30,2024-11-19
+TXN-00084,Berserk,Comedy,Brand New,Credit Card,Walk-in,Yen Press,78.6,1,10,2024-10-25,2024-10-11
+TXN-00085,Fullmetal Alchemist,Romance,Brand New,GCash,Walk-in,Yen Press,189.94,1,15,2023-03-15,2023-02-20
+TXN-00086,Death Note,Mystery,Second-Hand,GCash,Online,Seven Seas,196.33,5,17,2024-09-15,2024-08-30
+TXN-00087,One-Punch Man,Comedy,Brand New,Cash,Walk-in,Seven Seas,378.32,1,40,2024-10-12,2024-10-02
+TXN-00088,Jujutsu Kaisen,Fantasy,Brand New,Cash,Online,Yen Press,336.9,1,18,2023-06-25,2023-06-03
+TXN-00089,JoJo's Bizarre Adventure,Mystery,Second-Hand,GCash,Walk-in,Shueisha,449.25,1,9,2024-06-30,2024-06-17
+TXN-00090,JoJo's Bizarre Adventure,Comedy,Second-Hand,Debit Card,Walk-in,Kodansha,262.5,4,25,2023-09-08,2023-08-12
+TXN-00091,JoJo's Bizarre Adventure,Drama,Brand New,Debit Card,Online,Viz Media,103.82,4,40,2023-06-17,2023-05-23
+TXN-00092,Naruto,Drama,Second-Hand,Cash,Walk-in,Dark Horse,370.96,3,14,2024-04-18,2024-03-31
+TXN-00093,Death Note,Sci-Fi,Brand New,GCash,Walk-in,Viz Media,392.35,2,25,2024-01-24,2024-01-22
+TXN-00094,Mob Psycho 100,Sports,Brand New,Maya,Walk-in,Seven Seas,302.57,5,22,2023-10-04,2023-09-19
+TXN-00095,Demon Slayer,Drama,Brand New,GCash,Online,Seven Seas,396.94,5,30,2024-10-17,2024-10-14
+TXN-00096,Bleach,Fantasy,Second-Hand,Debit Card,Walk-in,Viz Media,272.21,5,20,2024-12-05,2024-11-24
+TXN-00097,Attack on Titan,Action,Second-Hand,Cash,Walk-in,Dark Horse,285.23,3,21,2024-07-24,2024-07-15
+TXN-00098,Jujutsu Kaisen,Horror,Brand New,Maya,Online,Shueisha,242.39,4,44,2023-08-13,2023-08-02
+TXN-00099,Vinland Saga,Sci-Fi,Brand New,Credit Card,Walk-in,Kodansha,61.44,3,32,2024-12-02,2024-11-28
+TXN-00100,Spy x Family,Horror,Brand New,Maya,Online,Kodansha,98.55,5,46,2023-11-29,2023-11-04
+TXN-00101,Berserk,Sports,Brand New,Credit Card,Online,Viz Media,64.14,2,49,2023-02-27,2023-02-14
+TXN-00102,Black Clover,Comedy,Brand New,GCash,Walk-in,Dark Horse,336.38,1,21,2023-08-23,2023-07-26
+TXN-00103,Tokyo Ghoul,Slice of Life,Second-Hand,Maya,Walk-in,Seven Seas,191.46,4,35,2023-02-02,2023-01-16
+TXN-00104,Bleach,Drama,Second-Hand,Cash,Walk-in,Kadokawa,278.86,4,32,2023-11-20,2023-10-24
+TXN-00105,Hunter x Hunter,Action,Second-Hand,GCash,Online,Shueisha,458.4,3,30,2024-02-15,2024-02-14
+TXN-00106,Hunter x Hunter,Sports,Second-Hand,Credit Card,Online,Viz Media,162.18,4,39,2023-10-02,2023-09-10
+TXN-00107,Berserk,Horror,Brand New,Credit Card,Online,Kodansha,234.67,5,49,2023-03-09,2023-02-09
+TXN-00108,Chainsaw Man,Sci-Fi,Second-Hand,Maya,Online,Seven Seas,390.0,5,12,2023-08-05,2023-07-18
+TXN-00109,One Piece,Drama,Brand New,Cash,Online,Yen Press,152.96,3,41,2024-08-03,2024-07-19
+TXN-00110,Fullmetal Alchemist,Fantasy,Brand New,Credit Card,Walk-in,Yen Press,84.64,5,47,2023-11-19,2023-11-05
+TXN-00111,Bleach,Drama,Brand New,Credit Card,Walk-in,Dark Horse,180.39,2,18,2023-08-06,2023-08-04
+TXN-00112,Vinland Saga,Sci-Fi,Brand New,Cash,Online,Dark Horse,122.55,3,21,2024-11-02,2024-10-26
+TXN-00113,Bleach,Sci-Fi,Brand New,GCash,Walk-in,Viz Media,468.36,2,13,2024-05-26,2024-05-09
+TXN-00114,Mob Psycho 100,Slice of Life,Brand New,Cash,Walk-in,Kadokawa,413.65,1,21,2024-02-10,2024-01-29
+TXN-00115,Black Clover,Drama,Second-Hand,GCash,Online,Kodansha,335.03,2,8,2024-10-20,2024-09-30
+TXN-00116,Death Note,Drama,Brand New,Maya,Walk-in,Viz Media,442.16,1,46,2024-04-14,2024-03-20
+TXN-00117,JoJo's Bizarre Adventure,Slice of Life,Brand New,Credit Card,Online,Kadokawa,411.65,1,40,2023-05-27,2023-05-11
+TXN-00118,Death Note,Mystery,Second-Hand,Credit Card,Online,Seven Seas,133.96,2,46,2023-09-29,2023-09-08
+TXN-00119,My Hero Academia,Mystery,Brand New,Maya,Walk-in,Dark Horse,451.65,3,7,2023-05-23,2023-05-08
+TXN-00120,My Hero Academia,Comedy,Brand New,GCash,Online,Yen Press,292.7,5,23,2023-09-10,2023-08-16
+TXN-00121,Bleach,Mystery,Brand New,Debit Card,Walk-in,Shueisha,413.35,5,44,2024-07-28,2024-07-26
+TXN-00122,Naruto,Romance,Brand New,GCash,Walk-in,Seven Seas,453.24,1,32,2024-07-05,2024-06-28
+TXN-00123,Dragon Ball,Drama,Brand New,Debit Card,Walk-in,Yen Press,193.1,1,11,2023-09-27,2023-09-18
+TXN-00124,Attack on Titan,Action,Brand New,Cash,Walk-in,Kodansha,99.52,3,22,2024-08-21,2024-08-03
+TXN-00125,Naruto,Drama,Brand New,Maya,Walk-in,Kodansha,152.57,4,22,2024-03-14,2024-03-09
+TXN-00126,Vinland Saga,Romance,Brand New,Cash,Walk-in,Yen Press,242.2,2,43,2024-08-20,2024-07-21
+TXN-00127,Attack on Titan,Romance,Brand New,GCash,Walk-in,Seven Seas,418.11,1,25,2024-02-13,2024-02-03
+TXN-00128,Jujutsu Kaisen,Horror,Brand New,Credit Card,Walk-in,Yen Press,437.33,5,22,2024-01-06,2023-12-22
+TXN-00129,Death Note,Drama,Brand New,GCash,Online,Kadokawa,53.13,3,28,2023-08-13,2023-07-15
+TXN-00130,Death Note,Sports,Second-Hand,Credit Card,Online,Viz Media,279.84,2,29,2023-05-22,2023-04-29
+TXN-00131,Attack on Titan,Romance,Brand New,GCash,Walk-in,Dark Horse,237.83,3,13,2024-06-05,2024-05-20
+TXN-00132,Fullmetal Alchemist,Action,Brand New,Credit Card,Walk-in,Kadokawa,149.95,2,18,2024-05-20,2024-05-16
+TXN-00133,Naruto,Slice of Life,Second-Hand,Cash,Walk-in,Shueisha,103.94,2,2,2023-04-04,2023-04-03
+TXN-00134,Dragon Ball,Comedy,Brand New,Cash,Walk-in,Yen Press,201.93,1,29,2023-02-18,2023-01-28
+TXN-00135,Bleach,Horror,Brand New,Cash,Online,Shueisha,474.31,3,21,2023-04-23,2023-04-03
+TXN-00136,One Piece,Slice of Life,Brand New,GCash,Online,Shueisha,195.44,3,15,2023-06-06,2023-05-11
+TXN-00137,Death Note,Horror,Second-Hand,Cash,Walk-in,Kadokawa,283.46,5,27,2024-10-04,2024-09-26
+TXN-00138,Fullmetal Alchemist,Action,Second-Hand,GCash,Walk-in,Dark Horse,366.36,5,31,2023-06-13,2023-05-21
+TXN-00139,One Piece,Sci-Fi,Brand New,GCash,Walk-in,Seven Seas,213.63,1,15,2024-11-27,2024-11-21
+TXN-00140,Spy x Family,Drama,Second-Hand,Cash,Online,Kodansha,487.3,1,23,2024-03-08,2024-02-27
+TXN-00141,Spy x Family,Fantasy,Brand New,GCash,Walk-in,Viz Media,483.1,4,24,2024-09-02,2024-08-15
+TXN-00142,Dragon Ball,Sports,Brand New,Debit Card,Online,Kodansha,163.3,5,44,2023-03-07,2023-03-06
+TXN-00143,Demon Slayer,Slice of Life,Brand New,Cash,Online,Dark Horse,273.76,2,13,2024-01-30,2024-01-12
+TXN-00144,Tokyo Ghoul,Drama,Brand New,GCash,Walk-in,Kodansha,185.4,3,22,2024-01-26,2024-01-12
+TXN-00145,Bleach,Sports,Second-Hand,Credit Card,Online,Yen Press,178.18,1,43,2024-09-02,2024-08-30
+TXN-00146,Death Note,Sci-Fi,Brand New,GCash,Online,Yen Press,66.6,3,37,2024-04-24,2024-04-16
+TXN-00147,Bleach,Fantasy,Brand New,Credit Card,Online,Kadokawa,324.3,3,33,2024-06-25,2024-05-29
+TXN-00148,Spy x Family,Sports,Second-Hand,GCash,Walk-in,Shueisha,276.21,4,3,2023-09-15,2023-08-16
+TXN-00149,Jujutsu Kaisen,Sports,Brand New,GCash,Walk-in,Dark Horse,73.17,5,19,2024-07-20,2024-07-16
+TXN-00150,Jujutsu Kaisen,Slice of Life,Brand New,Cash,Online,Dark Horse,175.39,1,23,2023-01-12,2022-12-28
+TXN-00151,One Piece,Mystery,Brand New,Credit Card,Online,Kodansha,458.72,3,29,2024-11-27,2024-11-23
+TXN-00152,Jujutsu Kaisen,Fantasy,Second-Hand,Credit Card,Online,Kadokawa,157.8,1,30,2023-04-28,2023-04-07
+TXN-00153,Mob Psycho 100,Drama,Second-Hand,Cash,Online,Kodansha,115.2,2,39,2024-11-29,2024-11-02
+TXN-00154,Demon Slayer,Sci-Fi,Brand New,GCash,Online,Kodansha,270.25,4,44,2024-07-03,2024-06-28
+TXN-00155,Berserk,Fantasy,Second-Hand,Maya,Online,Dark Horse,493.54,2,47,2023-10-01,2023-09-15
+TXN-00156,One Piece,Action,Brand New,GCash,Walk-in,Kodansha,158.92,1,25,2024-10-18,2024-09-18
+TXN-00157,Death Note,Mystery,Second-Hand,GCash,Walk-in,Shueisha,352.46,1,37,2023-12-15,2023-11-22
+TXN-00158,JoJo's Bizarre Adventure,Action,Brand New,Maya,Online,Kodansha,392.73,5,47,2023-04-25,2023-04-15
+TXN-00159,One Piece,Sci-Fi,Brand New,Credit Card,Online,Shueisha,156.94,3,8,2023-10-28,2023-10-11
+TXN-00160,Hunter x Hunter,Slice of Life,Second-Hand,GCash,Online,Dark Horse,377.7,3,42,2024-03-21,2024-02-27
+TXN-00161,Berserk,Slice of Life,Brand New,Credit Card,Walk-in,Kadokawa,215.5,2,16,2023-06-11,2023-06-02
+TXN-00162,Demon Slayer,Sci-Fi,Brand New,Debit Card,Online,Yen Press,334.54,4,8,2024-04-09,2024-03-26
+TXN-00163,One Piece,Horror,Brand New,GCash,Online,Shueisha,335.09,3,1,2023-01-04,2022-12-08
+TXN-00164,One Piece,Sci-Fi,Second-Hand,GCash,Walk-in,Kadokawa,291.1,5,44,2023-09-27,2023-09-11
+TXN-00165,Jujutsu Kaisen,Mystery,Brand New,GCash,Walk-in,Kadokawa,90.63,2,5,2024-05-27,2024-05-11
+TXN-00166,Vinland Saga,Romance,Brand New,Maya,Walk-in,Shueisha,425.89,2,3,2023-07-02,2023-06-24
+TXN-00167,One Piece,Slice of Life,Brand New,Credit Card,Walk-in,Dark Horse,194.35,5,1,2024-06-03,2024-05-19
+TXN-00168,My Hero Academia,Comedy,Brand New,Cash,Walk-in,Viz Media,133.93,4,4,2023-04-19,2023-04-01
+TXN-00169,Bleach,Mystery,Brand New,Debit Card,Walk-in,Kadokawa,68.35,5,40,2024-10-02,2024-09-27
+TXN-00170,Death Note,Mystery,Second-Hand,GCash,Walk-in,Kadokawa,315.9,4,35,2023-11-02,2023-10-20
+TXN-00171,Spy x Family,Mystery,Second-Hand,Cash,Online,Dark Horse,354.9,5,32,2024-10-16,2024-10-09
+TXN-00172,My Hero Academia,Sports,Brand New,GCash,Online,Dark Horse,57.46,5,42,2024-06-03,2024-05-04
+TXN-00173,My Hero Academia,Mystery,Brand New,GCash,Online,Kodansha,280.44,1,34,2024-09-15,2024-08-26
+TXN-00174,Naruto,Slice of Life,Brand New,Debit Card,Walk-in,Dark Horse,151.92,2,43,2023-07-23,2023-07-06
+TXN-00175,JoJo's Bizarre Adventure,Romance,Brand New,Cash,Walk-in,Kadokawa,340.33,5,25,2023-06-06,2023-05-13
+TXN-00176,Fullmetal Alchemist,Romance,Second-Hand,Debit Card,Online,Shueisha,128.46,5,10,2024-01-18,2023-12-20
+TXN-00177,Jujutsu Kaisen,Mystery,Brand New,GCash,Walk-in,Viz Media,360.92,3,21,2023-06-15,2023-06-10
+TXN-00178,Mob Psycho 100,Action,Brand New,Cash,Online,Seven Seas,224.03,2,46,2024-07-06,2024-06-08
+TXN-00179,Mob Psycho 100,Slice of Life,Second-Hand,Maya,Online,Kodansha,471.53,3,39,2024-06-27,2024-06-24
+TXN-00180,JoJo's Bizarre Adventure,Slice of Life,Brand New,GCash,Walk-in,Seven Seas,111.88,2,27,2023-01-01,2022-12-23
+TXN-00181,Hunter x Hunter,Fantasy,Brand New,Cash,Online,Shueisha,203.48,3,27,2024-09-05,2024-08-11
+TXN-00182,Hunter x Hunter,Drama,Brand New,GCash,Walk-in,Viz Media,101.06,5,2,2023-11-28,2023-11-02
+TXN-00183,Dragon Ball,Horror,Second-Hand,Debit Card,Walk-in,Viz Media,466.11,5,41,2024-05-15,2024-04-17
+TXN-00184,Death Note,Horror,Second-Hand,GCash,Online,Viz Media,444.8,1,48,2023-01-20,2023-01-06
+TXN-00185,One-Punch Man,Action,Brand New,Cash,Walk-in,Yen Press,166.07,3,13,2023-04-25,2023-04-14
+TXN-00186,One-Punch Man,Horror,Second-Hand,Cash,Online,Shueisha,346.99,4,9,2024-01-07,2023-12-08
+TXN-00187,Black Clover,Fantasy,Brand New,Cash,Walk-in,Kodansha,417.75,1,36,2023-11-11,2023-10-16
+TXN-00188,Spy x Family,Sci-Fi,Brand New,Credit Card,Walk-in,Kodansha,299.84,3,22,2023-09-03,2023-08-17
+TXN-00189,Black Clover,Horror,Brand New,GCash,Online,Viz Media,288.34,3,42,2023-03-01,2023-02-20
+TXN-00190,Spy x Family,Slice of Life,Brand New,Cash,Online,Shueisha,158.83,1,26,2023-09-04,2023-08-08
+TXN-00191,One-Punch Man,Sci-Fi,Brand New,Cash,Walk-in,Yen Press,91.9,5,12,2024-08-03,2024-08-02
+TXN-00192,Vinland Saga,Horror,Brand New,GCash,Walk-in,Viz Media,453.75,3,17,2023-03-22,2023-03-12
+TXN-00193,Dragon Ball,Slice of Life,Brand New,Maya,Online,Dark Horse,455.19,5,14,2023-03-29,2023-03-05
+TXN-00194,Jujutsu Kaisen,Slice of Life,Brand New,GCash,Walk-in,Seven Seas,334.9,1,14,2024-05-12,2024-05-02
+TXN-00195,Death Note,Mystery,Brand New,Maya,Online,Kodansha,202.56,5,34,2023-03-12,2023-02-13
+TXN-00196,Black Clover,Romance,Second-Hand,GCash,Online,Seven Seas,207.14,2,20,2024-06-29,2024-06-10
+TXN-00197,Chainsaw Man,Action,Brand New,Cash,Online,Kadokawa,376.68,4,11,2023-05-09,2023-04-20
+TXN-00198,Spy x Family,Fantasy,Brand New,Debit Card,Online,Viz Media,453.7,3,16,2023-05-12,2023-04-20
+TXN-00199,One Piece,Sports,Brand New,GCash,Walk-in,Dark Horse,449.19,4,31,2024-11-06,2024-10-21
+TXN-00200,Black Clover,Drama,Brand New,Credit Card,Online,Kodansha,400.94,5,6,2024-05-01,2024-04-03
+TXN-00201,One Piece,Horror,Second-Hand,Maya,Online,Seven Seas,338.91,3,19,2024-07-16,2024-07-11
+TXN-00202,Tokyo Ghoul,Horror,Brand New,Cash,Walk-in,Yen Press,87.86,5,37,2023-06-19,2023-06-04
+TXN-00203,Fullmetal Alchemist,Sci-Fi,Brand New,Cash,Online,Shueisha,122.73,2,4,2023-09-29,2023-09-11
+TXN-00204,Chainsaw Man,Sci-Fi,Second-Hand,Credit Card,Walk-in,Kodansha,454.35,1,47,2024-06-24,2024-06-08
+TXN-00205,JoJo's Bizarre Adventure,Drama,Brand New,Cash,Walk-in,Seven Seas,322.89,3,4,2024-09-13,2024-09-01
+TXN-00206,Vinland Saga,Horror,Brand New,Cash,Walk-in,Shueisha,54.14,2,20,2024-03-09,2024-02-27
+TXN-00207,JoJo's Bizarre Adventure,Comedy,Brand New,Cash,Online,Seven Seas,95.66,2,10,2023-08-05,2023-07-18
+TXN-00208,Black Clover,Fantasy,Second-Hand,Cash,Walk-in,Shueisha,348.58,3,24,2024-07-06,2024-06-11
+TXN-00209,Demon Slayer,Horror,Brand New,Credit Card,Online,Yen Press,52.28,5,35,2024-12-07,2024-11-19
+TXN-00210,JoJo's Bizarre Adventure,Romance,Brand New,Cash,Online,Yen Press,122.36,2,26,2023-07-25,2023-07-12
+TXN-00211,Black Clover,Drama,Brand New,GCash,Walk-in,Viz Media,296.93,4,37,2024-12-31,2024-12-16
+TXN-00212,Death Note,Comedy,Brand New,Credit Card,Walk-in,Viz Media,361.35,2,38,2023-11-16,2023-10-17
+TXN-00213,Fullmetal Alchemist,Fantasy,Brand New,GCash,Online,Kodansha,343.38,5,21,2024-02-13,2024-02-02
+TXN-00214,Demon Slayer,Horror,Brand New,Cash,Walk-in,Yen Press,150.92,5,40,2024-11-18,2024-10-21
+TXN-00215,Attack on Titan,Sports,Brand New,Credit Card,Online,Dark Horse,370.48,4,39,2024-10-27,2024-10-20
+TXN-00216,Chainsaw Man,Mystery,Second-Hand,Cash,Walk-in,Seven Seas,156.76,2,21,2024-01-18,2023-12-26
+TXN-00217,Tokyo Ghoul,Romance,Second-Hand,Credit Card,Walk-in,Seven Seas,196.43,5,10,2024-03-24,2024-03-16
+TXN-00218,Naruto,Sports,Brand New,Debit Card,Online,Seven Seas,385.92,3,38,2024-06-13,2024-05-25
+TXN-00219,Tokyo Ghoul,Sci-Fi,Second-Hand,GCash,Walk-in,Kodansha,342.33,1,46,2024-04-07,2024-03-25
+TXN-00220,Mob Psycho 100,Sci-Fi,Brand New,GCash,Walk-in,Seven Seas,432.15,1,4,2023-05-04,2023-04-26
+TXN-00221,Fullmetal Alchemist,Horror,Brand New,GCash,Walk-in,Kadokawa,345.93,1,45,2023-09-11,2023-08-14
+TXN-00222,One Piece,Sci-Fi,Brand New,GCash,Walk-in,Shueisha,305.74,2,20,2023-08-19,2023-07-25
+TXN-00223,Chainsaw Man,Romance,Second-Hand,Debit Card,Walk-in,Seven Seas,92.15,4,17,2023-03-07,2023-02-21
+TXN-00224,Dragon Ball,Fantasy,Second-Hand,Debit Card,Online,Shueisha,215.47,5,7,2023-12-13,2023-12-11
+TXN-00225,Dragon Ball,Slice of Life,Brand New,GCash,Walk-in,Viz Media,169.34,3,4,2023-01-22,2023-01-11
+TXN-00226,Black Clover,Action,Second-Hand,Credit Card,Walk-in,Seven Seas,159.8,3,29,2024-08-25,2024-08-01
+TXN-00227,Vinland Saga,Drama,Brand New,Maya,Online,Dark Horse,487.85,2,14,2024-07-21,2024-07-05
+TXN-00228,Mob Psycho 100,Fantasy,Second-Hand,Maya,Walk-in,Yen Press,226.89,1,3,2023-08-24,2023-08-01
+TXN-00229,Jujutsu Kaisen,Slice of Life,Second-Hand,GCash,Walk-in,Yen Press,451.42,2,24,2024-08-25,2024-07-26
+TXN-00230,Mob Psycho 100,Comedy,Brand New,GCash,Online,Viz Media,334.01,4,37,2023-08-14,2023-07-19
+TXN-00231,JoJo's Bizarre Adventure,Romance,Second-Hand,Cash,Online,Kadokawa,407.67,4,16,2023-01-08,2022-12-26
+TXN-00232,Demon Slayer,Sports,Brand New,Maya,Online,Kodansha,276.19,5,4,2023-03-14,2023-03-01
+TXN-00233,Berserk,Slice of Life,Brand New,Cash,Online,Kodansha,309.61,5,24,2024-12-25,2024-12-03
+TXN-00234,Chainsaw Man,Romance,Brand New,GCash,Walk-in,Dark Horse,271.63,4,34,2024-10-08,2024-09-12
+TXN-00235,Mob Psycho 100,Mystery,Brand New,Cash,Online,Viz Media,137.86,4,30,2023-03-02,2023-02-03
+TXN-00236,Attack on Titan,Sports,Second-Hand,Cash,Walk-in,Viz Media,375.1,4,18,2023-08-23,2023-08-02
+TXN-00237,JoJo's Bizarre Adventure,Sci-Fi,Second-Hand,GCash,Walk-in,Kadokawa,176.35,2,19,2023-03-11,2023-03-06
+TXN-00238,Naruto,Sci-Fi,Brand New,Maya,Walk-in,Seven Seas,60.94,4,31,2023-02-02,2023-01-17
+TXN-00239,Hunter x Hunter,Sports,Second-Hand,Cash,Walk-in,Kodansha,340.46,3,19,2023-12-05,2023-12-03
+TXN-00240,Vinland Saga,Comedy,Second-Hand,GCash,Walk-in,Seven Seas,129.7,1,49,2023-03-14,2023-03-09
+TXN-00241,Tokyo Ghoul,Comedy,Brand New,Cash,Online,Viz Media,473.21,4,46,2024-06-10,2024-05-24
+TXN-00242,Jujutsu Kaisen,Comedy,Second-Hand,Cash,Walk-in,Seven Seas,479.27,1,19,2023-09-01,2023-08-13
+TXN-00243,Attack on Titan,Slice of Life,Brand New,GCash,Walk-in,Yen Press,461.69,2,22,2023-10-13,2023-10-02
+TXN-00244,Naruto,Drama,Second-Hand,GCash,Walk-in,Dark Horse,216.57,1,24,2024-11-16,2024-10-19
+TXN-00245,Chainsaw Man,Slice of Life,Brand New,Cash,Walk-in,Kodansha,56.96,2,45,2024-05-12,2024-05-08
+TXN-00246,Tokyo Ghoul,Horror,Brand New,GCash,Online,Kadokawa,467.74,3,12,2023-08-08,2023-07-11
+TXN-00247,JoJo's Bizarre Adventure,Action,Brand New,Cash,Walk-in,Dark Horse,242.68,2,30,2024-07-06,2024-06-08
+TXN-00248,Dragon Ball,Sports,Brand New,GCash,Walk-in,Shueisha,484.99,2,38,2023-05-16,2023-05-01
+TXN-00249,Vinland Saga,Fantasy,Brand New,Maya,Walk-in,Yen Press,483.63,5,31,2024-08-07,2024-08-03
+TXN-00250,Fullmetal Alchemist,Action,Brand New,Maya,Online,Kadokawa,433.85,4,36,2024-08-13,2024-07-27
+TXN-00251,One-Punch Man,Mystery,Brand New,GCash,Walk-in,Dark Horse,182.5,4,19,2024-04-29,2024-03-30
+TXN-00252,Mob Psycho 100,Slice of Life,Second-Hand,GCash,Walk-in,Viz Media,223.29,3,48,2023-09-06,2023-08-22
+TXN-00253,Mob Psycho 100,Slice of Life,Brand New,Maya,Walk-in,Shueisha,433.01,3,45,2024-04-29,2024-04-28
+TXN-00254,Chainsaw Man,Romance,Brand New,Cash,Walk-in,Kadokawa,192.61,4,36,2024-02-21,2024-01-28
+TXN-00255,Attack on Titan,Action,Brand New,Debit Card,Walk-in,Viz Media,126.27,5,30,2023-07-14,2023-07-09
+TXN-00256,Hunter x Hunter,Romance,Brand New,Maya,Online,Yen Press,300.56,4,49,2023-04-07,2023-03-24
+TXN-00257,JoJo's Bizarre Adventure,Fantasy,Second-Hand,Cash,Online,Shueisha,471.27,5,33,2023-04-10,2023-03-13
+TXN-00258,Attack on Titan,Romance,Second-Hand,Cash,Online,Kodansha,363.21,3,18,2024-11-05,2024-10-15
+TXN-00259,Berserk,Action,Brand New,Maya,Walk-in,Viz Media,306.53,1,49,2024-03-17,2024-03-12
+TXN-00260,My Hero Academia,Sports,Brand New,GCash,Walk-in,Dark Horse,93.73,3,28,2023-12-29,2023-12-26
+TXN-00261,Fullmetal Alchemist,Mystery,Second-Hand,Cash,Walk-in,Seven Seas,326.75,3,47,2024-03-09,2024-02-22
+TXN-00262,Bleach,Slice of Life,Brand New,Cash,Online,Kadokawa,495.52,2,11,2024-02-25,2024-01-30
+TXN-00263,Vinland Saga,Fantasy,Second-Hand,GCash,Online,Shueisha,113.04,2,45,2024-04-23,2024-04-14
+TXN-00264,Berserk,Slice of Life,Brand New,Credit Card,Online,Viz Media,283.25,2,33,2023-02-25,2023-02-14
+TXN-00265,Black Clover,Horror,Second-Hand,Credit Card,Walk-in,Kodansha,444.82,2,17,2024-11-20,2024-10-31
+TXN-00266,Spy x Family,Mystery,Brand New,Maya,Walk-in,Seven Seas,383.35,5,6,2024-10-31,2024-10-08
+TXN-00267,Bleach,Drama,Brand New,Cash,Walk-in,Kadokawa,363.66,4,4,2024-10-23,2024-10-10
+TXN-00268,Chainsaw Man,Romance,Second-Hand,GCash,Online,Kadokawa,366.12,1,20,2023-04-11,2023-03-21
+TXN-00269,Fullmetal Alchemist,Sci-Fi,Brand New,GCash,Online,Viz Media,211.77,3,48,2023-03-04,2023-03-01
+TXN-00270,My Hero Academia,Action,Brand New,GCash,Online,Kodansha,182.12,5,47,2024-02-17,2024-01-20
+TXN-00271,Fullmetal Alchemist,Slice of Life,Brand New,Cash,Walk-in,Yen Press,414.21,1,27,2023-12-14,2023-12-03
+TXN-00272,Jujutsu Kaisen,Romance,Brand New,Maya,Walk-in,Seven Seas,414.55,5,15,2023-04-22,2023-03-25
+TXN-00273,Black Clover,Fantasy,Brand New,Debit Card,Online,Yen Press,440.18,5,6,2023-09-12,2023-08-21
+TXN-00274,Attack on Titan,Slice of Life,Brand New,GCash,Online,Shueisha,460.96,3,47,2023-07-16,2023-06-18
+TXN-00275,Jujutsu Kaisen,Drama,Brand New,Credit Card,Walk-in,Viz Media,280.1,4,14,2023-07-14,2023-06-26
+TXN-00276,Dragon Ball,Mystery,Brand New,Cash,Walk-in,Seven Seas,275.68,2,11,2024-07-03,2024-06-20
+TXN-00277,One Piece,Mystery,Second-Hand,GCash,Walk-in,Shueisha,409.23,4,39,2024-04-04,2024-03-24
+TXN-00278,Berserk,Slice of Life,Brand New,Credit Card,Walk-in,Yen Press,342.48,3,9,2023-05-24,2023-05-03
+TXN-00279,Fullmetal Alchemist,Fantasy,Brand New,GCash,Walk-in,Seven Seas,365.89,3,26,2024-03-08,2024-02-14
+TXN-00280,Fullmetal Alchemist,Mystery,Second-Hand,Maya,Online,Kadokawa,408.11,3,16,2023-07-07,2023-06-08
+TXN-00281,Demon Slayer,Mystery,Brand New,Credit Card,Walk-in,Shueisha,450.5,1,5,2023-10-13,2023-09-18
+TXN-00282,Tokyo Ghoul,Drama,Brand New,GCash,Walk-in,Kodansha,202.1,4,10,2024-04-18,2024-04-02
+TXN-00283,Naruto,Action,Brand New,Credit Card,Walk-in,Dark Horse,219.01,4,3,2023-09-13,2023-08-16
+TXN-00284,Dragon Ball,Fantasy,Brand New,Cash,Online,Yen Press,92.29,5,13,2023-03-19,2023-03-01
+TXN-00285,Jujutsu Kaisen,Fantasy,Brand New,GCash,Online,Yen Press,310.23,5,43,2024-03-29,2024-03-27
+TXN-00286,Jujutsu Kaisen,Sports,Brand New,GCash,Walk-in,Kodansha,66.17,5,49,2024-07-17,2024-06-27
+TXN-00287,Jujutsu Kaisen,Sports,Brand New,GCash,Online,Seven Seas,259.52,3,30,2023-04-11,2023-04-08
+TXN-00288,One Piece,Mystery,Brand New,Credit Card,Online,Seven Seas,294.19,4,45,2023-02-21,2023-02-13
+TXN-00289,Fullmetal Alchemist,Sci-Fi,Brand New,GCash,Walk-in,Seven Seas,178.94,3,6,2024-10-29,2024-10-08
+TXN-00290,Death Note,Sports,Brand New,Credit Card,Walk-in,Shueisha,315.87,1,17,2024-07-07,2024-06-15
+TXN-00291,My Hero Academia,Mystery,Brand New,GCash,Online,Viz Media,63.73,5,45,2023-01-16,2022-12-17
+TXN-00292,Dragon Ball,Comedy,Second-Hand,GCash,Online,Kadokawa,66.81,3,19,2023-04-06,2023-03-27
+TXN-00293,Black Clover,Horror,Brand New,Debit Card,Online,Dark Horse,420.17,3,42,2023-08-31,2023-08-23
+TXN-00294,Bleach,Horror,Brand New,Cash,Online,Viz Media,212.09,1,35,2023-06-20,2023-05-27
+TXN-00295,Demon Slayer,Fantasy,Brand New,Cash,Online,Viz Media,107.18,2,46,2024-02-21,2024-02-18
+TXN-00296,Chainsaw Man,Sci-Fi,Brand New,GCash,Walk-in,Kodansha,285.01,4,26,2024-05-12,2024-04-28
+TXN-00297,Chainsaw Man,Drama,Brand New,Cash,Walk-in,Shueisha,396.5,2,5,2024-05-07,2024-05-03
+TXN-00298,Death Note,Action,Brand New,Cash,Walk-in,Yen Press,147.12,5,29,2023-08-07,2023-07-13
+TXN-00299,Naruto,Sports,Second-Hand,Credit Card,Walk-in,Yen Press,330.3,3,37,2024-02-15,2024-01-25
+TXN-00300,Dragon Ball,Comedy,Brand New,GCash,Online,Kodansha,88.41,1,20,2023-03-02,2023-02-07
+TXN-00301,Tokyo Ghoul,Mystery,Second-Hand,GCash,Online,Shueisha,73.26,1,49,2023-06-18,2023-05-21
+TXN-00302,Bleach,Sci-Fi,Brand New,Maya,Online,Kodansha,289.11,4,21,2024-01-24,2024-01-20
+TXN-00303,Jujutsu Kaisen,Fantasy,Brand New,GCash,Walk-in,Yen Press,293.29,2,10,2023-01-03,2022-12-19
+TXN-00304,JoJo's Bizarre Adventure,Sports,Brand New,Debit Card,Online,Viz Media,336.84,4,5,2024-02-04,2024-01-29
+TXN-00305,Hunter x Hunter,Sci-Fi,Brand New,Cash,Walk-in,Kadokawa,376.74,3,36,2023-09-29,2023-09-06
+TXN-00306,Chainsaw Man,Sports,Brand New,GCash,Walk-in,Seven Seas,489.13,4,6,2024-04-10,2024-03-31
+TXN-00307,Vinland Saga,Action,Brand New,Debit Card,Online,Shueisha,282.34,1,26,2023-10-20,2023-09-21
+TXN-00308,Hunter x Hunter,Action,Brand New,GCash,Online,Dark Horse,195.33,1,4,2024-03-09,2024-03-08
+TXN-00309,Spy x Family,Drama,Second-Hand,Credit Card,Online,Dark Horse,407.83,5,39,2024-12-14,2024-12-12
+TXN-00310,Jujutsu Kaisen,Horror,Second-Hand,GCash,Walk-in,Viz Media,171.87,5,39,2024-07-23,2024-07-12
+TXN-00311,Attack on Titan,Romance,Brand New,Cash,Walk-in,Kodansha,247.54,3,35,2024-11-08,2024-10-13
+TXN-00312,Demon Slayer,Romance,Brand New,GCash,Walk-in,Kodansha,85.31,2,1,2024-05-13,2024-05-11
+TXN-00313,One Piece,Sports,Brand New,GCash,Walk-in,Yen Press,61.41,4,24,2023-06-08,2023-05-29
+TXN-00314,JoJo's Bizarre Adventure,Drama,Brand New,Debit Card,Online,Viz Media,483.19,3,36,2023-07-14,2023-07-02
+TXN-00315,Dragon Ball,Romance,Brand New,Cash,Online,Yen Press,426.19,5,6,2023-10-31,2023-10-19
+TXN-00316,Spy x Family,Fantasy,Brand New,Maya,Online,Yen Press,363.19,4,41,2023-08-11,2023-07-28
+TXN-00317,Hunter x Hunter,Romance,Brand New,Maya,Walk-in,Dark Horse,234.03,5,46,2023-03-01,2023-02-24
+TXN-00318,Bleach,Slice of Life,Brand New,Cash,Online,Yen Press,127.98,4,44,2024-08-16,2024-08-08
+TXN-00319,Bleach,Mystery,Second-Hand,GCash,Walk-in,Seven Seas,120.4,2,31,2024-07-09,2024-06-22
+TXN-00320,Vinland Saga,Drama,Second-Hand,Debit Card,Online,Yen Press,162.61,3,20,2023-03-04,2023-02-18
+TXN-00321,Demon Slayer,Fantasy,Second-Hand,Maya,Walk-in,Dark Horse,297.15,4,24,2023-11-18,2023-10-30
+TXN-00322,JoJo's Bizarre Adventure,Sci-Fi,Brand New,GCash,Walk-in,Seven Seas,371.57,1,25,2023-02-28,2023-02-06
+TXN-00323,Chainsaw Man,Fantasy,Brand New,GCash,Walk-in,Kodansha,347.09,1,36,2023-02-21,2023-01-26
+TXN-00324,One-Punch Man,Horror,Brand New,GCash,Online,Shueisha,175.97,4,21,2024-08-21,2024-08-15
+TXN-00325,Tokyo Ghoul,Sci-Fi,Brand New,Credit Card,Walk-in,Kadokawa,479.69,4,30,2024-05-03,2024-04-27
+TXN-00326,Dragon Ball,Comedy,Brand New,Cash,Walk-in,Yen Press,382.05,4,24,2024-05-29,2024-05-23
+TXN-00327,Demon Slayer,Mystery,Second-Hand,Credit Card,Online,Seven Seas,299.46,1,44,2024-06-27,2024-06-24
+TXN-00328,Naruto,Mystery,Brand New,Cash,Walk-in,Shueisha,325.27,1,42,2023-06-11,2023-05-22
+TXN-00329,One-Punch Man,Mystery,Brand New,Cash,Walk-in,Dark Horse,238.82,4,30,2023-02-28,2023-01-31
+TXN-00330,Berserk,Mystery,Brand New,GCash,Walk-in,Shueisha,161.48,5,22,2024-06-04,2024-05-22
+TXN-00331,Vinland Saga,Sports,Brand New,GCash,Walk-in,Kadokawa,210.19,5,28,2023-03-24,2023-03-04
+TXN-00332,JoJo's Bizarre Adventure,Mystery,Brand New,GCash,Online,Shueisha,391.03,2,7,2023-07-10,2023-06-18
+TXN-00333,Death Note,Mystery,Brand New,GCash,Online,Seven Seas,56.48,3,35,2023-03-12,2023-03-04
+TXN-00334,Chainsaw Man,Mystery,Brand New,GCash,Walk-in,Shueisha,102.23,5,28,2024-09-01,2024-08-16
+TXN-00335,Hunter x Hunter,Drama,Brand New,Cash,Online,Shueisha,70.7,1,14,2023-03-11,2023-02-09
+TXN-00336,Vinland Saga,Sports,Second-Hand,GCash,Walk-in,Shueisha,68.33,5,10,2024-11-22,2024-11-03
+TXN-00337,Fullmetal Alchemist,Action,Brand New,Maya,Walk-in,Viz Media,434.96,2,16,2023-08-29,2023-08-24
+TXN-00338,One Piece,Fantasy,Second-Hand,GCash,Walk-in,Yen Press,366.65,2,16,2024-02-18,2024-02-10
+TXN-00339,Attack on Titan,Fantasy,Brand New,GCash,Walk-in,Dark Horse,263.38,3,31,2023-05-03,2023-04-18
+TXN-00340,Demon Slayer,Sci-Fi,Brand New,GCash,Walk-in,Kadokawa,94.03,5,42,2024-08-06,2024-07-16
+TXN-00341,My Hero Academia,Drama,Brand New,Maya,Online,Dark Horse,271.23,1,25,2023-09-10,2023-09-01
+TXN-00342,Naruto,Slice of Life,Brand New,Cash,Online,Viz Media,263.06,1,13,2024-08-15,2024-07-31
+TXN-00343,My Hero Academia,Fantasy,Brand New,Credit Card,Walk-in,Viz Media,127.94,4,6,2024-08-31,2024-08-22
+TXN-00344,One-Punch Man,Romance,Second-Hand,Credit Card,Online,Seven Seas,245.23,1,44,2023-02-10,2023-01-19
+TXN-00345,Chainsaw Man,Slice of Life,Second-Hand,Credit Card,Online,Viz Media,229.33,3,9,2024-09-26,2024-09-25
+TXN-00346,Berserk,Mystery,Brand New,Cash,Online,Yen Press,327.13,3,45,2023-03-25,2023-02-24
+TXN-00347,Berserk,Mystery,Brand New,Credit Card,Online,Viz Media,335.79,1,36,2024-03-05,2024-02-08
+TXN-00348,Tokyo Ghoul,Sports,Second-Hand,Cash,Walk-in,Shueisha,70.39,1,43,2024-11-04,2024-10-20
+TXN-00349,Dragon Ball,Slice of Life,Brand New,GCash,Online,Dark Horse,218.58,4,20,2024-08-20,2024-07-22
+TXN-00350,Jujutsu Kaisen,Romance,Brand New,Credit Card,Online,Kodansha,331.64,1,18,2024-08-01,2024-07-22
+TXN-00351,My Hero Academia,Sports,Brand New,Cash,Online,Kadokawa,276.41,4,43,2024-06-19,2024-05-28
+TXN-00352,Dragon Ball,Sci-Fi,Second-Hand,Debit Card,Walk-in,Viz Media,435.42,4,21,2023-11-20,2023-11-02
+TXN-00353,Vinland Saga,Slice of Life,Second-Hand,Cash,Walk-in,Dark Horse,346.41,1,4,2023-09-25,2023-09-19
+TXN-00354,Mob Psycho 100,Drama,Brand New,Debit Card,Walk-in,Seven Seas,123.32,2,33,2023-07-29,2023-07-26
+TXN-00355,Fullmetal Alchemist,Mystery,Second-Hand,GCash,Walk-in,Viz Media,81.76,2,27,2024-11-16,2024-11-01
+TXN-00356,Tokyo Ghoul,Mystery,Second-Hand,Cash,Walk-in,Yen Press,339.09,4,7,2023-11-18,2023-11-06
+TXN-00357,Death Note,Horror,Brand New,Cash,Online,Viz Media,61.93,1,6,2023-09-02,2023-08-14
+TXN-00358,Naruto,Sports,Brand New,Maya,Walk-in,Viz Media,313.6,2,15,2023-09-29,2023-09-19
+TXN-00359,Death Note,Action,Brand New,Cash,Online,Viz Media,473.1,1,18,2024-02-10,2024-01-20
+TXN-00360,Jujutsu Kaisen,Action,Second-Hand,Cash,Walk-in,Seven Seas,308.96,1,32,2023-05-15,2023-05-01
+TXN-00361,Dragon Ball,Sports,Brand New,GCash,Online,Viz Media,224.68,1,11,2024-11-18,2024-10-26
+TXN-00362,Death Note,Drama,Second-Hand,Credit Card,Walk-in,Kadokawa,339.48,5,20,2024-10-22,2024-10-13
+TXN-00363,Bleach,Comedy,Brand New,GCash,Walk-in,Dark Horse,256.21,1,24,2023-11-04,2023-10-20
+TXN-00364,Fullmetal Alchemist,Sports,Second-Hand,Cash,Online,Yen Press,295.53,5,15,2024-04-13,2024-03-16
+TXN-00365,One Piece,Drama,Brand New,Cash,Online,Viz Media,473.66,4,48,2023-11-20,2023-11-10
+TXN-00366,One Piece,Sci-Fi,Brand New,Cash,Online,Viz Media,223.75,2,7,2023-03-16,2023-03-09
+TXN-00367,Jujutsu Kaisen,Mystery,Second-Hand,Cash,Walk-in,Viz Media,482.54,2,21,2023-01-10,2022-12-28
+TXN-00368,Vinland Saga,Romance,Second-Hand,GCash,Walk-in,Viz Media,457.41,2,42,2024-04-14,2024-03-17
+TXN-00369,Chainsaw Man,Comedy,Second-Hand,Credit Card,Online,Shueisha,138.11,2,26,2024-09-28,2024-09-12
+TXN-00370,Dragon Ball,Slice of Life,Brand New,Cash,Walk-in,Shueisha,81.21,2,44,2024-07-30,2024-07-26
+TXN-00371,Death Note,Comedy,Second-Hand,GCash,Online,Kodansha,95.35,2,14,2023-04-13,2023-04-05
+TXN-00372,Fullmetal Alchemist,Romance,Brand New,GCash,Walk-in,Viz Media,58.2,2,37,2023-03-17,2023-03-04
+TXN-00373,Attack on Titan,Horror,Brand New,Maya,Walk-in,Kodansha,92.5,4,21,2024-07-04,2024-06-15
+TXN-00374,One-Punch Man,Mystery,Brand New,Maya,Walk-in,Kadokawa,357.35,1,18,2023-08-07,2023-07-26
+TXN-00375,Black Clover,Action,Brand New,Debit Card,Walk-in,Kodansha,82.03,3,5,2024-06-02,2024-05-14
+TXN-00376,Tokyo Ghoul,Drama,Brand New,Cash,Online,Dark Horse,193.54,5,3,2023-09-29,2023-09-19
+TXN-00377,Vinland Saga,Sports,Second-Hand,Cash,Online,Shueisha,430.19,3,23,2023-05-16,2023-04-23
+TXN-00378,Fullmetal Alchemist,Sports,Brand New,GCash,Walk-in,Shueisha,60.47,3,26,2023-12-24,2023-12-14
+TXN-00379,JoJo's Bizarre Adventure,Action,Second-Hand,Cash,Online,Viz Media,416.51,1,37,2023-03-12,2023-03-11
+TXN-00380,Chainsaw Man,Comedy,Brand New,GCash,Walk-in,Viz Media,176.83,1,24,2023-09-08,2023-08-12
+TXN-00381,My Hero Academia,Mystery,Brand New,Credit Card,Walk-in,Kadokawa,103.17,1,49,2024-01-14,2023-12-23
+TXN-00382,Hunter x Hunter,Fantasy,Brand New,Debit Card,Walk-in,Yen Press,363.53,2,19,2023-10-19,2023-10-06
+TXN-00383,Hunter x Hunter,Drama,Second-Hand,Debit Card,Online,Kadokawa,333.02,4,25,2023-06-11,2023-06-02
+TXN-00384,Jujutsu Kaisen,Sci-Fi,Second-Hand,GCash,Online,Dark Horse,444.86,2,21,2024-03-24,2024-03-23
+TXN-00385,Mob Psycho 100,Romance,Second-Hand,Credit Card,Online,Viz Media,380.78,4,12,2024-07-10,2024-06-21
+TXN-00386,Tokyo Ghoul,Comedy,Second-Hand,GCash,Online,Viz Media,411.57,4,41,2024-12-21,2024-11-23
+TXN-00387,Jujutsu Kaisen,Slice of Life,Brand New,Cash,Online,Kadokawa,176.92,3,33,2023-11-06,2023-10-15
+TXN-00388,Death Note,Horror,Brand New,Credit Card,Online,Kadokawa,129.85,3,4,2024-09-18,2024-08-24
+TXN-00389,Death Note,Sports,Second-Hand,Cash,Online,Kadokawa,387.78,4,42,2024-10-31,2024-10-07
+TXN-00390,Dragon Ball,Comedy,Brand New,GCash,Online,Shueisha,413.08,4,7,2024-06-25,2024-06-23
+TXN-00391,Vinland Saga,Horror,Brand New,GCash,Walk-in,Kodansha,495.73,2,22,2023-01-09,2022-12-10
+TXN-00392,Tokyo Ghoul,Romance,Brand New,Credit Card,Walk-in,Kodansha,235.68,2,33,2024-11-14,2024-10-25
+TXN-00393,Tokyo Ghoul,Sports,Brand New,Credit Card,Walk-in,Viz Media,217.41,3,17,2024-07-21,2024-06-27
+TXN-00394,Naruto,Sports,Brand New,GCash,Walk-in,Shueisha,399.39,1,24,2023-11-03,2023-10-18
+TXN-00395,JoJo's Bizarre Adventure,Fantasy,Brand New,Debit Card,Online,Kadokawa,203.36,4,34,2024-11-10,2024-10-14
+TXN-00396,Vinland Saga,Comedy,Brand New,Cash,Walk-in,Viz Media,468.84,2,28,2023-04-17,2023-03-19
+TXN-00397,One-Punch Man,Mystery,Brand New,GCash,Online,Shueisha,436.29,3,43,2023-05-18,2023-04-19
+TXN-00398,Demon Slayer,Action,Brand New,Credit Card,Walk-in,Dark Horse,243.05,2,41,2023-09-28,2023-09-18
+TXN-00399,Vinland Saga,Action,Brand New,Credit Card,Walk-in,Yen Press,387.89,4,39,2023-04-29,2023-04-04
+TXN-00400,Fullmetal Alchemist,Sci-Fi,Second-Hand,Maya,Walk-in,Shueisha,389.54,4,22,2023-04-20,2023-03-25
+TXN-00401,Spy x Family,Slice of Life,Brand New,Cash,Online,Seven Seas,96.41,5,49,2024-07-20,2024-07-12
+TXN-00402,Black Clover,Horror,Brand New,Credit Card,Walk-in,Viz Media,456.15,1,17,2023-06-09,2023-05-20
+TXN-00403,JoJo's Bizarre Adventure,Comedy,Second-Hand,Credit Card,Walk-in,Kodansha,277.36,5,34,2023-10-06,2023-09-10
+TXN-00404,Black Clover,Drama,Brand New,Maya,Online,Seven Seas,421.91,3,6,2023-10-16,2023-10-04
+TXN-00405,Attack on Titan,Slice of Life,Brand New,Cash,Online,Kadokawa,194.02,2,46,2024-09-11,2024-09-03
+TXN-00406,One-Punch Man,Fantasy,Second-Hand,Credit Card,Walk-in,Yen Press,452.99,3,6,2023-08-04,2023-07-14
+TXN-00407,One-Punch Man,Sports,Brand New,GCash,Walk-in,Dark Horse,225.14,4,34,2023-12-18,2023-12-11
+TXN-00408,Fullmetal Alchemist,Mystery,Second-Hand,Cash,Walk-in,Yen Press,54.88,5,1,2023-07-28,2023-07-08
+TXN-00409,Tokyo Ghoul,Comedy,Second-Hand,GCash,Online,Yen Press,457.42,5,10,2024-12-04,2024-11-25
+TXN-00410,Naruto,Slice of Life,Brand New,GCash,Walk-in,Shueisha,91.08,5,21,2024-10-11,2024-09-19
+TXN-00411,Black Clover,Slice of Life,Brand New,GCash,Walk-in,Viz Media,193.69,3,5,2023-09-28,2023-09-03
+TXN-00412,Demon Slayer,Mystery,Brand New,Debit Card,Walk-in,Viz Media,477.53,4,2,2024-06-01,2024-05-08
+TXN-00413,One Piece,Sci-Fi,Brand New,GCash,Walk-in,Yen Press,477.77,2,22,2024-05-15,2024-04-20
+TXN-00414,Vinland Saga,Horror,Brand New,Credit Card,Online,Kadokawa,308.05,2,48,2023-09-15,2023-08-24
+TXN-00415,Spy x Family,Horror,Brand New,GCash,Walk-in,Viz Media,334.33,3,2,2023-02-22,2023-01-31
+TXN-00416,Attack on Titan,Slice of Life,Brand New,Cash,Walk-in,Yen Press,251.8,5,10,2023-04-05,2023-03-09
+TXN-00417,Demon Slayer,Romance,Brand New,Cash,Walk-in,Viz Media,181.94,1,34,2024-10-11,2024-10-06
+TXN-00418,Demon Slayer,Slice of Life,Brand New,GCash,Walk-in,Kadokawa,197.9,3,16,2024-03-09,2024-02-17
+TXN-00419,Black Clover,Slice of Life,Brand New,GCash,Walk-in,Dark Horse,352.63,3,48,2023-10-11,2023-10-07
+TXN-00420,Spy x Family,Mystery,Brand New,Cash,Online,Seven Seas,388.57,4,39,2023-02-15,2023-01-17
+TXN-00421,Hunter x Hunter,Sports,Second-Hand,GCash,Online,Yen Press,406.21,2,22,2023-01-04,2022-12-14
+TXN-00422,Spy x Family,Mystery,Brand New,GCash,Online,Kodansha,405.33,3,12,2023-12-08,2023-11-17
+TXN-00423,Jujutsu Kaisen,Comedy,Brand New,Cash,Online,Kodansha,91.04,3,24,2023-05-14,2023-05-12
+TXN-00424,Bleach,Slice of Life,Second-Hand,GCash,Online,Yen Press,272.49,5,47,2024-10-14,2024-10-04
+TXN-00425,Demon Slayer,Horror,Brand New,Cash,Walk-in,Shueisha,75.9,5,40,2023-09-26,2023-08-31
+TXN-00426,Death Note,Drama,Brand New,Maya,Online,Dark Horse,297.29,1,38,2023-06-15,2023-05-31
+TXN-00427,Chainsaw Man,Horror,Brand New,Debit Card,Online,Shueisha,248.69,4,10,2024-03-28,2024-03-26
+TXN-00428,Jujutsu Kaisen,Action,Brand New,Credit Card,Online,Seven Seas,449.47,1,35,2024-07-18,2024-06-29
+TXN-00429,Tokyo Ghoul,Sci-Fi,Brand New,Cash,Walk-in,Kodansha,207.91,5,49,2024-12-23,2024-12-11
+TXN-00430,Chainsaw Man,Fantasy,Brand New,Credit Card,Walk-in,Kadokawa,102.68,2,32,2024-03-13,2024-02-18
+TXN-00431,Naruto,Comedy,Brand New,Debit Card,Online,Yen Press,114.35,5,7,2024-07-28,2024-07-23
+TXN-00432,JoJo's Bizarre Adventure,Comedy,Second-Hand,Credit Card,Online,Seven Seas,392.68,4,21,2023-01-10,2023-01-07
+TXN-00433,Berserk,Sci-Fi,Brand New,Cash,Online,Viz Media,328.2,5,20,2023-04-25,2023-03-26
+TXN-00434,Tokyo Ghoul,Drama,Brand New,Credit Card,Walk-in,Kodansha,95.51,4,26,2023-03-19,2023-03-09
+TXN-00435,Jujutsu Kaisen,Fantasy,Second-Hand,Debit Card,Walk-in,Dark Horse,87.85,4,4,2024-12-08,2024-11-27
+TXN-00436,Black Clover,Sports,Brand New,GCash,Walk-in,Kodansha,365.44,4,46,2023-06-02,2023-05-09
+TXN-00437,Tokyo Ghoul,Slice of Life,Second-Hand,Credit Card,Online,Dark Horse,82.74,4,22,2024-07-12,2024-06-28
+TXN-00438,Chainsaw Man,Fantasy,Brand New,GCash,Walk-in,Dark Horse,419.84,4,15,2023-02-06,2023-01-31
+TXN-00439,Demon Slayer,Drama,Second-Hand,GCash,Walk-in,Yen Press,367.81,2,40,2024-01-14,2024-01-07
+TXN-00440,Fullmetal Alchemist,Romance,Brand New,Cash,Online,Dark Horse,86.61,1,21,2024-08-19,2024-08-14
+TXN-00441,Berserk,Action,Second-Hand,Credit Card,Walk-in,Shueisha,88.18,3,15,2024-07-19,2024-06-23
+TXN-00442,Dragon Ball,Fantasy,Second-Hand,Cash,Online,Seven Seas,493.99,1,22,2023-06-01,2023-05-14
+TXN-00443,Bleach,Fantasy,Brand New,GCash,Walk-in,Kadokawa,218.42,4,28,2024-03-16,2024-02-16
+TXN-00444,Berserk,Action,Brand New,Cash,Online,Kodansha,216.79,2,14,2023-05-11,2023-04-29
+TXN-00445,Chainsaw Man,Slice of Life,Brand New,GCash,Online,Kadokawa,415.76,5,27,2023-02-12,2023-01-26
+TXN-00446,Tokyo Ghoul,Fantasy,Brand New,Cash,Online,Seven Seas,476.26,2,41,2023-11-12,2023-10-26
+TXN-00447,Attack on Titan,Action,Brand New,Credit Card,Online,Viz Media,493.7,4,40,2024-01-09,2023-12-10
+TXN-00448,Black Clover,Action,Brand New,Credit Card,Walk-in,Seven Seas,389.02,2,28,2023-02-10,2023-02-01
+TXN-00449,Mob Psycho 100,Action,Brand New,Cash,Walk-in,Kodansha,219.32,2,26,2024-01-02,2023-12-06
+TXN-00450,Demon Slayer,Mystery,Brand New,Cash,Walk-in,Kadokawa,87.58,4,49,2023-08-04,2023-07-29
+TXN-00451,Black Clover,Drama,Brand New,Cash,Online,Kadokawa,399.72,2,2,2024-11-29,2024-11-20
+TXN-00452,Demon Slayer,Mystery,Brand New,Debit Card,Online,Yen Press,301.28,3,25,2023-09-13,2023-08-14
+TXN-00453,Dragon Ball,Romance,Brand New,GCash,Walk-in,Yen Press,240.9,3,3,2024-11-13,2024-10-17
+TXN-00454,Chainsaw Man,Sports,Brand New,GCash,Online,Seven Seas,457.86,2,8,2023-04-16,2023-03-31
+TXN-00455,Mob Psycho 100,Mystery,Brand New,Cash,Walk-in,Seven Seas,100.04,5,44,2023-12-29,2023-12-03
+TXN-00456,One Piece,Mystery,Brand New,Credit Card,Online,Viz Media,271.68,4,33,2024-07-27,2024-07-17
+TXN-00457,JoJo's Bizarre Adventure,Drama,Brand New,Debit Card,Online,Dark Horse,55.11,3,42,2024-02-21,2024-01-28
+TXN-00458,Tokyo Ghoul,Sports,Brand New,Debit Card,Walk-in,Kodansha,260.9,5,35,2024-09-27,2024-08-30
+TXN-00459,Tokyo Ghoul,Sci-Fi,Brand New,Credit Card,Walk-in,Yen Press,75.34,2,6,2023-06-08,2023-05-28
+TXN-00460,Berserk,Action,Second-Hand,Cash,Walk-in,Kodansha,103.47,5,39,2023-08-31,2023-08-05
+TXN-00461,One Piece,Comedy,Brand New,Cash,Online,Viz Media,102.89,1,23,2023-06-16,2023-06-12
+TXN-00462,One Piece,Sports,Brand New,Cash,Walk-in,Yen Press,342.14,3,25,2023-07-01,2023-06-16
+TXN-00463,Death Note,Romance,Second-Hand,Cash,Walk-in,Yen Press,385.72,2,43,2024-02-27,2024-02-24
+TXN-00464,Jujutsu Kaisen,Slice of Life,Second-Hand,Cash,Walk-in,Dark Horse,312.52,4,19,2023-01-26,2023-01-21
+TXN-00465,Hunter x Hunter,Romance,Second-Hand,Cash,Walk-in,Kodansha,482.98,2,5,2023-07-03,2023-06-08
+TXN-00466,Death Note,Action,Brand New,GCash,Walk-in,Kodansha,218.69,4,11,2023-12-07,2023-11-29
+TXN-00467,Dragon Ball,Sports,Brand New,Maya,Online,Kodansha,178.57,2,12,2024-02-26,2024-01-29
+TXN-00468,Vinland Saga,Romance,Second-Hand,Credit Card,Walk-in,Dark Horse,440.87,5,10,2024-11-16,2024-10-25
+TXN-00469,Naruto,Romance,Brand New,Debit Card,Online,Yen Press,150.62,5,8,2023-09-12,2023-08-19
+TXN-00470,Tokyo Ghoul,Sci-Fi,Brand New,Credit Card,Online,Viz Media,483.45,5,24,2023-10-01,2023-09-09
+TXN-00471,My Hero Academia,Sci-Fi,Second-Hand,Cash,Walk-in,Kodansha,55.47,1,28,2023-06-13,2023-05-31
+TXN-00472,JoJo's Bizarre Adventure,Sports,Second-Hand,Credit Card,Walk-in,Kadokawa,486.45,4,41,2024-12-19,2024-11-21
+TXN-00473,One-Punch Man,Action,Second-Hand,Cash,Online,Dark Horse,69.42,5,36,2023-04-21,2023-03-26
+TXN-00474,Black Clover,Mystery,Second-Hand,Credit Card,Online,Shueisha,451.01,1,37,2024-01-27,2024-01-09
+TXN-00475,Chainsaw Man,Horror,Second-Hand,GCash,Walk-in,Viz Media,287.47,4,21,2023-02-09,2023-01-28
+TXN-00476,Fullmetal Alchemist,Fantasy,Brand New,Maya,Walk-in,Kadokawa,496.83,2,8,2024-04-26,2024-04-23
+TXN-00477,Attack on Titan,Comedy,Second-Hand,Cash,Walk-in,Kodansha,83.21,1,9,2023-08-16,2023-07-21
+TXN-00478,Hunter x Hunter,Fantasy,Brand New,Cash,Online,Shueisha,299.23,3,47,2023-07-24,2023-07-11
+TXN-00479,Dragon Ball,Drama,Brand New,Maya,Walk-in,Viz Media,486.19,1,15,2024-04-16,2024-04-15
+TXN-00480,Attack on Titan,Sci-Fi,Second-Hand,Cash,Walk-in,Dark Horse,285.39,1,48,2023-12-25,2023-12-16
+TXN-00481,Hunter x Hunter,Sports,Brand New,Credit Card,Online,Shueisha,333.23,4,46,2023-11-09,2023-10-22
+TXN-00482,Tokyo Ghoul,Fantasy,Brand New,Credit Card,Online,Yen Press,363.09,2,40,2023-08-22,2023-08-18
+TXN-00483,Hunter x Hunter,Action,Brand New,Debit Card,Walk-in,Seven Seas,254.54,3,18,2023-08-17,2023-08-02
+TXN-00484,Death Note,Comedy,Second-Hand,Maya,Walk-in,Shueisha,332.4,5,42,2023-01-25,2023-01-13
+TXN-00485,One Piece,Fantasy,Brand New,Maya,Online,Seven Seas,312.94,5,20,2024-11-06,2024-10-15
+TXN-00486,Death Note,Comedy,Second-Hand,Cash,Walk-in,Kadokawa,455.52,1,6,2023-07-17,2023-06-23
+TXN-00487,Berserk,Slice of Life,Brand New,Debit Card,Walk-in,Viz Media,70.45,4,12,2024-02-13,2024-01-22
+TXN-00488,Attack on Titan,Action,Second-Hand,Credit Card,Online,Kadokawa,176.43,4,2,2023-12-03,2023-11-24
+TXN-00489,Bleach,Horror,Second-Hand,Credit Card,Walk-in,Kadokawa,477.69,5,7,2023-10-13,2023-09-24
+TXN-00490,Chainsaw Man,Romance,Brand New,Cash,Online,Kodansha,450.62,3,16,2023-03-13,2023-02-28
+TXN-00491,Jujutsu Kaisen,Comedy,Brand New,Credit Card,Online,Dark Horse,255.05,2,3,2023-10-13,2023-09-16
+TXN-00492,Jujutsu Kaisen,Action,Brand New,Maya,Walk-in,Shueisha,329.06,3,45,2023-12-26,2023-12-05
+TXN-00493,Hunter x Hunter,Comedy,Second-Hand,Maya,Walk-in,Viz Media,174.82,2,3,2024-10-18,2024-10-06
+TXN-00494,Dragon Ball,Comedy,Brand New,GCash,Online,Yen Press,134.65,5,27,2024-06-05,2024-06-01
+TXN-00495,Fullmetal Alchemist,Mystery,Second-Hand,Cash,Online,Dark Horse,258.66,2,43,2024-02-14,2024-01-23
+TXN-00496,One Piece,Mystery,Brand New,GCash,Online,Dark Horse,209.01,4,40,2024-11-26,2024-11-18
+TXN-00497,Mob Psycho 100,Action,Second-Hand,Debit Card,Online,Viz Media,312.65,1,38,2024-07-03,2024-06-17
+TXN-00498,Naruto,Mystery,Second-Hand,Credit Card,Walk-in,Dark Horse,84.98,1,33,2023-12-06,2023-12-05
+TXN-00499,My Hero Academia,Drama,Second-Hand,GCash,Online,Kodansha,488.48,5,28,2023-01-29,2023-01-09
+TXN-00500,JoJo's Bizarre Adventure,Horror,Second-Hand,Cash,Walk-in,Dark Horse,493.79,4,1,2023-04-29,2023-03-31
+TXN-00501,Bleach,Sports,Brand New,GCash,Walk-in,Kodansha,364.17,3,8,2023-09-25,2023-09-07
+TXN-00502,One-Punch Man,Action,Brand New,GCash,Walk-in,Shueisha,291.24,4,37,2023-07-02,2023-06-21
+TXN-00503,One-Punch Man,Action,Second-Hand,Maya,Walk-in,Shueisha,189.29,1,32,2024-08-17,2024-07-18
+TXN-00504,Bleach,Drama,Second-Hand,Credit Card,Online,Kadokawa,416.21,1,48,2023-09-29,2023-09-09
+TXN-00505,Bleach,Sci-Fi,Brand New,GCash,Walk-in,Kodansha,358.13,4,43,2023-02-09,2023-02-01
+TXN-00506,JoJo's Bizarre Adventure,Sci-Fi,Brand New,GCash,Walk-in,Yen Press,123.18,4,37,2023-04-22,2023-04-01
+TXN-00507,My Hero Academia,Mystery,Brand New,Cash,Walk-in,Shueisha,459.92,1,4,2024-09-02,2024-08-30
+TXN-00508,Spy x Family,Sports,Brand New,Maya,Online,Dark Horse,420.14,3,30,2024-03-20,2024-02-28
+TXN-00509,JoJo's Bizarre Adventure,Mystery,Brand New,GCash,Online,Viz Media,477.41,5,6,2023-12-20,2023-11-23
+TXN-00510,Black Clover,Slice of Life,Brand New,GCash,Walk-in,Viz Media,376.57,5,46,2023-11-18,2023-11-03
+TXN-00511,Jujutsu Kaisen,Slice of Life,Second-Hand,GCash,Walk-in,Seven Seas,326.04,4,19,2024-03-22,2024-02-21
+TXN-00512,One-Punch Man,Romance,Brand New,Credit Card,Walk-in,Kodansha,238.21,5,32,2024-09-12,2024-08-20
+TXN-00513,One-Punch Man,Slice of Life,Brand New,Credit Card,Online,Yen Press,469.73,1,9,2024-06-07,2024-05-28
+TXN-00514,Black Clover,Sci-Fi,Brand New,Credit Card,Online,Kadokawa,439.73,1,12,2023-04-29,2023-04-08
+TXN-00515,Dragon Ball,Horror,Brand New,Cash,Walk-in,Dark Horse,70.35,4,11,2024-01-30,2024-01-16
+TXN-00516,Naruto,Slice of Life,Second-Hand,GCash,Online,Kodansha,61.87,4,46,2024-08-13,2024-08-09
+TXN-00517,Black Clover,Mystery,Second-Hand,Cash,Walk-in,Seven Seas,219.41,4,16,2023-07-14,2023-07-09
+TXN-00518,Naruto,Comedy,Brand New,Credit Card,Online,Viz Media,414.75,3,1,2023-09-18,2023-09-16
+TXN-00519,Jujutsu Kaisen,Action,Second-Hand,Cash,Walk-in,Kodansha,494.27,5,45,2023-02-15,2023-02-13
+TXN-00520,One-Punch Man,Horror,Second-Hand,GCash,Walk-in,Dark Horse,117.69,4,21,2024-12-26,2024-12-16
+TXN-00521,One-Punch Man,Horror,Second-Hand,Debit Card,Walk-in,Yen Press,317.36,2,30,2024-03-22,2024-03-06
+TXN-00522,Hunter x Hunter,Mystery,Brand New,Debit Card,Walk-in,Yen Press,221.4,2,13,2023-01-02,2022-12-29
+TXN-00523,Tokyo Ghoul,Action,Second-Hand,GCash,Online,Shueisha,486.46,1,34,2024-06-16,2024-06-12
+TXN-00524,Fullmetal Alchemist,Sci-Fi,Brand New,GCash,Walk-in,Dark Horse,428.95,5,4,2024-07-05,2024-06-27
+TXN-00525,Fullmetal Alchemist,Horror,Brand New,Cash,Online,Seven Seas,427.25,4,28,2024-12-04,2024-11-05
+TXN-00526,Attack on Titan,Romance,Brand New,Credit Card,Online,Shueisha,260.91,2,38,2024-11-17,2024-10-30
+TXN-00527,Naruto,Mystery,Brand New,Debit Card,Walk-in,Shueisha,236.67,5,31,2023-07-21,2023-07-16
+TXN-00528,JoJo's Bizarre Adventure,Horror,Brand New,Cash,Walk-in,Shueisha,173.03,1,27,2024-01-08,2023-12-26
+TXN-00529,One Piece,Sports,Brand New,GCash,Walk-in,Kodansha,75.37,3,5,2024-03-17,2024-03-02
+TXN-00530,Jujutsu Kaisen,Action,Brand New,Debit Card,Online,Seven Seas,439.13,5,25,2023-03-13,2023-03-01
+TXN-00531,Fullmetal Alchemist,Slice of Life,Second-Hand,Debit Card,Walk-in,Viz Media,415.81,5,3,2024-11-11,2024-10-20
+TXN-00532,Dragon Ball,Horror,Second-Hand,Cash,Walk-in,Yen Press,499.87,3,33,2023-12-05,2023-11-11
+TXN-00533,Attack on Titan,Mystery,Brand New,GCash,Walk-in,Kodansha,498.49,5,4,2024-09-30,2024-09-07
+TXN-00534,Tokyo Ghoul,Slice of Life,Second-Hand,Cash,Online,Viz Media,299.94,1,25,2023-11-18,2023-10-31
+TXN-00535,Mob Psycho 100,Romance,Second-Hand,Cash,Walk-in,Yen Press,396.04,1,20,2024-11-10,2024-10-27
+TXN-00536,Bleach,Slice of Life,Second-Hand,Maya,Walk-in,Seven Seas,475.14,3,34,2023-05-08,2023-04-19
+TXN-00537,Chainsaw Man,Sports,Brand New,Debit Card,Walk-in,Seven Seas,432.34,4,26,2023-11-04,2023-10-11
+TXN-00538,Mob Psycho 100,Sci-Fi,Second-Hand,Credit Card,Walk-in,Dark Horse,161.31,2,5,2024-06-03,2024-05-10
+TXN-00539,Mob Psycho 100,Horror,Second-Hand,Cash,Online,Yen Press,252.74,4,35,2023-11-13,2023-11-08
+TXN-00540,Jujutsu Kaisen,Fantasy,Second-Hand,Debit Card,Walk-in,Yen Press,108.12,5,28,2024-11-13,2024-10-15
+TXN-00541,My Hero Academia,Fantasy,Brand New,GCash,Online,Seven Seas,479.32,2,29,2024-02-23,2024-02-09
+TXN-00542,Vinland Saga,Slice of Life,Brand New,GCash,Online,Yen Press,322.78,3,9,2023-12-01,2023-11-10
+TXN-00543,My Hero Academia,Drama,Brand New,GCash,Online,Kadokawa,152.89,3,38,2024-02-17,2024-02-13
+TXN-00544,Death Note,Action,Brand New,Cash,Online,Dark Horse,352.27,2,6,2024-12-14,2024-11-17
+TXN-00545,Attack on Titan,Fantasy,Brand New,Credit Card,Walk-in,Kodansha,328.16,1,19,2023-10-30,2023-10-14
+TXN-00546,Spy x Family,Drama,Brand New,GCash,Walk-in,Kodansha,211.17,2,44,2024-07-21,2024-07-01
+TXN-00547,Dragon Ball,Fantasy,Second-Hand,Cash,Online,Viz Media,101.1,5,11,2023-05-11,2023-04-27
+TXN-00548,Hunter x Hunter,Drama,Second-Hand,Cash,Walk-in,Kodansha,352.21,1,2,2023-07-16,2023-07-07
+TXN-00549,One-Punch Man,Action,Brand New,Cash,Online,Shueisha,284.14,3,47,2024-03-06,2024-03-04
+TXN-00550,Vinland Saga,Comedy,Second-Hand,Cash,Walk-in,Yen Press,397.54,2,44,2024-11-11,2024-10-19
+TXN-00551,Black Clover,Fantasy,Brand New,GCash,Online,Kodansha,284.07,4,44,2024-01-24,2024-01-12
+TXN-00552,One-Punch Man,Sports,Second-Hand,Debit Card,Online,Viz Media,433.48,4,9,2024-11-24,2024-11-17
+TXN-00553,Jujutsu Kaisen,Horror,Second-Hand,Cash,Walk-in,Viz Media,298.36,5,21,2023-06-28,2023-06-13
+TXN-00554,Death Note,Drama,Second-Hand,Cash,Walk-in,Shueisha,302.42,4,24,2024-09-22,2024-09-07
+TXN-00555,Fullmetal Alchemist,Horror,Second-Hand,GCash,Online,Viz Media,444.49,2,34,2024-08-05,2024-07-28
+TXN-00556,Berserk,Mystery,Brand New,Debit Card,Online,Seven Seas,231.57,2,22,2023-11-05,2023-10-08
+TXN-00557,Mob Psycho 100,Mystery,Second-Hand,GCash,Walk-in,Kadokawa,110.31,4,3,2024-02-20,2024-02-08
+TXN-00558,Berserk,Action,Brand New,GCash,Online,Seven Seas,62.95,2,12,2024-07-15,2024-07-11
+TXN-00559,My Hero Academia,Drama,Second-Hand,GCash,Walk-in,Yen Press,389.81,5,28,2023-01-01,2022-12-10
+TXN-00560,Spy x Family,Romance,Second-Hand,Cash,Walk-in,Yen Press,329.14,1,30,2023-11-08,2023-10-27
+TXN-00561,Spy x Family,Mystery,Second-Hand,Cash,Online,Yen Press,366.84,5,26,2023-10-21,2023-10-03
+TXN-00562,Dragon Ball,Action,Brand New,Credit Card,Online,Dark Horse,145.83,5,48,2023-08-04,2023-07-06
+TXN-00563,Vinland Saga,Mystery,Second-Hand,Credit Card,Online,Kodansha,111.37,2,21,2024-03-16,2024-02-24
+TXN-00564,Bleach,Mystery,Brand New,GCash,Online,Kadokawa,56.55,1,28,2024-08-16,2024-08-04
+TXN-00565,Attack on Titan,Romance,Brand New,Credit Card,Walk-in,Kodansha,207.76,2,26,2024-09-13,2024-09-11
+TXN-00566,Naruto,Fantasy,Second-Hand,Credit Card,Online,Kadokawa,315.46,3,33,2024-11-01,2024-10-19
+TXN-00567,Bleach,Slice of Life,Brand New,Cash,Walk-in,Kodansha,226.51,2,21,2023-11-26,2023-11-17
+TXN-00568,Vinland Saga,Comedy,Second-Hand,GCash,Walk-in,Shueisha,246.86,2,35,2024-04-21,2024-04-14
+TXN-00569,Death Note,Mystery,Brand New,Cash,Walk-in,Seven Seas,456.87,2,34,2024-03-28,2024-03-24
+TXN-00570,Dragon Ball,Mystery,Brand New,Cash,Walk-in,Viz Media,206.71,1,41,2024-03-28,2024-02-29
+TXN-00571,One Piece,Sports,Second-Hand,Credit Card,Walk-in,Viz Media,281.3,2,47,2024-11-22,2024-10-26
+TXN-00572,Hunter x Hunter,Comedy,Brand New,Debit Card,Walk-in,Seven Seas,402.64,1,18,2023-08-07,2023-07-23
+TXN-00573,Dragon Ball,Romance,Brand New,Maya,Walk-in,Shueisha,228.44,4,11,2024-06-07,2024-06-04
+TXN-00574,Bleach,Horror,Second-Hand,Credit Card,Walk-in,Kadokawa,329.94,3,23,2024-04-29,2024-04-07
+TXN-00575,One Piece,Drama,Brand New,Cash,Online,Seven Seas,438.06,1,48,2023-06-23,2023-06-16
+TXN-00576,JoJo's Bizarre Adventure,Mystery,Brand New,Cash,Walk-in,Dark Horse,477.28,4,22,2024-11-05,2024-10-15
+TXN-00577,One-Punch Man,Slice of Life,Brand New,Debit Card,Walk-in,Kadokawa,116.18,1,17,2023-03-28,2023-03-07
+TXN-00578,Jujutsu Kaisen,Drama,Second-Hand,GCash,Online,Viz Media,466.96,1,5,2023-10-18,2023-09-28
+TXN-00579,Attack on Titan,Comedy,Second-Hand,Credit Card,Online,Dark Horse,271.45,3,44,2024-06-11,2024-06-10
+TXN-00580,Fullmetal Alchemist,Drama,Second-Hand,Credit Card,Online,Kodansha,166.21,5,11,2024-11-10,2024-11-08
+TXN-00581,Demon Slayer,Fantasy,Brand New,Credit Card,Walk-in,Dark Horse,256.61,5,30,2024-10-10,2024-09-14
+TXN-00582,Attack on Titan,Mystery,Second-Hand,Debit Card,Online,Kadokawa,491.01,1,15,2024-09-26,2024-09-15
+TXN-00583,Hunter x Hunter,Drama,Second-Hand,Cash,Walk-in,Shueisha,271.68,2,27,2023-12-10,2023-12-02
+TXN-00584,Death Note,Horror,Second-Hand,Credit Card,Walk-in,Kodansha,197.94,4,35,2023-04-06,2023-04-01
+TXN-00585,My Hero Academia,Horror,Brand New,Debit Card,Walk-in,Kadokawa,335.03,2,33,2023-08-29,2023-08-03
+TXN-00586,My Hero Academia,Mystery,Second-Hand,Cash,Online,Kodansha,158.07,2,20,2024-11-19,2024-10-31
+TXN-00587,Demon Slayer,Sci-Fi,Second-Hand,Credit Card,Walk-in,Dark Horse,84.14,1,16,2023-11-14,2023-11-07
+TXN-00588,One-Punch Man,Horror,Brand New,GCash,Walk-in,Viz Media,108.0,1,34,2023-08-19,2023-08-16
+TXN-00589,Bleach,Drama,Brand New,Maya,Walk-in,Kadokawa,107.62,1,2,2023-07-23,2023-06-26
+TXN-00590,Mob Psycho 100,Action,Second-Hand,Cash,Online,Shueisha,118.36,1,35,2023-05-31,2023-05-06
+TXN-00591,Vinland Saga,Horror,Brand New,GCash,Online,Seven Seas,112.47,5,40,2023-01-26,2023-01-08
+TXN-00592,Dragon Ball,Comedy,Second-Hand,Cash,Walk-in,Dark Horse,338.39,1,28,2023-02-17,2023-02-10
+TXN-00593,Chainsaw Man,Sci-Fi,Second-Hand,Credit Card,Online,Kadokawa,131.85,5,47,2023-09-08,2023-08-20
+TXN-00594,Demon Slayer,Drama,Brand New,Cash,Walk-in,Shueisha,205.55,5,39,2024-05-01,2024-04-24
+TXN-00595,Mob Psycho 100,Romance,Brand New,Cash,Online,Kadokawa,453.55,1,6,2024-09-17,2024-08-21
+TXN-00596,Dragon Ball,Sports,Brand New,GCash,Walk-in,Dark Horse,263.28,3,9,2023-03-16,2023-02-16
+TXN-00597,Vinland Saga,Romance,Second-Hand,Maya,Online,Kadokawa,350.4,4,20,2024-04-11,2024-04-03
+TXN-00598,Fullmetal Alchemist,Fantasy,Brand New,Cash,Walk-in,Kodansha,127.54,2,1,2024-02-29,2024-02-18
+TXN-00599,Attack on Titan,Sports,Second-Hand,Cash,Online,Dark Horse,136.53,5,8,2024-10-06,2024-09-11
+TXN-00600,Jujutsu Kaisen,Fantasy,Brand New,Credit Card,Walk-in,Kadokawa,68.39,4,23,2024-08-12,2024-08-07
+TXN-00601,Black Clover,Sports,Brand New,GCash,Walk-in,Seven Seas,126.02,3,3,2023-07-19,2023-06-23
+TXN-00602,Attack on Titan,Sports,Brand New,Maya,Walk-in,Viz Media,175.37,2,4,2024-12-14,2024-11-15
+TXN-00603,Berserk,Action,Brand New,Cash,Walk-in,Kadokawa,129.65,2,25,2024-01-29,2024-01-09
+TXN-00604,Mob Psycho 100,Slice of Life,Second-Hand,Credit Card,Walk-in,Kodansha,89.92,5,47,2024-05-21,2024-05-20
+TXN-00605,Spy x Family,Comedy,Brand New,Cash,Online,Shueisha,104.29,1,38,2024-02-14,2024-02-05
+TXN-00606,Berserk,Romance,Brand New,Cash,Walk-in,Seven Seas,257.35,3,15,2023-09-07,2023-08-10
+TXN-00607,Vinland Saga,Horror,Brand New,Credit Card,Online,Shueisha,142.85,5,21,2023-06-01,2023-05-27
+TXN-00608,Dragon Ball,Drama,Brand New,GCash,Online,Seven Seas,213.92,3,35,2024-11-02,2024-10-28
+TXN-00609,My Hero Academia,Sci-Fi,Brand New,Credit Card,Online,Shueisha,276.54,1,46,2024-12-05,2024-11-17
+TXN-00610,Berserk,Comedy,Second-Hand,GCash,Online,Viz Media,360.68,1,14,2023-01-06,2022-12-28
+TXN-00611,Death Note,Fantasy,Brand New,GCash,Online,Kodansha,67.69,5,36,2023-04-20,2023-03-25
+TXN-00612,JoJo's Bizarre Adventure,Action,Brand New,GCash,Walk-in,Dark Horse,409.73,1,12,2024-03-11,2024-03-05
+TXN-00613,Berserk,Fantasy,Brand New,Maya,Online,Shueisha,332.56,4,17,2023-08-13,2023-08-09
+TXN-00614,Hunter x Hunter,Slice of Life,Second-Hand,Cash,Walk-in,Seven Seas,86.79,2,39,2023-06-30,2023-06-08
+TXN-00615,Hunter x Hunter,Sci-Fi,Brand New,Cash,Online,Kodansha,443.11,5,9,2024-12-13,2024-11-15
+TXN-00616,One Piece,Action,Brand New,GCash,Online,Kadokawa,464.39,3,35,2024-06-14,2024-06-13
+TXN-00617,Fullmetal Alchemist,Fantasy,Second-Hand,GCash,Walk-in,Viz Media,77.49,4,13,2024-04-20,2024-04-15
+TXN-00618,JoJo's Bizarre Adventure,Slice of Life,Brand New,Cash,Walk-in,Kodansha,174.59,5,15,2023-02-21,2023-02-20
+TXN-00619,Tokyo Ghoul,Drama,Brand New,Maya,Walk-in,Kodansha,412.79,1,18,2024-07-24,2024-07-12
+TXN-00620,Hunter x Hunter,Drama,Brand New,Cash,Online,Dark Horse,386.72,1,33,2023-09-13,2023-08-18
+TXN-00621,JoJo's Bizarre Adventure,Fantasy,Second-Hand,Debit Card,Online,Kodansha,133.03,1,6,2023-05-05,2023-04-09
+TXN-00622,Dragon Ball,Comedy,Brand New,Cash,Walk-in,Dark Horse,144.21,1,27,2024-04-12,2024-04-04
+TXN-00623,Berserk,Sci-Fi,Second-Hand,Credit Card,Online,Viz Media,216.71,3,23,2023-05-17,2023-04-28
+TXN-00624,One-Punch Man,Mystery,Brand New,Maya,Online,Viz Media,268.04,4,27,2024-04-20,2024-04-09
+TXN-00625,Vinland Saga,Comedy,Brand New,Cash,Walk-in,Kadokawa,328.21,2,34,2024-11-14,2024-11-13
+TXN-00626,Attack on Titan,Drama,Brand New,Maya,Walk-in,Dark Horse,216.01,3,46,2024-06-27,2024-06-21
+TXN-00627,Demon Slayer,Sci-Fi,Brand New,GCash,Online,Dark Horse,258.14,3,38,2024-07-26,2024-07-17
+TXN-00628,JoJo's Bizarre Adventure,Slice of Life,Second-Hand,Maya,Online,Shueisha,386.36,2,14,2024-09-01,2024-08-30
+TXN-00629,Naruto,Action,Brand New,Credit Card,Online,Shueisha,66.51,2,36,2023-11-21,2023-11-16
+TXN-00630,Mob Psycho 100,Sports,Brand New,GCash,Walk-in,Kadokawa,163.6,1,8,2024-03-29,2024-03-05
+TXN-00631,Dragon Ball,Fantasy,Brand New,Cash,Walk-in,Viz Media,371.01,3,35,2024-09-19,2024-09-05
+TXN-00632,JoJo's Bizarre Adventure,Romance,Second-Hand,GCash,Walk-in,Yen Press,452.84,5,19,2024-05-31,2024-05-14
+TXN-00633,Fullmetal Alchemist,Sci-Fi,Brand New,Cash,Walk-in,Shueisha,280.25,2,30,2024-03-12,2024-03-08
+TXN-00634,One Piece,Horror,Second-Hand,Cash,Walk-in,Kodansha,289.45,2,14,2024-07-15,2024-06-21
+TXN-00635,Death Note,Slice of Life,Brand New,Cash,Online,Viz Media,98.23,4,20,2024-04-01,2024-03-29
+TXN-00636,Vinland Saga,Mystery,Brand New,GCash,Walk-in,Yen Press,251.34,5,49,2023-06-12,2023-05-27
+TXN-00637,My Hero Academia,Sports,Brand New,Credit Card,Online,Kodansha,289.68,5,25,2024-05-01,2024-04-16
+TXN-00638,Demon Slayer,Horror,Brand New,Cash,Walk-in,Seven Seas,159.11,2,40,2024-04-05,2024-03-11
+TXN-00639,Naruto,Mystery,Brand New,Cash,Online,Dark Horse,171.16,1,24,2023-09-23,2023-09-11
+TXN-00640,Vinland Saga,Romance,Brand New,Credit Card,Walk-in,Viz Media,219.78,4,14,2023-09-11,2023-08-25
+TXN-00641,My Hero Academia,Drama,Second-Hand,Cash,Walk-in,Seven Seas,59.03,5,26,2024-10-14,2024-09-25
+TXN-00642,JoJo's Bizarre Adventure,Comedy,Second-Hand,Cash,Walk-in,Kadokawa,194.94,2,38,2023-10-11,2023-10-07
+TXN-00643,One Piece,Fantasy,Second-Hand,Cash,Online,Dark Horse,145.15,5,23,2024-06-17,2024-06-02
+TXN-00644,Fullmetal Alchemist,Action,Brand New,Maya,Online,Dark Horse,197.37,4,22,2024-05-11,2024-04-24
+TXN-00645,Fullmetal Alchemist,Mystery,Brand New,Debit Card,Walk-in,Kodansha,103.89,4,48,2024-10-03,2024-09-25
+TXN-00646,Jujutsu Kaisen,Sports,Brand New,GCash,Walk-in,Seven Seas,450.74,3,19,2023-09-02,2023-08-13
+TXN-00647,Demon Slayer,Sci-Fi,Second-Hand,Credit Card,Online,Dark Horse,317.12,2,46,2023-10-09,2023-10-07
+TXN-00648,Demon Slayer,Drama,Second-Hand,GCash,Walk-in,Shueisha,355.6,4,3,2024-03-26,2024-03-02
+TXN-00649,One-Punch Man,Sci-Fi,Brand New,Credit Card,Walk-in,Viz Media,405.13,3,42,2023-03-21,2023-02-23
+TXN-00650,One-Punch Man,Sports,Brand New,Credit Card,Online,Shueisha,274.3,3,19,2024-12-31,2024-12-01
+TXN-00651,Bleach,Sci-Fi,Brand New,Credit Card,Online,Kodansha,89.11,5,9,2023-10-20,2023-09-22
+TXN-00652,JoJo's Bizarre Adventure,Mystery,Brand New,Cash,Walk-in,Yen Press,291.7,5,28,2023-08-29,2023-08-07
+TXN-00653,JoJo's Bizarre Adventure,Slice of Life,Brand New,Cash,Walk-in,Kodansha,314.08,3,20,2023-10-06,2023-09-19
+TXN-00654,Chainsaw Man,Sci-Fi,Brand New,GCash,Online,Viz Media,385.45,5,45,2023-12-10,2023-11-30
+TXN-00655,Berserk,Comedy,Second-Hand,Debit Card,Walk-in,Dark Horse,244.25,4,7,2023-11-24,2023-11-09
+TXN-00656,Vinland Saga,Romance,Brand New,GCash,Walk-in,Seven Seas,107.41,1,14,2024-07-07,2024-06-16
+TXN-00657,Jujutsu Kaisen,Action,Brand New,Debit Card,Online,Seven Seas,177.7,4,9,2023-03-24,2023-03-23
+TXN-00658,Naruto,Mystery,Second-Hand,Maya,Online,Kadokawa,213.39,3,19,2023-05-22,2023-05-20
+TXN-00659,JoJo's Bizarre Adventure,Horror,Brand New,Cash,Walk-in,Kodansha,340.66,3,47,2023-06-04,2023-05-19
+TXN-00660,Bleach,Sports,Brand New,Credit Card,Online,Viz Media,306.85,4,14,2023-08-25,2023-07-28
+TXN-00661,Vinland Saga,Drama,Brand New,Credit Card,Online,Kadokawa,210.24,5,38,2024-01-28,2024-01-15
+TXN-00662,Dragon Ball,Mystery,Brand New,Maya,Walk-in,Dark Horse,493.93,5,36,2024-12-11,2024-11-27
+TXN-00663,Dragon Ball,Slice of Life,Brand New,Maya,Online,Yen Press,322.6,3,40,2023-06-06,2023-05-15
+TXN-00664,Black Clover,Drama,Second-Hand,Credit Card,Walk-in,Kodansha,156.75,2,17,2024-12-24,2024-12-20
+TXN-00665,JoJo's Bizarre Adventure,Comedy,Brand New,Cash,Walk-in,Yen Press,95.8,5,30,2023-08-08,2023-07-23
+TXN-00666,Mob Psycho 100,Sports,Brand New,Credit Card,Online,Viz Media,118.79,4,9,2023-03-07,2023-02-12
+TXN-00667,Tokyo Ghoul,Drama,Second-Hand,Cash,Walk-in,Yen Press,160.68,5,33,2024-02-29,2024-01-30
+TXN-00668,One-Punch Man,Sci-Fi,Brand New,Credit Card,Walk-in,Yen Press,122.31,4,25,2024-02-22,2024-02-07
+TXN-00669,Bleach,Mystery,Second-Hand,Maya,Walk-in,Viz Media,133.96,3,14,2023-12-05,2023-12-02
+TXN-00670,Death Note,Romance,Second-Hand,GCash,Walk-in,Viz Media,178.29,5,11,2024-07-09,2024-06-10
+TXN-00671,Spy x Family,Sports,Brand New,Credit Card,Online,Kodansha,128.02,4,35,2024-04-22,2024-04-19
+TXN-00672,Naruto,Fantasy,Second-Hand,GCash,Online,Yen Press,453.54,3,41,2024-03-01,2024-02-19
+TXN-00673,Spy x Family,Comedy,Brand New,GCash,Online,Kadokawa,86.11,2,14,2023-03-05,2023-02-13
+TXN-00674,One Piece,Action,Second-Hand,GCash,Walk-in,Viz Media,286.03,4,30,2023-07-31,2023-07-26
+TXN-00675,Dragon Ball,Sports,Brand New,Credit Card,Walk-in,Dark Horse,234.68,2,41,2024-03-06,2024-03-03
+TXN-00676,Mob Psycho 100,Slice of Life,Second-Hand,Maya,Walk-in,Yen Press,492.07,2,4,2024-02-03,2024-01-29
+TXN-00677,Demon Slayer,Mystery,Second-Hand,Maya,Walk-in,Viz Media,100.42,1,4,2024-08-21,2024-08-12
+TXN-00678,Naruto,Sci-Fi,Brand New,Cash,Walk-in,Kadokawa,229.04,5,28,2024-12-13,2024-11-23
+TXN-00679,JoJo's Bizarre Adventure,Action,Brand New,Debit Card,Online,Seven Seas,486.26,4,8,2023-01-21,2022-12-31
+TXN-00680,Death Note,Action,Second-Hand,Credit Card,Online,Kodansha,439.48,2,2,2024-08-12,2024-07-24
+TXN-00681,Mob Psycho 100,Comedy,Second-Hand,Cash,Online,Yen Press,417.68,1,41,2024-01-25,2024-01-07
+TXN-00682,Naruto,Drama,Brand New,Cash,Walk-in,Seven Seas,166.06,3,46,2024-05-03,2024-04-10
+TXN-00683,Attack on Titan,Slice of Life,Second-Hand,Cash,Online,Viz Media,126.9,4,22,2023-01-07,2022-12-27
+TXN-00684,Berserk,Drama,Brand New,Maya,Walk-in,Viz Media,350.89,2,41,2023-12-27,2023-12-14
+TXN-00685,Demon Slayer,Sci-Fi,Brand New,Credit Card,Walk-in,Dark Horse,468.22,5,16,2023-11-02,2023-10-13
+TXN-00686,Death Note,Action,Brand New,Credit Card,Online,Dark Horse,300.54,1,29,2024-02-04,2024-01-18
+TXN-00687,Jujutsu Kaisen,Slice of Life,Brand New,Cash,Online,Yen Press,307.23,2,49,2024-03-05,2024-02-24
+TXN-00688,Berserk,Slice of Life,Second-Hand,Credit Card,Walk-in,Seven Seas,175.99,5,48,2024-07-05,2024-06-20
+TXN-00689,Bleach,Horror,Brand New,Cash,Walk-in,Seven Seas,396.27,2,30,2024-07-13,2024-06-26
+TXN-00690,Mob Psycho 100,Mystery,Second-Hand,GCash,Walk-in,Viz Media,134.17,4,12,2024-09-09,2024-08-20
+TXN-00691,Chainsaw Man,Action,Brand New,Credit Card,Online,Yen Press,195.66,4,35,2023-08-14,2023-07-31
+TXN-00692,Berserk,Action,Brand New,Cash,Walk-in,Viz Media,241.45,4,11,2024-05-14,2024-05-10
+TXN-00693,Tokyo Ghoul,Slice of Life,Brand New,Debit Card,Online,Dark Horse,278.42,1,46,2023-08-13,2023-07-18
+TXN-00694,Hunter x Hunter,Drama,Brand New,Cash,Walk-in,Kadokawa,159.08,4,21,2023-10-07,2023-09-14
+TXN-00695,One-Punch Man,Action,Brand New,Credit Card,Walk-in,Shueisha,101.68,5,21,2024-03-22,2024-03-18
+TXN-00696,Dragon Ball,Slice of Life,Brand New,GCash,Walk-in,Shueisha,324.78,2,5,2024-05-12,2024-04-14
+TXN-00697,Chainsaw Man,Action,Brand New,GCash,Walk-in,Viz Media,179.88,3,48,2023-01-30,2023-01-09
+TXN-00698,One Piece,Slice of Life,Brand New,Cash,Walk-in,Seven Seas,311.56,5,20,2024-02-03,2024-01-13
+TXN-00699,Mob Psycho 100,Horror,Brand New,Cash,Online,Dark Horse,119.46,5,37,2023-12-11,2023-11-12
+TXN-00700,Attack on Titan,Mystery,Brand New,Maya,Online,Kodansha,266.51,4,3,2024-11-15,2024-10-21
+TXN-00701,Death Note,Slice of Life,Second-Hand,Cash,Online,Kodansha,289.67,1,44,2024-11-26,2024-11-08
+TXN-00702,My Hero Academia,Action,Second-Hand,Debit Card,Online,Shueisha,73.32,2,33,2024-02-19,2024-01-26
+TXN-00703,Spy x Family,Sci-Fi,Brand New,Maya,Online,Kadokawa,201.47,1,9,2023-06-19,2023-05-22
+TXN-00704,Bleach,Mystery,Brand New,Cash,Online,Shueisha,110.49,2,9,2024-04-23,2024-04-16
+TXN-00705,Black Clover,Horror,Brand New,Cash,Online,Viz Media,78.52,2,4,2023-05-11,2023-04-27
+TXN-00706,Berserk,Slice of Life,Second-Hand,Credit Card,Walk-in,Kadokawa,495.48,1,35,2024-09-29,2024-09-14
+TXN-00707,Mob Psycho 100,Sci-Fi,Brand New,Maya,Walk-in,Kodansha,195.06,5,17,2024-06-30,2024-06-01
+TXN-00708,Mob Psycho 100,Slice of Life,Brand New,Maya,Walk-in,Seven Seas,414.44,2,34,2023-01-28,2023-01-20
+TXN-00709,Black Clover,Drama,Brand New,GCash,Walk-in,Dark Horse,164.59,1,24,2024-02-08,2024-01-25
+TXN-00710,One-Punch Man,Action,Brand New,Credit Card,Walk-in,Dark Horse,356.68,2,32,2024-08-29,2024-08-18
+TXN-00711,Berserk,Sports,Brand New,Cash,Online,Viz Media,392.1,3,1,2024-07-31,2024-07-04
+TXN-00712,Death Note,Comedy,Second-Hand,Maya,Walk-in,Shueisha,318.04,5,8,2024-11-09,2024-10-25
+TXN-00713,Naruto,Romance,Brand New,Maya,Walk-in,Viz Media,262.21,4,45,2023-01-28,2023-01-15
+TXN-00714,JoJo's Bizarre Adventure,Drama,Brand New,Cash,Walk-in,Dark Horse,235.33,2,23,2023-03-27,2023-03-13
+TXN-00715,Chainsaw Man,Sci-Fi,Brand New,Cash,Walk-in,Kodansha,206.99,3,47,2024-10-20,2024-09-26
+TXN-00716,Tokyo Ghoul,Drama,Brand New,Cash,Walk-in,Dark Horse,468.29,4,40,2024-03-14,2024-03-10
+TXN-00717,Attack on Titan,Fantasy,Second-Hand,Cash,Walk-in,Kadokawa,423.78,4,12,2023-05-19,2023-05-08
+TXN-00718,Chainsaw Man,Slice of Life,Brand New,Debit Card,Walk-in,Seven Seas,484.26,2,12,2024-04-17,2024-04-03
+TXN-00719,JoJo's Bizarre Adventure,Slice of Life,Second-Hand,GCash,Walk-in,Seven Seas,105.93,1,46,2023-07-06,2023-06-25
+TXN-00720,Demon Slayer,Romance,Brand New,Cash,Online,Yen Press,378.89,2,47,2023-02-21,2023-01-30
+TXN-00721,Naruto,Romance,Brand New,GCash,Online,Dark Horse,472.25,3,15,2023-09-24,2023-09-15
+TXN-00722,Attack on Titan,Fantasy,Second-Hand,Maya,Walk-in,Dark Horse,131.55,4,41,2024-01-24,2024-01-12
+TXN-00723,Spy x Family,Action,Brand New,Credit Card,Walk-in,Seven Seas,79.92,2,19,2023-12-02,2023-11-27
+TXN-00724,Attack on Titan,Comedy,Second-Hand,GCash,Walk-in,Yen Press,383.5,1,26,2023-08-05,2023-07-14
+TXN-00725,Naruto,Sports,Brand New,Cash,Online,Kadokawa,308.51,2,29,2024-04-10,2024-03-11
+TXN-00726,Black Clover,Sports,Second-Hand,Maya,Walk-in,Shueisha,428.82,5,22,2023-12-01,2023-11-15
+TXN-00727,Berserk,Horror,Brand New,Debit Card,Walk-in,Dark Horse,112.9,1,40,2023-12-12,2023-12-09
+TXN-00728,Fullmetal Alchemist,Horror,Brand New,Cash,Online,Seven Seas,407.87,3,21,2024-01-24,2024-01-21
+TXN-00729,Mob Psycho 100,Action,Second-Hand,Cash,Walk-in,Viz Media,140.73,4,38,2023-10-12,2023-09-15
+TXN-00730,Attack on Titan,Horror,Second-Hand,Cash,Walk-in,Dark Horse,123.65,2,20,2024-03-07,2024-03-04
+TXN-00731,One Piece,Horror,Second-Hand,Cash,Walk-in,Viz Media,123.92,1,29,2023-09-16,2023-09-13
+TXN-00732,Vinland Saga,Fantasy,Second-Hand,GCash,Online,Kadokawa,416.56,5,4,2023-03-25,2023-03-11
+TXN-00733,My Hero Academia,Fantasy,Second-Hand,Maya,Online,Dark Horse,349.34,1,7,2024-04-26,2024-04-22
+TXN-00734,Dragon Ball,Horror,Brand New,GCash,Online,Seven Seas,285.38,5,28,2023-01-20,2022-12-27
+TXN-00735,Naruto,Drama,Brand New,Debit Card,Walk-in,Kadokawa,211.47,3,28,2024-07-06,2024-06-12
+TXN-00736,Jujutsu Kaisen,Mystery,Brand New,GCash,Walk-in,Kadokawa,444.74,4,4,2023-02-23,2023-02-11
+TXN-00737,One-Punch Man,Mystery,Brand New,Credit Card,Online,Shueisha,226.6,3,22,2023-12-25,2023-11-29
+TXN-00738,My Hero Academia,Action,Brand New,Credit Card,Online,Dark Horse,417.47,2,12,2023-08-18,2023-08-13
+TXN-00739,Vinland Saga,Sports,Brand New,Cash,Walk-in,Viz Media,247.61,1,45,2024-10-27,2024-10-09
+TXN-00740,Spy x Family,Romance,Brand New,GCash,Online,Viz Media,219.62,5,3,2023-03-12,2023-03-10
+TXN-00741,Mob Psycho 100,Action,Second-Hand,Credit Card,Walk-in,Dark Horse,258.21,5,22,2024-10-29,2024-10-10
+TXN-00742,One-Punch Man,Horror,Brand New,Cash,Walk-in,Yen Press,185.62,1,44,2023-02-11,2023-01-24
+TXN-00743,Black Clover,Fantasy,Brand New,GCash,Online,Shueisha,386.42,1,2,2023-02-01,2023-01-14
+TXN-00744,Hunter x Hunter,Slice of Life,Brand New,GCash,Walk-in,Shueisha,276.22,2,24,2023-09-11,2023-08-31
+TXN-00745,Fullmetal Alchemist,Drama,Second-Hand,Maya,Online,Shueisha,154.5,3,34,2023-07-24,2023-07-02
+TXN-00746,Death Note,Sci-Fi,Second-Hand,GCash,Walk-in,Viz Media,454.81,5,27,2023-01-21,2023-01-17
+TXN-00747,Hunter x Hunter,Fantasy,Brand New,Debit Card,Walk-in,Kadokawa,222.75,2,41,2024-09-28,2024-09-14
+TXN-00748,JoJo's Bizarre Adventure,Mystery,Brand New,GCash,Online,Seven Seas,294.6,3,1,2023-06-06,2023-05-25
+TXN-00749,One Piece,Fantasy,Brand New,Credit Card,Online,Yen Press,457.91,2,8,2023-09-02,2023-08-05
+TXN-00750,Demon Slayer,Drama,Brand New,GCash,Walk-in,Shueisha,330.91,5,23,2023-05-10,2023-04-18
+TXN-00751,Attack on Titan,Romance,Brand New,Debit Card,Walk-in,Viz Media,102.6,1,38,2024-04-29,2024-04-04
+TXN-00752,Fullmetal Alchemist,Horror,Brand New,GCash,Online,Viz Media,472.92,1,6,2024-11-16,2024-11-02
+TXN-00753,Attack on Titan,Slice of Life,Brand New,Credit Card,Walk-in,Kadokawa,332.47,3,22,2023-04-28,2023-03-31
+TXN-00754,Black Clover,Mystery,Brand New,Credit Card,Online,Dark Horse,200.71,4,25,2024-07-31,2024-07-01
+TXN-00755,One-Punch Man,Mystery,Second-Hand,GCash,Online,Dark Horse,112.67,3,18,2023-08-12,2023-07-19
+TXN-00756,Fullmetal Alchemist,Comedy,Second-Hand,Cash,Walk-in,Seven Seas,407.31,4,17,2024-04-21,2024-04-19
+TXN-00757,JoJo's Bizarre Adventure,Sports,Brand New,Cash,Walk-in,Seven Seas,329.03,2,12,2024-12-17,2024-12-07
+TXN-00758,JoJo's Bizarre Adventure,Romance,Brand New,Cash,Walk-in,Shueisha,290.06,2,6,2023-09-20,2023-08-31
+TXN-00759,Chainsaw Man,Mystery,Brand New,Debit Card,Online,Seven Seas,452.25,5,26,2024-01-13,2024-01-03
+TXN-00760,My Hero Academia,Sports,Brand New,Cash,Walk-in,Shueisha,404.87,4,27,2023-06-21,2023-06-09
+TXN-00761,Bleach,Mystery,Second-Hand,Cash,Walk-in,Yen Press,118.25,5,8,2024-09-12,2024-09-08
+TXN-00762,Hunter x Hunter,Horror,Brand New,Credit Card,Walk-in,Seven Seas,190.27,1,19,2024-09-13,2024-08-25
+TXN-00763,One Piece,Sports,Second-Hand,GCash,Online,Kadokawa,161.82,4,42,2023-04-28,2023-04-11
+TXN-00764,Bleach,Drama,Brand New,GCash,Walk-in,Shueisha,384.78,3,1,2023-06-17,2023-06-10
+TXN-00765,Berserk,Comedy,Second-Hand,Cash,Walk-in,Kadokawa,65.09,1,29,2023-11-15,2023-11-10
+TXN-00766,One Piece,Horror,Brand New,Maya,Online,Viz Media,306.45,1,45,2023-04-21,2023-03-30
+TXN-00767,Hunter x Hunter,Drama,Second-Hand,Debit Card,Online,Shueisha,393.11,3,49,2024-08-15,2024-07-30
+TXN-00768,Demon Slayer,Slice of Life,Brand New,Debit Card,Online,Viz Media,444.54,1,35,2023-01-27,2023-01-19
+TXN-00769,Tokyo Ghoul,Romance,Brand New,GCash,Walk-in,Kodansha,203.94,4,40,2023-11-16,2023-10-19
+TXN-00770,My Hero Academia,Romance,Brand New,Credit Card,Walk-in,Kadokawa,419.57,5,14,2024-08-12,2024-08-08
+TXN-00771,Vinland Saga,Sci-Fi,Brand New,Cash,Online,Kodansha,99.78,1,35,2024-11-24,2024-11-12
+TXN-00772,Demon Slayer,Sci-Fi,Second-Hand,Cash,Walk-in,Shueisha,430.9,4,48,2024-01-20,2023-12-23
+TXN-00773,One-Punch Man,Sports,Second-Hand,Cash,Online,Viz Media,107.37,2,45,2024-02-11,2024-01-24
+TXN-00774,Fullmetal Alchemist,Romance,Second-Hand,GCash,Online,Shueisha,228.78,4,20,2023-07-23,2023-07-11
+TXN-00775,One-Punch Man,Sports,Brand New,GCash,Walk-in,Kodansha,408.78,5,49,2023-03-19,2023-03-15
+TXN-00776,Chainsaw Man,Sci-Fi,Second-Hand,GCash,Online,Shueisha,117.46,4,13,2024-08-29,2024-08-04
+TXN-00777,Mob Psycho 100,Slice of Life,Brand New,Cash,Online,Yen Press,153.16,3,38,2024-12-08,2024-11-29
+TXN-00778,One-Punch Man,Mystery,Brand New,GCash,Walk-in,Dark Horse,375.01,5,49,2024-10-04,2024-09-15
+TXN-00779,Bleach,Drama,Brand New,Credit Card,Walk-in,Kodansha,374.02,2,46,2023-09-06,2023-08-29
+TXN-00780,Vinland Saga,Fantasy,Brand New,GCash,Walk-in,Shueisha,338.52,3,49,2023-04-15,2023-03-20
+TXN-00781,One Piece,Sports,Brand New,Credit Card,Walk-in,Viz Media,362.28,4,8,2024-12-14,2024-11-30
+TXN-00782,One Piece,Slice of Life,Brand New,Cash,Walk-in,Shueisha,294.23,5,43,2023-11-05,2023-10-08
+TXN-00783,Bleach,Drama,Brand New,Debit Card,Online,Viz Media,163.31,2,20,2024-12-01,2024-11-13
+TXN-00784,Demon Slayer,Romance,Second-Hand,GCash,Online,Dark Horse,205.56,3,33,2024-09-06,2024-08-12
+TXN-00785,Vinland Saga,Mystery,Brand New,Cash,Walk-in,Shueisha,131.72,2,26,2023-05-04,2023-04-07
+TXN-00786,Hunter x Hunter,Drama,Brand New,Cash,Walk-in,Seven Seas,458.8,4,39,2024-08-02,2024-07-13
+TXN-00787,Fullmetal Alchemist,Comedy,Brand New,Credit Card,Online,Seven Seas,312.53,2,21,2023-02-12,2023-01-23
+TXN-00788,Naruto,Sci-Fi,Brand New,Debit Card,Walk-in,Dark Horse,230.38,1,49,2023-12-22,2023-11-30
+TXN-00789,Berserk,Drama,Brand New,GCash,Online,Kodansha,257.9,3,42,2024-06-29,2024-06-08
+TXN-00790,Demon Slayer,Fantasy,Brand New,Cash,Walk-in,Viz Media,476.28,2,43,2024-03-14,2024-02-25
+TXN-00791,Fullmetal Alchemist,Slice of Life,Brand New,Debit Card,Walk-in,Seven Seas,119.01,4,41,2024-11-08,2024-11-07
+TXN-00792,Dragon Ball,Mystery,Second-Hand,Credit Card,Walk-in,Yen Press,313.8,4,9,2024-01-15,2023-12-26
+TXN-00793,One Piece,Horror,Brand New,GCash,Online,Kodansha,277.65,2,24,2023-03-12,2023-02-10
+TXN-00794,Dragon Ball,Drama,Second-Hand,GCash,Walk-in,Viz Media,325.15,4,37,2024-06-02,2024-05-11
+TXN-00795,Naruto,Action,Brand New,Cash,Online,Dark Horse,58.15,5,49,2024-10-25,2024-09-28
+TXN-00796,Mob Psycho 100,Fantasy,Brand New,Credit Card,Walk-in,Seven Seas,442.46,5,41,2023-12-16,2023-11-23
+TXN-00797,Hunter x Hunter,Fantasy,Second-Hand,GCash,Walk-in,Kadokawa,469.45,5,17,2023-01-13,2023-01-04
+TXN-00798,Vinland Saga,Action,Brand New,Maya,Walk-in,Shueisha,304.31,1,24,2024-03-06,2024-03-05
+TXN-00799,Mob Psycho 100,Comedy,Brand New,GCash,Online,Dark Horse,363.49,2,21,2024-05-16,2024-05-10
+TXN-00800,Berserk,Horror,Second-Hand,GCash,Online,Viz Media,465.12,1,39,2023-04-19,2023-04-10
+TXN-00801,Dragon Ball,Sci-Fi,Brand New,GCash,Walk-in,Viz Media,368.26,4,41,2024-03-19,2024-02-25
+TXN-00802,One Piece,Slice of Life,Second-Hand,Maya,Walk-in,Viz Media,118.64,1,39,2024-01-06,2023-12-12
+TXN-00803,Jujutsu Kaisen,Mystery,Brand New,Debit Card,Walk-in,Viz Media,309.33,4,13,2024-10-12,2024-10-02
+TXN-00804,Naruto,Slice of Life,Second-Hand,GCash,Walk-in,Shueisha,323.02,4,11,2024-04-15,2024-03-16
+TXN-00805,JoJo's Bizarre Adventure,Horror,Brand New,Credit Card,Walk-in,Kodansha,240.86,3,46,2024-12-25,2024-12-14
+TXN-00806,Jujutsu Kaisen,Slice of Life,Brand New,GCash,Online,Yen Press,381.4,5,19,2023-06-06,2023-05-25
+TXN-00807,Dragon Ball,Action,Brand New,GCash,Online,Kadokawa,470.47,4,11,2024-03-21,2024-03-20
+TXN-00808,My Hero Academia,Fantasy,Brand New,Cash,Walk-in,Shueisha,466.51,3,13,2023-06-30,2023-06-24
+TXN-00809,JoJo's Bizarre Adventure,Slice of Life,Brand New,GCash,Walk-in,Viz Media,252.88,5,46,2024-06-18,2024-05-21
+TXN-00810,Fullmetal Alchemist,Sports,Brand New,Cash,Online,Shueisha,100.96,4,45,2024-10-28,2024-10-23
+TXN-00811,Dragon Ball,Drama,Brand New,Maya,Online,Dark Horse,493.18,4,1,2023-10-04,2023-09-15
+TXN-00812,Mob Psycho 100,Horror,Brand New,GCash,Walk-in,Yen Press,427.5,1,40,2024-09-22,2024-08-31
+TXN-00813,Naruto,Comedy,Brand New,Maya,Walk-in,Viz Media,106.1,1,44,2024-07-05,2024-06-22
+TXN-00814,Hunter x Hunter,Sports,Second-Hand,GCash,Walk-in,Kadokawa,464.38,5,19,2024-05-10,2024-05-07
+TXN-00815,Dragon Ball,Action,Brand New,Credit Card,Walk-in,Viz Media,441.45,4,12,2024-04-21,2024-04-16
+TXN-00816,Fullmetal Alchemist,Romance,Brand New,GCash,Walk-in,Yen Press,283.48,2,8,2024-03-22,2024-02-27
+TXN-00817,Jujutsu Kaisen,Action,Brand New,Cash,Walk-in,Kadokawa,316.07,1,8,2024-08-29,2024-08-08
+TXN-00818,Spy x Family,Comedy,Brand New,GCash,Online,Yen Press,229.55,5,45,2023-10-02,2023-10-01
+TXN-00819,Hunter x Hunter,Comedy,Second-Hand,Cash,Walk-in,Kadokawa,74.64,4,12,2023-11-27,2023-11-24
+TXN-00820,Demon Slayer,Sports,Brand New,Credit Card,Walk-in,Kodansha,200.84,4,48,2023-09-09,2023-08-16
+TXN-00821,Berserk,Drama,Second-Hand,GCash,Walk-in,Seven Seas,411.28,2,33,2023-03-30,2023-03-13
+TXN-00822,Demon Slayer,Horror,Brand New,Credit Card,Online,Kodansha,52.08,5,45,2023-10-13,2023-10-06
+TXN-00823,JoJo's Bizarre Adventure,Sci-Fi,Second-Hand,Cash,Online,Shueisha,200.07,4,26,2024-04-06,2024-03-24
+TXN-00824,Hunter x Hunter,Fantasy,Brand New,Cash,Walk-in,Shueisha,229.18,1,39,2023-09-07,2023-08-24
+TXN-00825,Black Clover,Sports,Second-Hand,GCash,Walk-in,Kadokawa,291.83,2,28,2024-04-20,2024-04-05
+TXN-00826,Black Clover,Comedy,Brand New,Maya,Online,Viz Media,463.94,5,5,2024-08-06,2024-07-26
+TXN-00827,Bleach,Romance,Brand New,Credit Card,Walk-in,Seven Seas,205.86,2,8,2024-09-16,2024-09-10
+TXN-00828,One-Punch Man,Mystery,Brand New,GCash,Walk-in,Dark Horse,206.13,1,25,2024-11-15,2024-11-03
+TXN-00829,Vinland Saga,Comedy,Brand New,GCash,Walk-in,Dark Horse,381.88,5,27,2024-01-24,2024-01-14
+TXN-00830,Vinland Saga,Drama,Second-Hand,Cash,Walk-in,Viz Media,253.5,2,46,2023-12-11,2023-11-17
+TXN-00831,Dragon Ball,Drama,Brand New,Maya,Walk-in,Viz Media,151.07,3,23,2023-01-30,2023-01-19
+TXN-00832,Fullmetal Alchemist,Comedy,Brand New,Credit Card,Online,Kodansha,253.6,1,30,2024-05-21,2024-04-26
+TXN-00833,Mob Psycho 100,Drama,Second-Hand,Cash,Online,Dark Horse,113.39,1,45,2023-11-29,2023-11-10
+TXN-00834,JoJo's Bizarre Adventure,Sports,Brand New,GCash,Walk-in,Kadokawa,129.37,1,47,2023-07-06,2023-06-16
+TXN-00835,Tokyo Ghoul,Comedy,Second-Hand,Cash,Online,Yen Press,274.27,3,23,2024-05-14,2024-05-11
+TXN-00836,Fullmetal Alchemist,Comedy,Second-Hand,Maya,Walk-in,Shueisha,238.52,3,49,2023-08-06,2023-07-08
+TXN-00837,Hunter x Hunter,Horror,Brand New,Cash,Walk-in,Yen Press,461.68,4,47,2023-12-30,2023-12-28
+TXN-00838,Black Clover,Fantasy,Second-Hand,Credit Card,Online,Kodansha,213.08,2,20,2023-09-22,2023-09-17
+TXN-00839,One-Punch Man,Romance,Brand New,Cash,Online,Dark Horse,311.26,4,18,2023-12-15,2023-12-09
+TXN-00840,Jujutsu Kaisen,Drama,Brand New,Credit Card,Walk-in,Seven Seas,334.52,2,18,2023-10-14,2023-09-19
+TXN-00841,Death Note,Horror,Brand New,Credit Card,Walk-in,Viz Media,55.89,3,2,2024-09-02,2024-08-13
+TXN-00842,My Hero Academia,Sci-Fi,Brand New,Credit Card,Online,Seven Seas,348.59,3,4,2024-12-19,2024-12-17
+TXN-00843,JoJo's Bizarre Adventure,Sci-Fi,Second-Hand,Credit Card,Online,Seven Seas,130.12,4,30,2023-10-10,2023-09-18
+TXN-00844,Vinland Saga,Slice of Life,Second-Hand,Debit Card,Online,Dark Horse,482.48,5,33,2024-07-23,2024-07-20
+TXN-00845,One-Punch Man,Sports,Brand New,Cash,Walk-in,Kadokawa,116.9,4,36,2023-01-11,2023-01-02
+TXN-00846,Vinland Saga,Sports,Brand New,GCash,Walk-in,Kodansha,236.58,2,18,2024-06-13,2024-05-29
+TXN-00847,Naruto,Action,Second-Hand,Cash,Walk-in,Viz Media,88.41,4,37,2023-07-15,2023-06-23
+TXN-00848,Spy x Family,Romance,Brand New,Maya,Walk-in,Yen Press,498.59,1,19,2023-03-29,2023-03-15
+TXN-00849,Attack on Titan,Comedy,Brand New,GCash,Online,Kadokawa,275.99,2,47,2023-09-05,2023-08-20
+TXN-00850,Tokyo Ghoul,Drama,Brand New,Credit Card,Walk-in,Yen Press,317.92,2,28,2024-02-21,2024-02-01
+TXN-00851,Berserk,Romance,Second-Hand,Credit Card,Walk-in,Shueisha,80.18,5,40,2024-05-15,2024-04-30
+TXN-00852,One Piece,Slice of Life,Brand New,Cash,Online,Kodansha,387.48,3,20,2024-07-22,2024-07-08
+TXN-00853,Death Note,Action,Second-Hand,Cash,Walk-in,Kadokawa,144.46,2,49,2023-09-04,2023-08-26
+TXN-00854,Tokyo Ghoul,Horror,Second-Hand,Cash,Walk-in,Kadokawa,454.12,3,33,2024-12-08,2024-12-01
+TXN-00855,Black Clover,Romance,Brand New,GCash,Online,Yen Press,142.31,4,12,2024-05-02,2024-04-07
+TXN-00856,Bleach,Horror,Brand New,Cash,Online,Viz Media,135.81,1,15,2024-10-23,2024-10-06
+TXN-00857,Naruto,Sci-Fi,Second-Hand,Cash,Online,Shueisha,66.45,5,41,2024-12-29,2024-12-25
+TXN-00858,Tokyo Ghoul,Drama,Brand New,Debit Card,Walk-in,Yen Press,262.43,3,39,2024-05-17,2024-05-05
+TXN-00859,Berserk,Slice of Life,Second-Hand,Maya,Online,Kadokawa,304.18,2,2,2024-04-03,2024-03-20
+TXN-00860,Black Clover,Comedy,Second-Hand,GCash,Online,Kodansha,79.57,3,29,2023-01-18,2023-01-14
+TXN-00861,Berserk,Drama,Brand New,GCash,Walk-in,Kadokawa,398.99,2,41,2023-04-06,2023-03-27
+TXN-00862,Hunter x Hunter,Fantasy,Second-Hand,Cash,Walk-in,Dark Horse,253.98,3,10,2023-10-29,2023-10-07
+TXN-00863,Black Clover,Sports,Second-Hand,Credit Card,Online,Kodansha,285.98,2,2,2023-08-15,2023-07-24
+TXN-00864,Demon Slayer,Slice of Life,Second-Hand,Debit Card,Walk-in,Kodansha,248.34,4,11,2024-02-19,2024-01-31
+TXN-00865,Mob Psycho 100,Romance,Brand New,Cash,Online,Kadokawa,230.34,2,13,2024-12-09,2024-11-23
+TXN-00866,Dragon Ball,Drama,Brand New,Cash,Walk-in,Viz Media,301.84,2,10,2023-09-07,2023-08-21
+TXN-00867,Jujutsu Kaisen,Mystery,Brand New,Credit Card,Walk-in,Kodansha,119.86,1,14,2023-11-10,2023-10-19
+TXN-00868,Spy x Family,Sports,Second-Hand,Credit Card,Walk-in,Dark Horse,131.87,2,18,2024-11-10,2024-10-31
+TXN-00869,Bleach,Sports,Brand New,Cash,Online,Yen Press,437.8,1,9,2024-08-18,2024-08-16
+TXN-00870,Hunter x Hunter,Mystery,Second-Hand,Credit Card,Walk-in,Viz Media,475.75,5,39,2024-01-13,2024-01-05
+TXN-00871,Demon Slayer,Action,Brand New,GCash,Walk-in,Viz Media,217.99,1,28,2024-04-29,2024-04-16
+TXN-00872,Naruto,Action,Brand New,GCash,Online,Viz Media,171.84,4,3,2024-07-20,2024-06-30
+TXN-00873,Spy x Family,Mystery,Brand New,Credit Card,Online,Kodansha,339.8,1,20,2024-06-27,2024-06-25
+TXN-00874,Death Note,Fantasy,Second-Hand,Debit Card,Online,Viz Media,233.93,5,6,2023-12-19,2023-12-18
+TXN-00875,Mob Psycho 100,Sci-Fi,Brand New,GCash,Walk-in,Kadokawa,61.42,4,27,2024-03-11,2024-03-04
+TXN-00876,Spy x Family,Mystery,Brand New,Maya,Walk-in,Viz Media,120.27,3,2,2024-07-17,2024-07-07
+TXN-00877,Hunter x Hunter,Sci-Fi,Brand New,GCash,Online,Dark Horse,372.19,3,29,2023-12-05,2023-11-28
+TXN-00878,JoJo's Bizarre Adventure,Drama,Second-Hand,Credit Card,Online,Shueisha,346.52,1,38,2023-12-27,2023-12-02
+TXN-00879,Fullmetal Alchemist,Fantasy,Brand New,GCash,Walk-in,Dark Horse,62.19,1,3,2024-12-20,2024-12-15
+TXN-00880,Demon Slayer,Slice of Life,Brand New,Debit Card,Walk-in,Kodansha,149.89,5,16,2024-04-09,2024-03-15
+TXN-00881,Tokyo Ghoul,Sci-Fi,Second-Hand,Maya,Online,Viz Media,153.98,5,30,2023-10-05,2023-09-26
+TXN-00882,My Hero Academia,Sports,Second-Hand,Cash,Walk-in,Viz Media,352.35,2,40,2023-11-10,2023-10-31
+TXN-00883,JoJo's Bizarre Adventure,Drama,Second-Hand,Maya,Online,Kadokawa,58.87,5,2,2023-09-15,2023-09-04
+TXN-00884,Naruto,Sports,Brand New,Debit Card,Walk-in,Yen Press,96.85,2,17,2023-08-25,2023-08-21
+TXN-00885,Attack on Titan,Fantasy,Brand New,Credit Card,Walk-in,Viz Media,409.96,4,41,2023-05-04,2023-05-03
+TXN-00886,Fullmetal Alchemist,Sci-Fi,Second-Hand,Cash,Online,Seven Seas,130.35,1,12,2023-07-17,2023-07-01
+TXN-00887,Black Clover,Horror,Brand New,Debit Card,Walk-in,Dark Horse,343.74,4,35,2023-11-20,2023-10-27
+TXN-00888,One Piece,Fantasy,Second-Hand,Debit Card,Walk-in,Kodansha,157.18,5,43,2023-05-03,2023-04-19
+TXN-00889,Tokyo Ghoul,Fantasy,Brand New,Cash,Walk-in,Shueisha,94.75,4,1,2024-07-02,2024-06-26
+TXN-00890,Demon Slayer,Horror,Brand New,Maya,Walk-in,Viz Media,159.43,4,45,2024-12-07,2024-12-02
+TXN-00891,Death Note,Drama,Brand New,Cash,Online,Shueisha,375.02,4,15,2023-07-09,2023-06-26
+TXN-00892,Dragon Ball,Sci-Fi,Brand New,Cash,Online,Viz Media,435.06,5,26,2023-07-16,2023-06-28
+TXN-00893,Black Clover,Sci-Fi,Brand New,GCash,Online,Kodansha,423.6,4,37,2023-08-10,2023-07-18
+TXN-00894,Tokyo Ghoul,Sports,Brand New,GCash,Walk-in,Yen Press,228.73,2,21,2024-05-10,2024-05-02
+TXN-00895,Attack on Titan,Fantasy,Second-Hand,Credit Card,Walk-in,Dark Horse,350.64,5,49,2023-10-11,2023-09-24
+TXN-00896,Vinland Saga,Fantasy,Brand New,Cash,Walk-in,Kodansha,142.24,4,31,2024-08-26,2024-08-08
+TXN-00897,Black Clover,Comedy,Second-Hand,Maya,Online,Shueisha,181.92,5,25,2024-06-21,2024-05-25
+TXN-00898,One Piece,Slice of Life,Second-Hand,Cash,Online,Viz Media,453.35,3,23,2024-09-03,2024-08-12
+TXN-00899,Tokyo Ghoul,Fantasy,Brand New,Cash,Online,Shueisha,55.85,2,24,2023-10-17,2023-09-21
+TXN-00900,Jujutsu Kaisen,Romance,Brand New,Cash,Walk-in,Dark Horse,88.48,4,38,2023-04-13,2023-04-01
+TXN-00901,Dragon Ball,Slice of Life,Second-Hand,GCash,Walk-in,Seven Seas,143.55,3,28,2023-07-18,2023-07-15
+TXN-00902,My Hero Academia,Romance,Brand New,Maya,Walk-in,Kodansha,61.94,3,21,2023-10-31,2023-10-18
+TXN-00903,Tokyo Ghoul,Sci-Fi,Second-Hand,Credit Card,Walk-in,Shueisha,131.65,5,43,2023-08-21,2023-07-24
+TXN-00904,Dragon Ball,Slice of Life,Second-Hand,Debit Card,Walk-in,Shueisha,312.37,3,18,2024-01-05,2023-12-12
+TXN-00905,Vinland Saga,Fantasy,Second-Hand,Cash,Online,Dark Horse,239.64,2,36,2023-07-03,2023-07-01
+TXN-00906,Naruto,Horror,Brand New,GCash,Walk-in,Seven Seas,451.7,2,35,2023-11-06,2023-10-23
+TXN-00907,Bleach,Sports,Brand New,GCash,Walk-in,Viz Media,417.85,1,45,2023-01-15,2023-01-14
+TXN-00908,Spy x Family,Romance,Brand New,GCash,Walk-in,Seven Seas,203.82,2,9,2024-12-26,2024-12-11
+TXN-00909,Demon Slayer,Slice of Life,Brand New,Cash,Online,Shueisha,166.74,3,38,2024-06-30,2024-05-31
+TXN-00910,Black Clover,Fantasy,Second-Hand,Credit Card,Online,Dark Horse,220.86,2,30,2023-05-10,2023-05-07
+TXN-00911,Naruto,Slice of Life,Brand New,GCash,Online,Viz Media,315.63,5,44,2023-10-08,2023-09-10
+TXN-00912,Demon Slayer,Fantasy,Brand New,Credit Card,Online,Seven Seas,170.63,1,34,2023-02-16,2023-02-05
+TXN-00913,Demon Slayer,Fantasy,Second-Hand,GCash,Walk-in,Seven Seas,330.87,3,32,2023-02-25,2023-02-06
+TXN-00914,Berserk,Fantasy,Brand New,Cash,Online,Seven Seas,234.24,1,3,2024-07-20,2024-07-06
+TXN-00915,Attack on Titan,Comedy,Brand New,Credit Card,Walk-in,Yen Press,298.42,3,3,2023-10-27,2023-10-08
+TXN-00916,JoJo's Bizarre Adventure,Sports,Brand New,Cash,Walk-in,Viz Media,246.26,5,28,2024-12-15,2024-12-02
+TXN-00917,Hunter x Hunter,Horror,Second-Hand,Debit Card,Online,Seven Seas,182.51,1,44,2023-05-10,2023-04-17
+TXN-00918,Black Clover,Horror,Brand New,Credit Card,Online,Yen Press,476.8,4,15,2024-10-15,2024-09-24
+TXN-00919,My Hero Academia,Slice of Life,Second-Hand,Cash,Walk-in,Kodansha,393.62,3,41,2024-05-17,2024-05-03
+TXN-00920,Bleach,Slice of Life,Brand New,Maya,Walk-in,Dark Horse,113.05,4,23,2023-04-16,2023-04-06
+TXN-00921,Jujutsu Kaisen,Fantasy,Second-Hand,GCash,Walk-in,Seven Seas,440.81,1,40,2023-01-13,2023-01-09
+TXN-00922,Vinland Saga,Comedy,Second-Hand,Cash,Walk-in,Viz Media,269.34,4,11,2024-08-10,2024-07-28
+TXN-00923,One-Punch Man,Fantasy,Brand New,Credit Card,Walk-in,Yen Press,452.55,4,48,2023-10-19,2023-10-18
+TXN-00924,Mob Psycho 100,Comedy,Brand New,Cash,Walk-in,Yen Press,409.93,1,32,2024-04-25,2024-04-14
+TXN-00925,Bleach,Fantasy,Brand New,Debit Card,Walk-in,Kodansha,241.35,5,36,2024-05-05,2024-04-29
+TXN-00926,Dragon Ball,Romance,Second-Hand,Debit Card,Online,Kadokawa,60.11,4,33,2024-03-27,2024-03-01
+TXN-00927,Attack on Titan,Romance,Brand New,Maya,Walk-in,Dark Horse,170.9,4,24,2023-12-15,2023-11-25
+TXN-00928,Naruto,Sci-Fi,Brand New,GCash,Walk-in,Kadokawa,293.74,5,39,2023-07-08,2023-06-23
+TXN-00929,Dragon Ball,Fantasy,Brand New,GCash,Walk-in,Viz Media,335.07,4,34,2023-02-22,2023-01-26
+TXN-00930,Chainsaw Man,Sports,Brand New,Credit Card,Online,Dark Horse,166.05,4,28,2023-09-16,2023-08-24
+TXN-00931,Hunter x Hunter,Sci-Fi,Brand New,Cash,Walk-in,Kodansha,112.71,4,37,2024-05-04,2024-04-04
+TXN-00932,One-Punch Man,Slice of Life,Brand New,GCash,Walk-in,Viz Media,425.72,2,7,2023-04-27,2023-04-15
+TXN-00933,Jujutsu Kaisen,Drama,Brand New,GCash,Walk-in,Dark Horse,492.98,5,4,2023-03-08,2023-03-05
+TXN-00934,Spy x Family,Fantasy,Second-Hand,Cash,Online,Dark Horse,286.56,4,37,2024-02-15,2024-02-01
+TXN-00935,Attack on Titan,Romance,Second-Hand,GCash,Online,Kadokawa,127.26,5,1,2024-05-18,2024-04-20
+TXN-00936,Dragon Ball,Drama,Brand New,Debit Card,Online,Viz Media,172.54,3,1,2023-03-17,2023-03-13
+TXN-00937,Spy x Family,Comedy,Second-Hand,Debit Card,Online,Kodansha,58.28,3,47,2024-08-13,2024-08-05
+TXN-00938,Hunter x Hunter,Drama,Second-Hand,Cash,Online,Kodansha,461.43,4,20,2024-10-06,2024-09-22
+TXN-00939,JoJo's Bizarre Adventure,Sports,Second-Hand,Cash,Online,Viz Media,102.99,5,19,2024-12-03,2024-11-14
+TXN-00940,Hunter x Hunter,Fantasy,Brand New,Cash,Walk-in,Viz Media,309.43,5,29,2023-02-24,2023-02-11
+TXN-00941,My Hero Academia,Horror,Brand New,Debit Card,Walk-in,Yen Press,173.32,5,10,2023-06-05,2023-05-19
+TXN-00942,Berserk,Drama,Brand New,Cash,Online,Shueisha,299.38,2,18,2023-06-02,2023-05-30
+TXN-00943,Naruto,Horror,Second-Hand,Credit Card,Walk-in,Kadokawa,343.14,3,28,2024-07-30,2024-07-17
+TXN-00944,JoJo's Bizarre Adventure,Comedy,Brand New,Cash,Walk-in,Viz Media,423.38,5,35,2023-11-08,2023-10-11
+TXN-00945,Fullmetal Alchemist,Sci-Fi,Brand New,Credit Card,Online,Viz Media,142.89,5,43,2023-03-29,2023-03-19
+TXN-00946,Demon Slayer,Horror,Brand New,GCash,Walk-in,Shueisha,54.95,2,47,2023-09-12,2023-08-19
+TXN-00947,Mob Psycho 100,Sci-Fi,Brand New,Credit Card,Online,Shueisha,111.6,2,31,2023-05-02,2023-04-21
+TXN-00948,Jujutsu Kaisen,Romance,Brand New,Cash,Online,Dark Horse,455.01,5,27,2024-07-25,2024-07-17
+TXN-00949,Bleach,Fantasy,Brand New,Credit Card,Walk-in,Seven Seas,443.25,1,11,2024-03-02,2024-02-20
+TXN-00950,My Hero Academia,Drama,Brand New,Cash,Online,Kodansha,318.84,5,49,2024-09-12,2024-08-18
+TXN-00951,Fullmetal Alchemist,Romance,Brand New,Credit Card,Walk-in,Kadokawa,320.23,5,49,2024-09-02,2024-08-27
+TXN-00952,Attack on Titan,Romance,Second-Hand,Debit Card,Walk-in,Dark Horse,349.27,2,38,2024-09-25,2024-09-22
+TXN-00953,Hunter x Hunter,Mystery,Second-Hand,Cash,Walk-in,Viz Media,128.92,2,5,2023-08-20,2023-08-03
+TXN-00954,JoJo's Bizarre Adventure,Action,Second-Hand,Debit Card,Online,Shueisha,461.49,5,8,2024-06-19,2024-05-29
+TXN-00955,Chainsaw Man,Sports,Second-Hand,GCash,Online,Yen Press,238.45,5,34,2024-01-25,2024-01-21
+TXN-00956,Berserk,Sci-Fi,Brand New,Cash,Walk-in,Kodansha,222.41,5,48,2024-04-06,2024-03-20
+TXN-00957,Bleach,Mystery,Brand New,GCash,Online,Dark Horse,283.51,2,12,2024-03-29,2024-03-12
+TXN-00958,Fullmetal Alchemist,Action,Second-Hand,Cash,Walk-in,Yen Press,71.13,5,38,2023-11-01,2023-10-25
+TXN-00959,Vinland Saga,Sports,Brand New,Credit Card,Online,Kodansha,124.83,5,1,2024-08-25,2024-07-27
+TXN-00960,Attack on Titan,Sci-Fi,Brand New,Credit Card,Walk-in,Seven Seas,382.12,4,31,2024-03-15,2024-02-19
+TXN-00961,Jujutsu Kaisen,Fantasy,Brand New,Cash,Online,Seven Seas,87.26,1,4,2023-11-09,2023-10-28
+TXN-00962,Spy x Family,Sports,Brand New,GCash,Walk-in,Yen Press,321.42,3,49,2024-08-05,2024-07-24
+TXN-00963,One-Punch Man,Drama,Brand New,Debit Card,Walk-in,Shueisha,160.41,1,45,2024-09-27,2024-09-03
+TXN-00964,Vinland Saga,Romance,Brand New,Maya,Walk-in,Dark Horse,225.18,4,5,2023-03-03,2023-02-04
+TXN-00965,Berserk,Action,Brand New,GCash,Online,Dark Horse,179.91,3,30,2024-09-16,2024-08-26
+TXN-00966,Jujutsu Kaisen,Action,Second-Hand,Maya,Walk-in,Seven Seas,210.05,5,24,2023-04-12,2023-03-16
+TXN-00967,JoJo's Bizarre Adventure,Action,Brand New,GCash,Online,Kodansha,373.57,4,3,2023-08-01,2023-07-27
+TXN-00968,Death Note,Sci-Fi,Brand New,GCash,Walk-in,Yen Press,183.7,5,11,2024-10-02,2024-09-24
+TXN-00969,One Piece,Drama,Brand New,Debit Card,Walk-in,Shueisha,304.88,2,45,2023-08-05,2023-08-01
+TXN-00970,Attack on Titan,Sports,Second-Hand,GCash,Walk-in,Viz Media,264.22,4,4,2023-09-28,2023-09-23
+TXN-00971,Demon Slayer,Romance,Brand New,GCash,Online,Dark Horse,348.65,2,26,2024-11-07,2024-10-29
+TXN-00972,Chainsaw Man,Drama,Brand New,GCash,Walk-in,Viz Media,471.57,4,27,2023-03-25,2023-03-18
+TXN-00973,Black Clover,Mystery,Brand New,Debit Card,Online,Shueisha,379.66,4,46,2023-06-10,2023-06-04
+TXN-00974,Naruto,Fantasy,Brand New,Debit Card,Online,Seven Seas,146.72,2,43,2023-09-03,2023-08-14
+TXN-00975,JoJo's Bizarre Adventure,Horror,Second-Hand,GCash,Online,Dark Horse,64.03,3,27,2023-06-27,2023-06-22
+TXN-00976,Tokyo Ghoul,Drama,Second-Hand,GCash,Walk-in,Dark Horse,168.02,1,42,2024-07-19,2024-06-24
+TXN-00977,Hunter x Hunter,Mystery,Brand New,GCash,Online,Yen Press,317.79,5,6,2023-03-18,2023-02-21
+TXN-00978,Mob Psycho 100,Romance,Brand New,GCash,Online,Viz Media,73.14,4,15,2023-06-10,2023-05-20
+TXN-00979,Spy x Family,Horror,Second-Hand,Cash,Walk-in,Seven Seas,273.36,5,30,2023-01-03,2022-12-31
+TXN-00980,Hunter x Hunter,Horror,Brand New,Credit Card,Online,Yen Press,318.58,2,42,2024-02-23,2024-02-17
+TXN-00981,Vinland Saga,Drama,Brand New,GCash,Walk-in,Kadokawa,200.41,5,37,2024-04-06,2024-03-12
+TXN-00982,Mob Psycho 100,Action,Brand New,GCash,Walk-in,Viz Media,396.91,2,37,2024-12-06,2024-11-15
+TXN-00983,Dragon Ball,Slice of Life,Second-Hand,Cash,Walk-in,Viz Media,97.97,5,42,2024-08-31,2024-08-15
+TXN-00984,One Piece,Romance,Brand New,Cash,Walk-in,Kadokawa,83.81,1,37,2024-04-26,2024-04-11
+TXN-00985,Fullmetal Alchemist,Action,Brand New,Maya,Walk-in,Shueisha,377.68,1,35,2023-10-26,2023-10-01
+TXN-00986,Hunter x Hunter,Romance,Second-Hand,GCash,Walk-in,Shueisha,272.97,1,23,2023-02-03,2023-01-15
+TXN-00987,Tokyo Ghoul,Slice of Life,Brand New,Cash,Online,Dark Horse,359.78,1,6,2023-08-26,2023-08-01
+TXN-00988,Spy x Family,Fantasy,Brand New,GCash,Walk-in,Kodansha,245.67,1,4,2023-10-23,2023-10-04
+TXN-00989,My Hero Academia,Slice of Life,Second-Hand,GCash,Walk-in,Yen Press,160.88,1,18,2024-12-24,2024-12-09
+TXN-00990,Vinland Saga,Comedy,Brand New,Cash,Walk-in,Kodansha,418.6,2,9,2023-10-17,2023-09-25
+TXN-00991,Mob Psycho 100,Drama,Brand New,GCash,Online,Dark Horse,409.74,4,49,2024-12-20,2024-11-20
+TXN-00992,Vinland Saga,Drama,Brand New,GCash,Online,Kodansha,362.61,5,29,2024-04-09,2024-03-11
+TXN-00993,Death Note,Mystery,Brand New,GCash,Online,Viz Media,172.47,1,13,2023-03-14,2023-02-23
+TXN-00994,Tokyo Ghoul,Action,Brand New,GCash,Online,Viz Media,315.6,2,47,2024-12-04,2024-11-13
+TXN-00995,Fullmetal Alchemist,Mystery,Brand New,GCash,Walk-in,Kadokawa,212.44,2,17,2023-08-28,2023-08-07
+TXN-00996,Vinland Saga,Comedy,Brand New,Maya,Online,Kadokawa,91.21,2,45,2023-09-28,2023-09-08
+TXN-00997,Naruto,Slice of Life,Second-Hand,GCash,Walk-in,Dark Horse,462.79,4,32,2024-10-02,2024-09-21
+TXN-00998,Naruto,Drama,Brand New,Cash,Walk-in,Dark Horse,111.57,5,48,2024-08-26,2024-07-29
+TXN-00999,Mob Psycho 100,Sci-Fi,Brand New,Cash,Online,Seven Seas,477.61,4,22,2024-11-08,2024-10-18
+TXN-01000,Bleach,Slice of Life,Brand New,GCash,Walk-in,Dark Horse,250.7,3,4,2023-07-22,2023-07-11
